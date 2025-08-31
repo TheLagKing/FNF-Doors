@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- To make your own translation file, just copy this file, and name it [translationName].xml -->
+<!-- Never edit shit in < > otherwise it won't work. -->
+<!-- Make sure to never edit the keys, only the values. -->
+<!-- For instance, for key "ez" (line 11), you don't edit "ez", you edit "Easy" since it's the thing that'll show up in game -->
+<!-- The key will always contain what the game needs to "see" your translation file -->
+<!-- TLDR : Change the value and not the key -->
+<root>
+    <generalshit>
+        <engineVersionShit value="Door Engine {0}"/>
+        <gameVersionShit value="FNF : Doors {0}"/>
+        <ez value="관대함"/>
+        <normal value="보통"/>
+        <hard value="전문가"/>
+        <hell value="지옥"/>
+        <heaven value="천국"/>
+        <wip value="개발 중"/>
+        <diffDescriptions>
+            <Easy value="게임의 난이도가 쉬워집니다. 게임을 처음 시작하는 사람들에게 적합합니다.\n모든 것이 더 관대해집니다. 부끄러워 하지마세요!"/>
+            <Normal value="개발자들이 의도한 난이도입니다.\n모든 것이 그래야 하듯, 완벽하게 균형 잡혀있습니다."/>
+            <Hard value="베태랑과 마조히스트들을 위한 난이도 입니다.\n모든 조우는 목숨을 건 사투가 될 것 입니다."/>
+            <Hell value="이 난이도에서 죽음은 자비로운 수준일 것 입니다."/>
+            <Wip value="작업 중입니다. 인내심을 가지고 기다려주세요.\n더 나은 모드를 위해서 열심히 개발 중이랍니다!"/>
+        </diffDescriptions>
+        <ratings>
+            <yousuck value="최악!"/>
+            <shit value="영 좋지 않음"/>
+            <bad value="나쁨"/>
+            <bruh value="별로"/>
+            <meh value="그럭저럭"/>
+            <nice value="좋음"/>
+            <good value="아주 좋음"/>
+            <great value="훌륭함"/>
+            <sick value="멋짐!"/>
+            <perfect value="완벽함!!"/>
+            <ratingsFC>
+                <sfc value="퍼펙트 풀콤"/>
+                <gfc value="굿 풀콤"/>
+                <fc value="풀콤"/>
+                <clear value="클리어"/>
+            </ratingsFC>
+        </ratings>
+        <score value="점수"/>
+        <misses value="놓침"/>
+        <rating value="등급"/>
+        <botplayText value="개못핵"/>
+    </generalshit>
+    <newUI>
+        <!-- Menu names -->
+        <stats value="통계"/>
+        <chooseMods value="수정 사항을 선택하세요"/>
+        <pause value="일시정지"/>
+        <prerun value="시작 전 상점"/>
+        <tutorial value="튜토리얼"/>
+        <glasshatOnline value="GLASSHAT ONLINE"/>
+        <death value="사망!"/>
+        <specialThanks value="특별 감사"/>
+        <socials value="소셜"/>
+        <donateMenu value="후원"/>
+
+        <!-- Button names -->
+        <quit value="나가기"/>
+        <showMod value="수정 사항 보이기"/>
+        <reset value="초기화"/>
+        <cancel value="취소"/>
+        <restart value="재시작"/>
+        <options value="설정"/>
+        <resume value="계속하기"/>
+        <play value="플레이"/>
+        <mainmenu value="메인 메뉴"/>
+        <newrun value="새 게임"/>
+        <register value="회원 가입"/>
+        <login value="로그인"/>
+        <modifyAcc value="비밀번호를 잊었나요?"/>
+        <revive value="부활"/>
+        <donateKofi value="KOFI로 기부하기"/>
+        
+        <clickOff value="아무 곳이나 클릭해서 나가기."/>
+        <pressOff value="{0}키를 눌러 진행하기."/>
+        <pressOffMult value="{0} 또는 {1}키를 눌러 진행하기."/>
+        
+        <donateMenuText value="안녕하세요, 저희는 이 모드를 약 3년 동안 개발해왔기 때문에 약간의 현금 기부를 해주신다면 정말 감사하겠습니다. 보답으로 많은 것을 제공할 수는 없지만, 서버에 비용을 지불하고 리더보드를 계속 유지하는 데 도움이 될 것입니다. 그리고 향후 업데이트에서 다른 것들도 고려해 주시면 감사하겠습니다."/>
+    </newUI>
+    <glasshat>
+        <email value="이메일"/>
+        <username value="사용자 이름"/>
+        <password value="비밀번호"/>
+        <passwordInfo value="비밀번호는 8개에서 32개의 사이의 문자로 구성되어야 하며, 최소 1개의 숫자, 1개의 대문자, 1개의 소문자를 포함해야 합니다."/>
+        <info value="Glasshat Online은 FNF입니다 : Doors의 맞춤형 온라인 솔루션입니다!\n개인 데이터가 저장되지 않습니다.\n계정을 사용하면 리더보드에 액세스하고 점수를 게시할 수 있습니다...\n도전과제는 계정을 통해서도 동기화됩니다!"/>
+        
+        <allFields value="모든 항목을 작성해야 합니다."/>
+        <invalidMail value="잘못된 이메일입니다."/>
+        <insecurePass value="비밀번호 조건이 충족되지 않았습니다. 비밀번호는 반드시 8개에서 32개의 문자로 구성되어야 하며, 대문자와 소문자, 숫자가 포함되어야 합니다."/>
+
+        <noScores value="점수를 찾을 수 없습니다."/>
+        <notLoggedIn value="로그인하지 않았습니다.\nGlasshat 로그인은 설정에 있습니다."/>
+        <error value="점수 불러오기 오류.\n디스코드에 보고해 주십시오."/>
+    </glasshat>
+    <death>
+        <revivesLeft value="남은 부활 횟수 : {0}"/>
+        <freeplayRevives value="남은 부활 횟수 : 무제한"/>
+        <modsUsed value="활성화된 수정 사항 : {0}"/>
+        <reviveWarning value="당신은 {0}번 더 부활할 수 있습니다."/>
+        <tips>
+            <!-- Don't translate the type="tip"-->
+            <a60 type="팁">
+                <tip1 _0="아... 빨간 친구.\n뭐라고 불러야할지 모르겠군요..." _1="뭐, 주로 A-60번 방 근처에서 나타나니까..." _2="그냥 A-60이라고 부릅시다. 저도 모르겠네요."/>
+                <tip2 _0="또 A-60이군요..." _1="이 친구를 알아채는게 별로 어렵진 않다고 생각해요." _2="아무튼, 서두르세요. 여기서 끝낼 수는 없어요."/>
+                <tip3 _0="또 A-60이군요..." _1="당신을 할 수 있어요. 전 당신을 믿어요." _2="다음에 또 봅시다. 알겠죠?"/>
+            </a60>
+            <ambush type="팁">
+                <tip1 _0="앰부쉬라 불리는 존재에게 죽었군요..." _1="까다로운 녀석이죠." _2="러쉬에게서 배운 것을 사용하세요!"/>
+                <tip2 _0="또 앰부쉬에게 죽었군요..." _1="그것은 당신이 방심하고 있을 때 다가올 겁니다!" _2="그것은 독특한 비명 소리를 가지고 있습니다. 만약 그것을 들었다면, 준비하세요!"/>
+                <tip3 _0="앰부쉬에게 죽었군요." _1="숨을 수 있는 곳에 숨었다가 나왔다가를 반복하는 것이 좋을 겁니다." _2="당신은 할 수 있을 거예요!"/>
+            </ambush>
+            <elevator type="팁">
+                <tip1 _0="도망칠 수 없었던 것 같군요..." _1="따라하기 어려운 리듬이죠!" _2="당신의 심장 박동에 집중하세요."/>
+                <tip2 _0="도망칠 수 없었던 것 같군요..." _1="당신의 리듬을 조절하세요!" _2="한 번이라도 심장 박동이 어긋난다면, 당신은 끝나는 겁니다!"/>
+                <tip3 _0="도망칠 수 없었던 것 같군요..." _1="가이딩 노트로 당신을 돕도록 노력해 보겠습니다." _2="당신은 할 수 있어요!"/>
+            </elevator>
+            <eyes type="팁">
+                <tip1 _0="아이즈에게 죽었군요..." _1="그들은 빤히 바라보는 것을 좋아하지 않습니다." _2="눈을 감고, 리듬을 믿으세요."/>
+                <tip2 _0="또 아이즈에게 죽었군요..." _1="가능한 오랫동안 눈을 감고 있으세요." _2="그것을 보지만 않으면, 한결 쉬워질 겁니다."/>
+                <tip3 _0="아이즈와 맞서는데 어려움이 있는 것 같군요..." _1="눈을 꼭 감고 있으세요." _2="눈을 빠르게 떴다가 다시 감는 것도 도움이 될 겁니다."/>
+            </eyes>
+            <figure type="팁">
+                <tip1 _0="피규어라 불리는 존재에게 죽었군요..." _1="그것은 앞을 볼 수는 없지만, 소리를 듣고 진동을 감지합니다." _2="심장 박동에 집중하세요."/>
+                <tip2 _0="또 피규어에게 죽었군요..." _1="비록 그것의 눈은 멀었을지 몰라도, 다른 감각은 아주 예민합니다." _2="한 번이라도 심장 박동이 어긋난다면, 당신은 끝나는 겁니다!"/>
+                <tip3 _0="또 다시 피규어에게 죽었군요." _1="가이딩 노트로 당신을 돕도록 노력해 보겠습니다." _2="심장 박동을 조절하는 것은 리듬을 따라잡는 것보다 훨씬 더 중요합니다."/>
+            </figure>
+            <glitch type="팁">
+                <tip1 _0="이상하네요. 당신이 누구에게 죽었는지 알아낼 수 없어요." _1="아무튼, 당신이 당신이 사랑하는 이보다 뒤쳐졌다는 사실은 알았습니다." _2="함께 뭉쳐다니세요!"/>
+                <tip2 _0="이상하네요. 당신이 누구에게 죽었는지 알아낼 수 없어요." _1="아무튼, 당신이 당신이 사랑하는 이보다 뒤쳐졌다는 사실은 알았습니다." _2="이 로비에서 벗어날 방법이 있을 겁니다."/>
+                <tip3 _0="이상하네요. 당신이 누구에게 죽었는지 알아낼 수 없어요." _1="아무튼, 당신이 당신이 사랑하는 이보다 뒤쳐졌다는 사실은 알았습니다." _2="뒷문을 사용해서 탈출해 보세요!"/>
+            </glitch>
+            <halt type="팁">
+                <tip1 _0="할트라고 불리는 존재에게 죽었군요..." _1="그것으로 부터 도망쳐야 합니다!" _2="그러나, 그것은 당신의 앞에 언제든지 나타날 수 있습니다..."/>
+                <tip2 _0="또 할트에게 죽었군요..." _1="당신이 도망칠 때, 그것은 당신의 앞에 언제든지 나타날 수 있습니다." _2="만약 그렇게 된다면, 뒤돌아서 계속 달리세요!"/>
+                <tip3 _0="할트와 맞서는데 어려움이 있는 것 같군요..." _1="그것이 순간이동 할 때면, 시야에 왜곡이 생길 겁니다." _2="그것의 움직임을 예측하세요!"/>
+            </halt>
+            <rush type="팁">
+                <tip1 _0="러쉬에게 죽었군요..." _1="그것이 달려올 때 나타나는 징조를 잘 살피세요." _2="그리고 그것은 달려올 때 소리를 낸답니다."/>
+                <tip2 _0="또 러쉬에게 죽었군요..." _1="불빛을 잘 살피세요." _2="불빛이 그것이 달려오고 있다는 걸 알려줄 겁니다."/>
+                <tip3 _0="러쉬와 맞서는데 어려움이 있는 것 같군요..." _1="그것이 근처에 있을 때, 불빛은 반드시 깜빡거릴 겁니다." _2="만약 그렇게 된다면, 얼른 숨으세요!"/>
+            </rush>
+            <screech type="팁">
+                <tip1 _0="스크리치에게 죽었군요..." _1="그것은 어두운 방에 숨는 것을 좋아합니다." _2="그것이 주변에 있다고 의심되면, 주위를 잘 살피세요."/>
+                <tip2 _0="또 스크리치에게 죽었군요..." _1="그것은 어두운 방에 숨어 있습니다." _2="그것은 당신이 빛을 내는 물건을 들고 있다면, 함부로 덤비지 않을 것입니다."/>
+                <tip3 _0="스크리치와 맞서는데 어려움이 있는 것 같군요..." _1="그것에 맞서 노래할 때는, 당신의 시야가 어두워질 겁니다." _2="그것에 대비하기 위해 빛을 내는 물건을 찾아보세요!"/>
+            </screech>
+            <seek type="팁">
+                <tip1 _0="길을 잃고 시크에게 죽었군요..." _1="리듬에 집중하세요." _2="달리는 동안 리듬을 따라가기 힘들 수 있지만, 당신은 할 수 있어요!"/>
+                <tip2 _0="또 시크에게 죽었군요..." _1="그것이 소리를 지르면, 당신은 불안정해질지도 모릅니다." _2="그것이 유리해지도록 두지 마세요."/>
+                <tip3 _0="거의 다 왔었는데!" _1="시간 낭비는 금물입니다." _2="당신이 가진 모든 기술이 필요할 거예요!"/>
+            </seek>
+            <dupe type="팁">
+                <tip1 _0="듀프에게 죽었군요..." _1="그것은 가짜 문을 만듭니다." _2="반드시 올바른 문을 고르도록 하세요."/>
+                <tip2 _0="또 듀프에게 죽었군요..." _1="그것은 가짜 문을 만들지만, 그렇게 잘 만들진 못합니다." _2="뒤로 돌아갈 수는 없다는 사실을 기억하세요."/>
+                <tip3 _0="듀프와 맞서는데 어려움이 있는 것 같군요..." _1="만약 두 개의 문을 만난다면, 지금 있는 방보다 더 높은 숫자의 문을 고르도록 하세요." _2="만약 작은 숫자의 방으로 가는 문을 본다면, 그건 듀프일 겁니다."/>
+            </dupe>
+            <shadow type="팁">
+                <tip1 _0="섀도우라 불리는 존재에게 죽었군요..." _1="그것은 당신의 앞에 나타나 당신의 생명 에너지를 줄일 겁니다." _2="당신이 도망칠 수 있다고 믿겠습니다."/>
+                <tip2 _0="또 섀도우에게 죽었군요..." _1="그것이 너무 오래 지속된다면 당신의 생명 에너지가 천천히 고갈될 겁니다." _2="떠나달라고 말해보는 건 어떤가요? 떠날 때까지 찔러보는 건요?"/>
+                <tip3 _0="섀도우와 맞서는데 어려움이 있는 것 같군요..." _1="그것이 사라질 때까지 클릭하세요." _2="기억하세요, 사라질 때까지 가능한 한 많이 클릭하세요."/>
+            </shadow>
+            <hide type="팁">
+                <tip1 _0="하이드라 불리는 존재에게 죽었군요..." _1="그것은 당신이 옷장 속에 너무 오래 머물면 나타나는 것 같아요." _2="옷장에서 나오는 것이 도움이 될 것 같습니다."/>
+                <tip2 _0="또 하이드에게 죽었군요..." _1="그것은 옷장 안에 계속 머물면 나타나는 것 같습니다." _2="너무 오래 옷장에 머무는 것을 피하세요."/>
+                <tip3 _0="하이드와 맞서는데 어려움이 있는 것 같군요..." _1="속삭이는 소리가 들리면 옷장에서 나오세요." _2="옷장에서 나왔다가 다시 들어가야 할 수도 있습니다."/>
+            </hide>
+            <void type="팁">
+                <tip1 _0="보이드라 불리는 존재에게 죽었군요..." _1="그것은 항상 당신 뒤로 아주 조금씩 다가올 겁니다." _2="잡히지 마세요!"/>
+                <tip2 _0="또 보이드에게 죽었군요..." _1="그것은 당신이 너무 오랫동안 움직이지 않으면 나타나는 것 같습니다." _2="잡히지 마세요!"/>
+                <tip3 _0="보이드와 맞서는데 어려움이 있는 것 같군요..." _1="의식을 잃기 시작하면 방을 나가 보세요." _2="당신이 움직이기 시작한다면, 그는 당신을 내버려둘 거예요."/>
+            </void>
+            <generalTip _0="리듬을 따라가지 못한 것 같군요..." _1="항상 올바른 순간에 노트를 누르세요!" _2="가이딩 노트로 당신을 돕도록 노력해 보겠습니다."/>
+            <lastLife _0="흐음..." _1="또 다른 사람이 실패한 것 같군요..." _2="밥에게 안부 좀 전해 줄래요?"/>
+        </tips>
+        <reviveWarning value="You have {0} revives left."/>
+    </death>
+    <placeholder value="위치 표시자"/>
+    <credit>
+        <artist value="아티스트"/>
+        <artists value="아티스트"/>
+        <musician value="음악가"/>
+        <musicians value="음악가"/>
+        <chart value="차트"/>
+        <ez value="관대함"/>
+        <normal value="보통"/>
+        <hard value="전문가"/>
+        <hell value="지옥"/>
+    </credit>
+    <newCredit>
+        <art value="그림"/>
+        <music value="음악"/>
+        <chart value="차트"/>
+    </newCredit>
+    <options>
+        <disabled value="비활성화"/>
+        <enabled value="활성화"/>
+        <main>
+            <!-- Try to keep these short -->
+            <language value="언어"/>
+            <glasshat value="Glasshat"/> <!-- Don't translate this one -->
+            <controls value="조작"/>
+            <graphics value="그래픽"/>
+            <visuals value="비주얼"/>
+            <gameplay value="게임 플레이"/>
+        </main>
+        <visuals>
+            <notesplash name="노트 스플래시" desc="만약 이 설정을 끈다면, &quot;멋짐!&quot; 노트를 눌렀을 때, 파티클을 표시하지 않습니다."/>
+            <notesplashAlpha name="스플래시 불투명도" desc="숫자가 높을수록 노트 스플래시가 더 잘 보일 것입니다."/>
+            <hidehud name="HUD 숨기기" desc="이 설정이 켜져 있다면, 대부분의 HUD 요소를 숨깁니다."/>
+            <timebar name="타임 바:" desc="타임 바에 무엇을 표시해야 하나요?"/>
+            <flashinglights name="화려한 조명" desc="만약 번쩍거리는 조명에 예민하다면, 이 옵션을 끄세요!"/>
+            <camerazooms name="카메라 줌" desc="이 옵션을 끈다면, 카메라가 비트에 맞춰 줌 인/아웃 되지 않습니다."/>
+            <camerafollow name="카메라 추적" desc="이 옵션을 끈다면, 카메라가 노트의 방향에 따라 움직이지 않습니다."/>
+            <cameraangle name="카메라 각도" desc="이 옵션을 끈다면, 노트 방향에 따라 카메라가 좌, 우로 회전하지 않습니다."/>
+            <healthslide name="체력 바 슬라이스" desc="이 설정을 켜져 있다면, 체력이 완전히 회복되면 체력 바가 사라지고 체력이 부족할 때만 다시 나타납니다."/>
+            <healthicons name="Icons on Healthbar" desc="If enabled, puts the icons on the healthbar rather than on the side(&quot;Vanilla&quot; or &quot;Ourple Guy Style&quot;)."/>
+            <scoretxtzoom name="Score Text Zoom on Hit" desc="If unchecked, disables the Score text zoomingeverytime you hit a note."/>
+            <fpscounter name="FPS Counter" desc="If unchecked, hides FPS Counter."/>
+            <specificOptions>
+                <timebar _0="Time Left" _1="Time Elapsed" _2="Song Name" _3="Name + Time" _4="Disabled"/>
+            </specificOptions>
+        </visuals>
+        <language>
+            <language name="Language" desc="Changes the language of the game!"/>
+            <helpOut name="Help us out!" desc="You can participate freely to translation by contacting FNF Doors Translation Team."/>
+            <finished value="Finished"/>
+            <proofread value="Proofread"/>
+            <help value="You can help by clicking the button above."/>
+            <infoText value="The translation {0} is :\n {1}% Finished\n{2}% Proofread\nYou can help by clicking the button above."/>
+        </language>
+        <graphics>
+            <lowquality name="Low Quality" desc="If checked, disables some background details,decreases loading times and improves performance."/>
+            <antialiasing name="Anti-Aliasing" desc="If unchecked, disables anti-aliasing, increases performanceat the cost of sharper visuals."/>
+            <shaders name="Shaders" desc="If unchecked, disables shaders.It's used for some visual effects, and also CPU intensive for weaker PCs."/>
+            <framerate name="Framerate" desc="Pretty self explanatory, isn't it?"/>
+            <colorblind name="Colorblind Filter" desc="You can set colorblind filter (makes the game more playable for colorblind people)"/>
+            <filmgrain name="Film Grain" desc="Adds a Film Grain to Story Mode"/>
+            <gpucache name="GPU Caching" desc="If checked, allows the GPU to be used for caching textures, decreasing RAM usage."/>
+            <specificOptions>
+                <colorblind _0="None" _1="Deuteranopia" _2="Protanopia" _3="Tritanopia"/>
+            </specificOptions>
+        </graphics>
+        <gameplay>
+            <controller name="Controller Mode" desc="Check this if you want to play with a controller instead of using your Keyboard."/>
+            <midscroll name="Middlescroll" desc="If checked, your notes get centered."/>
+            <downscroll name="Downscroll" desc="If checked, notes go Down instead of Up, simple enough."/>
+            <oppnotes name="Opponent Notes" desc="If unchecked, opponent notes get hidden."/>
+            <ghosttap name="Ghost Tapping" desc="If checked, you won't get misses from pressing keyswhile there are no notes able to be hit."/>
+            <disablereset name="Disable Reset Button" desc="If checked, pressing Reset won't do anything."/>
+            <strumlineBackgroundOpacity name="Strumline Background" desc="Adds a black background behind your arrows, allowing you to see better."/>
+            <hitsound name="Hitsound Volume" desc="Funny notes does &quot;Tick&quot; when you hit them."/>
+            <ratingoffset name="Rating Offset" desc="Changes how late/early you have to hit for a &quot;Sick&quot;Higher values mean you have to hit later."/>
+        </gameplay>
+        <controls>
+            <default value="Reset to Default Keys"/>
+            <notes>
+                <globalname value="--- NOTES ---"/>
+                <note_left value="Left"/>
+                <note_down value="Down"/>
+                <note_up value="Up"/>
+                <note_right value="Right"/>
+            </notes>
+            <heartbeat>
+                <globalname value="--- HEARTBEAT ---"/>
+                <heartbeat_left value="Left"/>
+                <heartbeat_right value="Right"/>
+            </heartbeat>
+            <items>
+                <globalname value="--- ITEMS ---"/>
+                <item1 value="Item 1"/>
+                <item2 value="Item 2"/>
+                <item3 value="Item 3"/>
+                <item4 value="Item 4"/>
+                <item5 value="Item 5"/>
+                <item6 value="Item 6"/>
+            </items>
+            <ui>
+                <globalname value="--- UI ---"/>
+                <reset value="Reset"/>
+                <accept value="Accept"/>
+                <back value="Back"/>
+                <pause value="Pause"/>
+            </ui>
+            <volume>
+                <globalname value="--- VOLUME ---"/>
+                <volume_mute value="Mute"/>
+                <volume_up value="Up"/>
+                <volume_down value="Down"/>
+            </volume>
+            <debug>
+                <globalname value="--- DEBUG ---"/>
+                <debug_1 value="Key 1"/>
+                <debug_2 value="Key 2"/>
+            </debug>
+        </controls>
+    </options>
+    <items>
+        <test name="Test Object" desc="How did you get this?" plural="F"/>
+        <lighter name="Lighter" desc="Makes it easier to see in dark places. May even allow you to see other paths." plural="F"/>
+        <flashlight name="Flashlight" desc="Turns a dark room into a lit-up room!" plural="F"/>
+        <crucifix name="Crucifix" desc="You may find a use for this at death's door." plural="F"/>
+        <vitamins name="Vitamins" desc="It says on the label: &quot;Lose Less, Gain More!&quot;" plural="T"/>
+        <candle name="Candle" desc="Lighting this candle may help you sing better." plural="F"/>
+        <bandages name="Bandage" desc="Stops any kind of damage, until it peels off." plural="F"/>
+        <error name="item.notFound.Glitch.NaN" desc="Reminds you of someone dear..." plural="F"/>
+        <skeleKey name="Skeleton Key" desc="Could open a door... That's what a key is for, right ?" plural="F"/>
+        <soldout value="Sold Out!"/>
+
+        <messages>
+            <storyVitamins value="This would only be useful when you're in danger..."/>
+        </messages>
+    </items>
+    <mechanics>
+        <halt>
+            <bg value="TURN AROUND"/>
+            <title value="HALT'S MECHANIC"/>
+            <major value="Don't touch Halt's icon."/>
+            <minor value="Pressing [{0}] moves you to the right.\nHitting notes moves you to the left."/>
+        </halt>
+        <eyes>
+            <bg value="DON'T LOOK"/>
+            <title value="EYES' MECHANIC"/>
+            <major value="DON'T LOOK."/>
+            <minor value="Pressing [{0}] will make boyfriend close his eyes, and prevent damage.\nIt will be harder and harder to see the notes if your eyes stay closed for a long period of time."/>
+        </eyes>
+        <figure>
+            <bg value="DON'T MAKE A SOUND"/>
+            <title value="FIGURE'S MECHANIC"/>
+            <major value="MIND YOUR HEARTBEAT."/>
+            <minor value="By pressing [{0}] and [{1}], match your heartbeat to the HEART NOTES appearing on screen.\nMissing will be heavily punished."/>
+        </figure>
+        <popups>
+            <snare>
+                <major value="+ SNARE"/>
+                <minor value="Watch your health!"/>
+            </snare>
+        </popups>
+    </mechanics>
+    <states>
+        <pause>
+            <warning value="Doing this will make you spend a revive!\nAre you sure you want to proceed?"/>
+            <warningtwo value="You have no revives left!\nDoing this will automatically make you lose your progress.\nAre you sure this is worth it ?"/>
+            <yes value="Yes"/>
+            <no value="No"/>
+        </pause>
+        <mainmenu>
+            <sm value="STORY MODE"/>
+            <gal value="GALLERY"/>
+            <cred value="CREDITS"/>
+            <free value="FREEPLAY"/>
+            <ach value="ACHIEVEMENTS"/>
+            <sett value="SETTINGS"/>
+            <tip value="DONATIONS"/>
+        </mainmenu>
+        <credits>
+            <owner value="Owner"/>
+            <director value="Director"/>
+            <lead value="Lead"/>
+            <artist value="Artist"/>
+            <animator value="Animator"/>
+            <chrom value="Chromatic Maker"/>
+            <music value="Musician"/>
+            <chart value="Charter"/>
+            <code value="Programmer"/>
+            <guest value="Guest"/>
+            <former value="Former"/>
+        </credits>
+        <flashing>
+            <warn value="Hey, watch out!\nThis Mod contains some flashing lights!\nThere is currently no way to remove them !!!\nBe careful when playing this mod !!!!\nThis screen will only show once.\nYou've been warned!"/>
+        </flashing>
+        <freeplay>
+            <unlock value="UNLOCK\n&quot;{0}&quot;\nACHIEVEMENT"/>
+            <or value="OR"/>
+            <instructions value="Press LEFT or RIGHT to change categories | Press ENTER to choose a song."/>
+            <subinstructions value="'Press {0} or {1} to proceed.\nPress {2} or {3} to leave.'"/>
+            <categories>
+                <start value="First Steps - Boyfriend &amp; Guiding Light"/>
+                <rush value="Unleashed Stampede - Rush"/>
+                <screech value="Hiss in the Shadows - Screech"/>
+                <ambush value="Restless Echo - Ambush"/>
+                <eyes value="Gaze into Madness - Eyes"/>
+                <halt value="Corridor Phantom - Halt"/>
+                <timothy value="Eight-Legged Surprise - Timothy"/>
+                <jack value="Closet Guardian - Jack"/>
+                <shop value="Shop Düdz - Bob, Jeff &amp; Goblino"/>
+                <seek value="Devil's Chase - Seek"/>
+                <figure value="Blind Hunt - Figure"/>
+                <glitch value="Reality Broken - Glitch"/>
+                <freeplay value="Extras"/>
+
+                <!-- WIP CATEGORIES -->
+                <dupe value="Memory Game - Dupe"/>
+            </categories>
+        </freeplay>
+        <newFreeplay>
+            <length value="Song Length"/>
+            <diff value="Difficulty"/>
+            <mdiff value="M. Difficulty"/> <!-- This corresponds to the mechanic difficulty -->
+        </newFreeplay>
+        <gallery>
+            <!-- Heavily unfinished, we'll have to finish up the gallery before you can translate it -->
+        </gallery>
+        <title>
+            <glasshatTxt value="WITH LOVE, BY GLASSHAT STUDIOS &amp; FRIENDS"/>
+            <haxeflixelTxt value="BUILT WITH HAXEFLIXEL"/>
+            <love value="A LOVE LETTER TO\nDOORS\nAND\nFRIDAY NIGHT FUNKIN'"/>
+        </title>
+    </states>
+    <leaderboards>
+        <glasshat value="GLASSHAT NAME"/>
+        <score value="SCORE"/>
+        <acc value="ACC"/>
+        <miss value="MISSES"/>
+        <modf value="MODS"/>
+    </leaderboards>
+    <story>
+        <reset value="Press R to reset your current door progress."/>
+        <results>
+            <tbc value="Finally Out...?"/>
+            <died value="Game Over"/>
+            <runScore value="Score : "/>
+            <runRating value="Accuracy : "/>
+            <runMiss value="Misses : "/>
+            <runMods value="Modifiers Used : "/>
+            <runTime value="Time Played : "/>
+            <runSongs value="Hostile Entities Encountered : "/>
+            <newBest value="New Best!"/>
+        </results>
+        <itemget>
+            <singular value="You got a {0} !"/>
+            <multiple value="You got {0} !"/>
+            <warn value="Keep in mind you cannot have more than 6 items at once!"/>
+        </itemget>
+        <runstats>
+            <diff value="Difficulty"/>
+            <timePlayed value="Time Played"/>
+            <currentDoor value="Current Door"/>
+            <noSongs value="You haven't played any songs for now!"/>
+        </runstats>
+        <paintings>
+            <left>
+                <Icydrip value="Cirno???"/>
+                <Kal value="A &quot;chill&quot; alien."/>
+                <Yosi value="I wish I could be as cool as him."/>
+                <Murder value="They tried to collab on a song."/>
+                <Tibu value="A programmer spotted in the wild."/>
+                <Halt value="This painting is titled &quot;Ghost Remnant&quot;."/>
+                <Morph value="This painting doesn't seem to have a title..."/>
+                <Overhead value="This painting is titled &quot;Overhead!&quot;."/>
+
+                <Plant value="This painting is titled &quot;Orchidaceae&quot;."/>
+                <Troll value="This painting is titled &quot;Emotional Man&quot;."/>
+                <YellowCreature value="This painting is titled &quot;Electrical&quot;."/>
+
+            </left>
+            <right>
+                <Catimbas value="This painting is titled &quot;Autoportrait of Catimbas&quot;."/>
+                <Leetram value="I remember this hat!"/>
+                <Rochi value="This painting is titled &quot;Rochi&quot;."/>
+                <Peak value="A happy musician family."/>
+                <Waleter value="Reminds me of Pico."/>
+                <Quarters value="This painting is titled &quot;Quarters&quot;."/>
+                <Ribbons value="This painting is titled &quot;Ribbons&quot;."/>
+                <RushingOld value="This painting is titled &quot;Smile Remnant&quot;."/>
+                <SmallSpider value="This painting is titled &quot;Web Remnant&quot;."/>
+
+                <BrownImpostor value="This painting is titled &quot;Final Encounter&quot;."/>
+                <Door value="This painting is titled &quot;Door&quot;."/>
+                <Hole value="This painting is titled &quot;Imperfection&quot;."/>
+                <TheNether value="This painting is titled &quot;Witness&quot;."/>
+            </right>
+            <ML>
+                <DeepEnd value="This painting is titled &quot;Deep End&quot;."/>
+                <Stargazer value="This painting is titled &quot;Stargazer&quot;."/>
+                <ChemicalAndMerritz value="Looks like whoever made the paintings honored those who are not still with us."/>
+                <WeirdScreechThingy value="This painting is titled &quot;Knockoff&quot;."/> 
+            </ML>
+            <MR>
+                <Marshmallows value="This painting is titled &quot;Marshmallows&quot;."/>
+                <SpookyScary value="This painting is titled &quot;Spooky, Scary&quot;."/>
+                <BlueandPuritzle value="This painting is titled &quot;Portrait of a Portrait of a Portrait&quot;."/> 
+                <FlintAndSteel value="This painting is titled &quot;Flint N Steel in a snowstorm&quot;."/> 
+            </MR>
+            <SL>
+                <Psst value="This painting is titled &quot;Psst...&quot;"/>
+                <Baller value="This painting is titled &quot;Baller&quot;."/>
+                <haircut value="This painting is titled &quot;Haircut&quot;."/> 
+                <PurpleandCallu value="This painting is titled &quot;Reconciliation&quot;."/> 
+            </SL>
+            <SR>
+                <Loser value="This painting is titled &quot;Loser&quot;."/>
+                <Friend value="This painting is titled &quot;47th Friend&quot;."/>
+                <HotLemon value="This painting is titled &quot;Lemon in a Hot Dog bun&quot;."/> 
+                <RipsyAndZestik value="This painting is titled &quot;The haunted one&quot;."/> 
+            </SR>
+        </paintings>
+        <tutorial value="Hello Visitor! Progression is made by going through the many doors you may find. You may want to try using your mouse to explore your surroundings, and interact with the furniture and objects. These can help you survive in this hotel, by giving you money, or usable items. Your goal is to make it to door 100 alive."/>
+        <interactions>
+            <books value="Some old books about {0}"/>
+            <closetClosed value="This closet cannot be opened..."/>
+            <guidancePlayed value="Singing the same thing twice wouldn't be interesting."/>
+            <darkSight value="It's difficult seeing in the dark."/>
+            <doorClosed value="This door cannot be accessed."/>
+            <entityClosed value="Something is preventing you from accessing this door."/>
+            <entityLongClosed value="Something is preventing you from progressing further."/>
+            <entityFurClosed value="Something is preventing you from interacting with this."/>
+        </interactions>
+    </story>
+    <achievements>
+        <menu value="ACHIEVEMENTS"/>
+        <anyoneHome name="Anyone Home?" desc="Ring the bell in the lobby."/>
+        <rushFind name="Flickering" desc="Find Rush."/>
+        <screechFind name="Lights down" desc="Find Screech."/>
+        <eyesFind name="Always Watching" desc="Find Eyes."/>
+        <ambushFind name="Flickering... Again?" desc="Find Ambush."/>
+        <timothyFind name="The Small Enemy Spider!" desc="Find Timothy."/>
+        <glitchFind name="Left Behind" desc="Remember who you left in the lobby."/>
+        <jackFind name="He's in the goddamn closets!" desc="Find Jack."/>
+        <haltFind name="Back and Forth" desc="Find Halt."/>
+        <figureFind name="Shhhh..." desc="Find Figure."/>
+        <seekFind name="The Devil's Chase" desc="Find Seek."/>
+        <absoluteFailure name="Absolute Failure" desc="Get a full inventory, and still die."/>
+        <fuckScreech name="Blinded by the Sun" desc="Light up a Room."/>
+        <burnTheHotel name="Burn the hotel" desc="Use 2 lighters in the same room."/>
+        <seeingDouble name="Seeing Double" desc="Have 2 entities at the same time appear in story mode in the same room."/>
+        <comboNotFound name="Combo not Found!" desc="Finish &quot;404&quot; with at least 404 combo."/>
+        <youreSlow name="Step by Step" desc="Always pick the smallest of 2 Doors."/>
+        <youreFast name="Following your Dreams" desc="Always pick the biggest of 2 Doors."/>
+        <youWin name="Finally Out...?" desc="Finish the game."/>
+        <youWinHard name="Rock Bottom" desc="Finish the game on hard difficulty."/>
+        <thatsEasy name="That was easy." desc="Finish the game without missing once."/>
+        <onTheEdge name="On the Edge" desc="Stay close to Halt for 20 seconds"/>
+        <neverTripped name="Never Tripped" desc="Finish all Seek songs with more than 95% Accuracy"/>
+        <cardiacArrest name="Pacemaker" desc="Never miss a heartbeat."/>
+        <drippedOut name="Dripped Out" desc="FC Drip and Drip Hell."/>
+        <RNJesus name="Favored by RNGesus" desc="Find Jack. Twice. In the same run."/>
+        <tissButAScratch name="Tiss but a Scratch!" desc="Finish the game with no misses, and more than 99.9% accuracy."/>
+        <completionist name="Completionist" desc="FC every song."/>
+        <hotelHell name="Hotel Hell" desc="Finish the game with a +150% knob modifier (or more)."/>
+        <donation name="Donation Goal!" desc="Donate 5 times to Jeff in Story Mode in the same run."/>
+        <voidFind name="It Stares Back" desc="Encounter the Void."/>
+        <rip name="RIP" desc="Lose all your revives."/>
+        <smallBusiness name="Supporting Small Businesses" desc="Buy an item from Jeff."/>
+        <crucifix name="Why Won't You Die?" desc="Use a crucifix."/>
+        <welcomeBack name="Welcome Back" desc="Play story mode a second time after winning."/>
+    </achievements>
+    <modifiers>
+        <easy name="Easy Mode" value="Less Notes, Easier Mechanics."/>
+        <hard name="Hard Mode" value="More Notes, Harder Mechanics."/>
+        <lessdark name="Lights On" value="Far less dark rooms."/>
+        <noflicker name="Electrical Work" value="Lights will never flicker or break."/>
+        <moredark name="Bad Electrical Work" value="More dark rooms, and lights will flicker or break more often."/>
+        <alldark name="Lights Out" value="All Non-song rooms are Dark Rooms"/>
+        <moremoney name="El Goblino On Break" value="You will find more gold during your run."/>
+        <lessmoney name="El Goblino Was Here" value="You will find less gold during your run."/>
+        <nomoney name="El Goblino's Payday" value="You will not find gold during your run."/>
+        <moreitems name="More Stuff" value="You will find more items in your run."/>
+        <lessitems name="Less Stuff" value="You will find less items in your run."/>
+        <noitems name="Out of Stuff" value="No items can be found in your run."/>
+        <SPAMTON_G_SPAMTON name="Dealmaker" value="Shop item prices are RANDOMIZED!"/>
+        <doublemaxhealth name="Immovable Object" value="Your max health gets doubled."/>
+        <aegis name="Aegis" value="You can get overheal, with a maximum of 200% health. Overheal decreases over time."/>
+        <killer name="Killer Instinct" value="When you miss, get a temporary extra health gain for 5 seconds."/>
+        <halfmaxhealth name="Glass Cannon" value="Your max health gets reduced by half."/>
+        <halfhealth name="Tripped" value="You start most songs at 50% health or lower."/>
+        <quarterhealth name="Tripped and Fell" value="You start most songs at 25% health or lower."/>
+        <oneshot name="Last Breath" value="Missing a note kills you instantly"/>
+        <perfect name="Perfection" value="Hitting sicks gives you double the health, but you cannot gain health if the notes are not Sicks."/>
+        <sweettooth name="Sweet tooth" value="The bigger your combo is, the more health you lose when you miss."/>
+        <lesssongs name="Good Time" value="Most entities will attack less often."/>
+        <moresongs name="Bad Time" value="Most entities will attack more often."/>
+        <repeat name="Repeat!" value="The same song can play multiple times."/>
+        <hide name="In the closet" value="Adds a new mechanic. Spam space to avoid getting kicked out by Hide (and dying)."/>
+        <screech_faster name="Think Faster" value="Screech will hurt you faster."/>
+        <timothy_less name="Bug Spray" value="Timothy cannot be found in drawers :("/>
+        <timothy_more name="Spider Bait" value="Timothy spawns more often :D"/>
+        <eyes_drainslower name="Lazy Eye" value="Eyes will drain your health slower."/>
+        <eyes_darkslow name="Wide Awake" value="The screen goes pitch black slower when you have your eyes closed."/>
+        <eyes_drainfaster name="Insistant" value="Eyes will drain your health faster."/>
+        <eyes_darkfast name="Going Dark" value="The screen goes pitch black faster when you have your eyes closed."/>
+        <eyes_fadingout name="Fading Out" value="The closer the screen is to pitch black, the more health gain you have."/>
+        <figure_easy name="Golden Heart" value="Missing a heartbeat hurts you as much as a normal note."/>
+        <figure_oneshot name="Sheer Heart Attack" value="Missing a heartbeat kills you instantly."/>
+        <seek_slower name="Light Jog" value="Seek will drain your health slower."/>
+        <seek_faster name="Heavy Jog" value="Seek will drain your health faster."/>
+        <seek_constant name="Bad Cardio" value="You slowly lose health while running from Seek."/>
+        <halt_early name="Epitaph" value="You are warned sooner when Halt switches sides, and hurts you slower."/>
+        <halt_more name="Roundabout" value="Halt spawns more frequently, and hurts you faster."/>
+        <halt_mirror name="Man In the Mirror" value="Notes change sides when you change side."/>
+        <halt_slide name="White Album" value="Halt no longer teleports when he switches sides, he slides instead. He damages you when he slides."/>
+        <jack_restart name="Again?" value="When Jack hides, your health is set to the one you had at the start of the song."/>
+        <glitch_segmentation name="Segmentation Fault" value="Your health bar will start glitching out, so you can't rely on looking at it. Same for the time bar text."/>
+        <glitch_corruption name="Corruption" value="Your HUD will occasionally glitch out for some milliseconds"/>
+        <shadow_remove name="Clear-minded" value="Shadow cannot spawn."/>
+        <shadow_harder name="Click Faster!" value="Shadow will be harder to get rid of."/>
+        <shadow_more name="Schizophrenia" value="Shadow will spawn much more often."/>
+        <void_remove name="Slowpoke" value="Void cannot spawn."/>
+        <void_more name="Speedrunner" value="Void spawns twice as fast."/>
+        <fading name="Fading" value="Notes fade in and out slowly."/>
+        <overdrive name="Overdrive" value="Randomly changes the scroll speed, and health gain during the song."/>
+        <screech_darkness name="True Darkness" value="The room will be even darker, and hides the top half of your notes."/>
+        <superperfect name="All or Nothing" value="Hitting sicks makes you gain health, the rest makes you lose health."/>
+        <modcharting name="NotFNF - Recommended" value="Notes will get groovy!"/>
+        <snare_everywhere name="Watch your Step" value="Snare appears on every song, as if you were in the greenhouse."/>
+        <botplay name="Showcase" value="Enables Botplay."/>
+        <practice name="Unkillable" value="Enables Practice mode."/>
+        <categories>
+            <easier value="Easier Modifiers"/>
+            <harder value="Harder Modifiers"/>
+            <story_mode value="Story Mode Modifiers"/>
+            <health value="Health Modifiers"/>
+            <notes value="Note Modifiers"/>
+            <rush value="Rush Modifiers"/>
+            <screech value="Screech Modifiers"/>
+            <timothy value="Timothy Modifiers"/>
+            <eyes value="Eyes Modifiers"/>
+            <figure value="Figure Modifiers"/>
+            <seek value="Seek Modifiers"/>
+            <halt value="Halt Modifiers"/>
+            <jack value="Jack Modifiers"/>
+            <glitch value="Glitch Modifiers"/>
+            <misc value="Misc Modifiers"/>
+        </categories>
+    </modifiers>
+
+    <lyrics>
+        <angry-spider>
+            <im_a_giant value="I'm a giant"/>
+            <ungoliant value="Ungoliant"/>
+            <a_shelob value="A Shelob"/>
+            <an_aragog value="An Aragog"/>
+            <an_arukenimon value="An Arukenimon"/>
+            <and_i_wreck_anyone_i_can value="And I wreck Anyone I can"/>
+            <im_pog value="I'm Pog"/>
+            <a_self_propelling_hairy_hand value="A Self-Propelling hairy hand"/>
+            <with_eight_fingers value="With eight Fingers"/>
+            <wrapped_around_a_pair_of_scary_fangs value="Wrapped around a Pair of scary Fangs"/>
+            <ornate_pincers value="Ornate pincers"/>
+        </angry-spider>
+    </lyrics>
+
+    <bobsBook>
+        <intro value="Hi, I’m Bob, I’m not going to spend my time writing about me and how I ended up here because that is not important right now, although I may add it once I’ve finished writing this book. I’m writing this about something else. About this “Hotel”, if you can even call it that.  I’m at least going to document everything I discover about this place. Maybe it can help someone else, or make me a lot of money once I sell this book!  I hope this helps. Turn back while you still can."/>
+
+        <hotel value="There's something off about this hotel. I'll detail things I find here and in the following pages. Update - Door 3: There's 2 doors at every crossing, all rooms look like weird hallways. I hear some weird sounds but there's no one there, I think I'm alone. I hope at least. Update - Door 9: I'm not alone. Update - Door 27: There are eyes in the walls, in the paintings even. I don't wanna continue anymore. Update - Door 49: The next room looks like a library. I can hear something roaring behind that damned door."/>
+
+        <entities value="Those &quot;Entities&quot;... They aren’t like anything I’ve ever seen, not animals nor humans. I don’t even know if they are real or inside my head.  I’ll continue documenting my discoveries in this book. I’ll let you know, reader, what I encounter in future.."/>
+
+        <guidingLight value="A seemingly helpful entity. It can talk and accompanies me when I'm lost trying to find my way. It seems to have a better understanding of the environment I'm in."/>
+
+        <hide value="This entity is a weird thing I noticed in the closets. I don't think it's a malignent conscious entity, but it's definitely weird. I decided to hide in one of the closets while I wrote this book, but my eyes started to hurt, and I got a strong headache, until I left the closet.  Update: I found a crucifix in a drawer and decided to open a closet, it instantly slammed shut. Don't know what that was all about."/>
+
+        <rush value="Holy fuck, that one is a conscious and malignent thing. It looks like a big flying head with dark smoke emitting from it. It seems to always smile, as far as I can tell at least. It’s hard to describe this one’s appearance because of how fast it moves, I tried to draw it the best I could. It can charge through doors. So hiding behind one won’t do you any good. I just think it patrols all the rooms though, it doesn’t look everywhere for prey. Definitely hostile, using the closets to hide has worked in ensuring my survival."/>
+
+        <screech value="A smaller entity than the others. It seems to have tentacles or spikes of some sort. I've only encountered it in dark rooms, and always hints it's arrival with a &quot;Psst&quot; sound before attacking. It will always attack you in your blind spot, and then bite. I noticed him when I heard it's &quot;Psst&quot; and then felt a sharp pain on my left leg, glad I found some bandages beforehand."/>
+
+        <ambush value="Very similar to Rush. It’s also a big flying head, although it emits a bright green glow instead of dark smoke. I would’ve said that Ambush is easier to avoid as its green glow gives you a lot more time to react, but I was quick to notice that instead of dashing forward once, it rebounds back and fourth. It’s constantly screeching when nearby so once it stops, you can tell that it’s safe to get out of your hiding spot."/>
+
+        <timothy value="I don’t think it can hurt as much as the other entities, he’s just a regular spider. I think I'll name it Timothy, I've seen it multiple times so I might as well dedicate a page to him. I always get scared when it jumps from the drawers onto my face. It sometimes bites, but I've always had a thing for spiders."/>
+
+        <seek value="I'm writing this after the biggest sprint of my life. I turned back and saw this entity chasing me. This one is definitely conscious, and intelligent. It can manipulate the hotel itself in some way, making chandeliers fall from the ceiling for instance. If you see it, run away until you don't hear it's loud footsteps. Don't let it catch you under any circumstance, I don't think it'd end well for you."/>
+
+        <eyes value="This entity was really hard to draw, as I couldn’t directly stare at it. Eyes is a large purple light with a lot of eyes in the centre of it, 20~ish eyes maybe? Looking at it makes me feel like all my organs are shutting down, along with a massive headache. The best thing you can do would be closing your eyes, or looking in the opposite direction.  But as I always say, &quot;Heart, Liver, Lungs&quot; focus on yourself and you should be able to resist it for a few more seconds."/>
+
+        <figure value="It's in the library."/>
+    </bobsBook>
+
+    <loadingTips>
+        <title>
+            <lby value="Look behind you"/>
+            <warn value="Warning!"/>
+            <dyu value="Did you uhhhh"/>
+            <dyk value="Did you know?"/>
+            <ff value="Fun Fact :"/>
+            <kyd value="Know you did?"/>
+            <ho value="Honest opinion"/>
+            <pt value="Pro Tip:"/>
+        </title>
+        <text>
+            <lby value="Look behind you"/>
+            <healthZero value="If your health reaches zero, you die!"/>
+            <fig value="Figure is a figure."/>
+            <shart value="I sharted.\nBig sharted"/>
+            <balls value="Bf's balls work as his balls"/>
+            <skibidi value="Screech has skibidi rizz"/>
+            <locker value="Figure can fit a school locker up his ass"/>
+            <no value="No, I didn't."/>
+            <didu value="Did uhhhhhhh"/>
+            <dark value="The more you stare at the darkness,\nThe more it stares at you."/>
+            <bf value="In the FNF : Doors Mod called FNF : Doors, there is a character named bf, that is because bf"/>
+            <ah value="Screech is an asshole"/>
+            <gun value="Seek was originally going to have a gun in catnip"/>
+            <maid value="There once was a maid who has seen it all.\nThe light guided them to safety."/>
+            <burned value="Apparently seek didn't like being burned alive.\nWoops"/>
+            <the value="the"/>
+            <shit value="Figure is watching you when you shit"/>
+            <dik value="Did I know? Does anyone know?"/>
+            <hymn value="Drip is the official hymn of Australia."/>
+            <none value=""/>
+            <mitosis value="Seek's eyes can commit mitosis.\nHowever this wasn't officially confirmed so fuck you."/>
+            <insane value="90% of this project's devs are insane and not mentally prepared to live in society"/>
+            <behind value="Behind you..."/>
+            <nini value="NiNi who is credited as Puppet Master has completed all of the Doors Achievements."/>
+            <ido value="I do."/>
+            <yosibu value="FNF : Doors Community Server users were all renamed to &quot;Yosibu&quot; when the demo released."/>
+            <yesterday value="I know what you did yesterday"/>
+            <vaporeon value="In terms of male human and female Pokémon breeding,\nVaporeon is the most compatible Pokémon"/>
+            <reset value="If you have combo over 50 press R for a free random item!"/>
+            <fatrush value="Fat Rush is not real."/>
+            <procrastinating value="I love procrastinating"/>
+            <plt value="Free Palestine"/>
+            <eyes value="You can't keep your eyes closed forever against Eyes!"/>
+            <halt value="Always keep a distance from Halt."/>
+            <heartbeat value="Always pay attention to your heartbeat against Figure."/>
+            <run value="Keep on running!"/>
+            <idle value="Don't stay idle too long!"/>
+            <lilguy value="I think a little guy wants to show you something.\nIn the pause menu perhaps?"/>
+            <crashout value="crash out"/>
+            <findTim value="Find Timothy by searching through drawers instead of doors."/>
+            <findJack value="Find Jack by searching through closets with a 1/200 chance per closet."/>
+            <stareRemake value="Stare was remade over 8 times."/>
+            <demo2release value="Demo 2 was originally an April fools update for 2024."/>
+            <rushscreechcommon value="Rush and Screech are the most common entities to find in story-mode."/>
+            <f1update value="F1 isn’t the last update!"/>
+            <searchDrawers value="Remember to search drawers for coins to buy items from Jeff’s Shop."/>
+            <threeYears value="FNF Doors, by the time of F1’s release has been in the making for 3 years."/>
+        </text>
+    </loadingTips>
+
+    <popups>
+        <titles>
+            <expertDiff value="Message from a friendly face"/>
+        </titles>
+        <messages>
+            <expertDiff value="Hey! I think you may struggle more than you expect by selecting Expert difficulty.\n\nTry completing Normal before venturing into harder difficulties."/>
+        </messages>
+        <leavePopup value="Press any key or click to continue."/>
+    </popups>
+</root>

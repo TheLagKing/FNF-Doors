@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="intro anim.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="closet-anim0000" x="368" y="503" width="277" height="423" pivotX="0" pivotY="0" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0001" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0002" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0003" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0004" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0005" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0006" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0007" x="368" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0008" x="685" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0009" x="685" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0010" x="1002" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0011" x="1002" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0012" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0013" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0014" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0015" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0016" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0017" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0018" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0019" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0020" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0021" x="1319" y="503" width="277" height="423" frameX="-82" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0022" x="40" y="503" width="288" height="416" frameX="-77" frameY="-7" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0023" x="40" y="503" width="288" height="416" frameX="-77" frameY="-7" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0024" x="40" y="40" width="444" height="423"/>
+	<SubTexture name="closet-anim0025" x="40" y="40" width="444" height="423"/>
+	<SubTexture name="closet-anim0026" x="1395" y="40" width="390" height="423" frameX="-27" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0027" x="1395" y="40" width="390" height="423" frameX="-27" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0028" x="961" y="40" width="394" height="423" frameX="-25" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0029" x="961" y="40" width="394" height="423" frameX="-25" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0030" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0031" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0032" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0033" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0034" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0035" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0036" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0037" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0038" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0039" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0040" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0041" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0042" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0043" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0044" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0045" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0046" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0047" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0048" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0049" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0050" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0051" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0052" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0053" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0054" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0055" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0056" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0057" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0058" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0059" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0060" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0061" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0062" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+	<SubTexture name="closet-anim0063" x="524" y="40" width="397" height="423" frameX="-24" frameY="0" frameWidth="444" frameHeight="423"/>
+</TextureAtlas>

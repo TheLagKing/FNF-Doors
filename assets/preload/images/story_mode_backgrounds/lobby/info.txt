@@ -1,0 +1,19 @@
+carpet - 470, 705
+insideLight - 101, 387
+insidePlank - 196, 348
+insideShading HARDLIGHT !!!!!
+booth - 0, 130
+insideBell - 422, 579
+pillar - 675, 181
+painting - 833, 268
+assZone - 632, 421
+bobsBook - 726, 639
+chandelier - 1019, 50
+plant1 - 558, 473
+plant2 - 997, 455
+plant3 - 1425, 459
+yosibu - 1585, 172
+randomBag - 0, 799
+couch - 1684, 453
+outsideShading HARDLIGHT !!!!
+globalShading SOFTLIGHT !!!!

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="fire.png" width="6466" height="675">
+	<SubTexture name="Fire/FireForPaintingRoom_0000" x="2745" y="2" width="980" height="659" rotated="true" frameX="-625" frameY="-40" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0001" x="2745" y="2" width="980" height="659" rotated="true" frameX="-625" frameY="-40" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0002" x="2" y="2" width="933" height="612" rotated="true" frameX="-637" frameY="-40" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0003" x="2" y="2" width="933" height="612" rotated="true" frameX="-637" frameY="-40" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0004" x="937" y="2" width="875" height="623" rotated="true" frameX="-629" frameY="-74" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0005" x="937" y="2" width="875" height="623" rotated="true" frameX="-629" frameY="-74" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0006" x="5583" y="2" width="881" height="671" rotated="true" frameX="-629" frameY="-88" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0007" x="5583" y="2" width="881" height="671" rotated="true" frameX="-629" frameY="-88" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0008" x="3727" y="2" width="930" height="667" rotated="true" frameX="-617" frameY="-63" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0009" x="3727" y="2" width="930" height="667" rotated="true" frameX="-617" frameY="-63" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0010" x="4659" y="2" width="922" height="668" rotated="true" frameX="-626" frameY="-48" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0011" x="4659" y="2" width="922" height="668" rotated="true" frameX="-626" frameY="-48" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0012" x="1814" y="2" width="929" height="643" rotated="true" frameX="-651" frameY="-78" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Fire/FireForPaintingRoom_0013" x="1814" y="2" width="929" height="643" rotated="true" frameX="-651" frameY="-78" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

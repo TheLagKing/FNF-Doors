@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Normal/Idle"
+		},
+		{
+			"offsets": [
+				626,
+				-635
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Normal/Left"
+		},
+		{
+			"offsets": [
+				187,
+				-686
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Normal/Down"
+		},
+		{
+			"offsets": [
+				565,
+				-669
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Normal/Up"
+		},
+		{
+			"offsets": [
+				723,
+				-636
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Normal/Right"
+		},
+		{
+			"offsets": [
+				626,
+				-635
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Normal/Left"
+		},
+		{
+			"offsets": [
+				187,
+				-686
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Normal/Down"
+		},
+		{
+			"offsets": [
+				565,
+				-669
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Normal/Up"
+		},
+		{
+			"offsets": [
+				723,
+				-636
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Normal/Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/atlas/JokeBF",
+	"position": [
+		410,
+		-310
+	],
+	"healthicon": "omg_bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		40,
+		710
+	],
+	"sing_duration": 6,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

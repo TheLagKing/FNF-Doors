@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-dead.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gfscared gameover loop0000" x="50" y="50" width="1300" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0001" x="50" y="50" width="1300" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0002" x="50" y="50" width="1300" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0003" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0004" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0005" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0006" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0007" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0008" x="2687" y="50" width="1283" height="1075" frameX="0" frameY="-62" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0009" x="2687" y="50" width="1283" height="1075" frameX="0" frameY="-62" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0010" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0011" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0012" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0013" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0014" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0015" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0016" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0017" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0018" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0019" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0020" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0021" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0022" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0023" x="1400" y="50" width="1237" height="1055" frameX="0" frameY="-82" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared gameover loop0024" x="4020" y="50" width="1273" height="1164" frameX="0" frameY="0" frameWidth="1300" frameHeight="1164"/>
+	<SubTexture name="gfscared_gameover.psd0000" x="5343" y="50" width="762" height="1029" frameX="-706" frameY="-42" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0001" x="6155" y="50" width="771" height="1038" frameX="-706" frameY="-33" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0002" x="6976" y="50" width="762" height="1070" frameX="-715" frameY="0" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0003" x="50" y="1264" width="804" height="1070" frameX="-710" frameY="0" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0004" x="904" y="1264" width="804" height="1056" frameX="-710" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0005" x="1758" y="1264" width="803" height="1056" frameX="-710" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0006" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0007" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0008" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0009" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0010" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0011" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0012" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0013" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0014" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0015" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0016" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0017" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0018" x="2611" y="1264" width="711" height="1056" frameX="-731" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0019" x="3372" y="1264" width="1419" height="1056" frameX="-23" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0020" x="4841" y="1264" width="1442" height="1056" frameX="0" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0021" x="4841" y="1264" width="1442" height="1056" frameX="0" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0022" x="6333" y="1264" width="1252" height="1056" frameX="-190" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0023" x="6333" y="1264" width="1252" height="1056" frameX="-190" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0024" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0025" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0026" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0027" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0028" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0029" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0030" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0031" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0032" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0033" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0034" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0035" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0036" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0037" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0038" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+	<SubTexture name="gfscared_gameover.psd0039" x="50" y="2384" width="1237" height="1056" frameX="-205" frameY="-14" frameWidth="1514" frameHeight="1071"/>
+</TextureAtlas>

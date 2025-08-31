@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Quit.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Quit Button0000" x="0" y="0" width="1164" height="531"/>
+	<SubTexture name="Quit Button0001" x="1204" y="0" width="1164" height="531"/>
+	<SubTexture name="Quit Button0002" x="2408" y="0" width="1164" height="531"/>
+	<SubTexture name="Quit Button0003" x="3612" y="0" width="1164" height="531"/>
+	<SubTexture name="Quit Button0004" x="4816" y="0" width="1164" height="531"/>
+	<SubTexture name="Quit Button0005" x="6020" y="0" width="1164" height="531"/>
+	<SubTexture name="Quit Button0006" x="0" y="571" width="1164" height="531"/>
+	<SubTexture name="Quit Button0007" x="1204" y="571" width="1164" height="531"/>
+	<SubTexture name="Quit Button0008" x="2408" y="571" width="1164" height="531"/>
+	<SubTexture name="Quit Button0009" x="3612" y="571" width="1164" height="531"/>
+	<SubTexture name="Quit Button0010" x="4816" y="571" width="1164" height="531"/>
+	<SubTexture name="Quit Button0011" x="6020" y="571" width="1164" height="531"/>
+	<SubTexture name="Quit Button0012" x="0" y="1142" width="1164" height="531"/>
+	<SubTexture name="Quit Button0013" x="1204" y="1142" width="1164" height="531"/>
+	<SubTexture name="Quit Button0014" x="2408" y="1142" width="1164" height="531"/>
+	<SubTexture name="Quit Button0015" x="3612" y="1142" width="1164" height="531"/>
+	<SubTexture name="Quit Button0016" x="4816" y="1142" width="1164" height="531"/>
+	<SubTexture name="Quit Button0017" x="6020" y="1142" width="1164" height="531"/>
+	<SubTexture name="Quit Button0018" x="0" y="1713" width="1164" height="531"/>
+	<SubTexture name="Quit Button0019" x="1204" y="1713" width="1164" height="531"/>
+	<SubTexture name="Quit Button0020" x="2408" y="1713" width="1164" height="531"/>
+	<SubTexture name="Quit Button0021" x="3612" y="1713" width="1164" height="531"/>
+	<SubTexture name="Quit Button0022" x="4816" y="1713" width="1164" height="531"/>
+	<SubTexture name="Quit Button0023" x="6020" y="1713" width="1164" height="531"/>
+</TextureAtlas>

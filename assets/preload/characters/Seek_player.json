@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "seek idle"
+		},
+		{
+			"offsets": [
+				30,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "seek down"
+		},
+		{
+			"offsets": [
+				30,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "seek up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "seek right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "seek left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "seek down"
+		},
+		{
+			"offsets": [
+				30,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "seek up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-35
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "seek right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				7
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "seek left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Seek",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "seek",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		33,
+		50
+	],
+	"camera_position": [
+		-10,
+		-100
+	],
+	"sing_duration": 6,
+	"scale": 1.1
+}

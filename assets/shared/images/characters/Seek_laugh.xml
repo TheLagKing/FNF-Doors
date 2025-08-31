@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Seek_laugh.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laugh instance 10000" x="20" y="20" width="361" height="620" frameX="-2" frameY="-44" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10001" x="401" y="20" width="361" height="620" frameX="-2" frameY="-44" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10002" x="782" y="20" width="353" height="614" frameX="-6" frameY="-50" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10003" x="1155" y="20" width="353" height="614" frameX="-6" frameY="-50" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10004" x="1528" y="20" width="366" height="606" frameX="-2" frameY="-58" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10005" x="1914" y="20" width="366" height="606" frameX="-2" frameY="-58" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10006" x="2300" y="20" width="427" height="611" frameX="-2" frameY="-53" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10007" x="2747" y="20" width="427" height="611" frameX="-2" frameY="-53" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10008" x="3194" y="20" width="388" height="607" frameX="-2" frameY="-57" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10009" x="3602" y="20" width="388" height="607" frameX="-2" frameY="-57" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10010" x="20" y="660" width="352" height="667" frameX="-1" frameY="0" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10011" x="392" y="660" width="352" height="667" frameX="-1" frameY="0" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10012" x="764" y="660" width="352" height="657" frameX="-1" frameY="-10" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10013" x="1136" y="660" width="352" height="657" frameX="-1" frameY="-10" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10014" x="1508" y="660" width="353" height="656" frameX="0" frameY="-11" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10015" x="1881" y="660" width="353" height="656" frameX="0" frameY="-11" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10016" x="2254" y="660" width="352" height="653" frameX="-1" frameY="-14" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10017" x="2626" y="660" width="352" height="653" frameX="-1" frameY="-14" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10018" x="2998" y="660" width="353" height="655" frameX="0" frameY="-12" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10019" x="3371" y="660" width="353" height="655" frameX="0" frameY="-12" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10020" x="20" y="1347" width="352" height="652" frameX="-1" frameY="-15" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10021" x="392" y="1347" width="352" height="652" frameX="-1" frameY="-15" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10022" x="764" y="1347" width="353" height="654" frameX="0" frameY="-13" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10023" x="1137" y="1347" width="353" height="654" frameX="0" frameY="-13" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10024" x="1510" y="1347" width="352" height="652" frameX="-1" frameY="-15" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10025" x="1882" y="1347" width="352" height="652" frameX="-1" frameY="-15" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10026" x="2254" y="1347" width="349" height="651" frameX="-4" frameY="-16" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10027" x="2623" y="1347" width="349" height="651" frameX="-4" frameY="-16" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10028" x="2992" y="1347" width="348" height="651" frameX="-5" frameY="-16" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10029" x="3360" y="1347" width="348" height="651" frameX="-5" frameY="-16" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10030" x="3728" y="1347" width="348" height="650" frameX="-5" frameY="-17" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10031" x="20" y="2021" width="348" height="650" frameX="-5" frameY="-17" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10032" x="388" y="2021" width="405" height="647" frameX="-8" frameY="-20" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10033" x="813" y="2021" width="405" height="647" frameX="-8" frameY="-20" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10034" x="1238" y="2021" width="375" height="626" frameX="-2" frameY="-38" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10035" x="1633" y="2021" width="375" height="626" frameX="-2" frameY="-38" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10036" x="2028" y="2021" width="364" height="620" frameX="-2" frameY="-44" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10037" x="2412" y="2021" width="364" height="620" frameX="-2" frameY="-44" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10038" x="2796" y="2021" width="361" height="620" frameX="-2" frameY="-44" frameWidth="429" frameHeight="667"/>
+	<SubTexture name="laugh instance 10039" x="3177" y="2021" width="361" height="620" frameX="-2" frameY="-44" frameWidth="429" frameHeight="667"/>
+</TextureAtlas>

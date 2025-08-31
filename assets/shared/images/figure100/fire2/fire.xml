@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="fire.png" width="1642" height="1692">
+	<SubTexture name="fire0001" x="2" y="2" width="852" height="873" frameX="-111" frameY="-62" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="fire0002" x="856" y="854" width="780" height="832" rotated="true" frameX="-122" frameY="-146" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="fire0003" x="2" y="877" width="849" height="813" frameX="-111" frameY="-128" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="fire0004" x="856" y="2" width="784" height="850" rotated="true" frameX="-115" frameY="-158" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

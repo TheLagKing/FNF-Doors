@@ -1,0 +1,534 @@
+{
+	"modcharting": {
+        "knobAddition": 1.05,
+        "id": 61,
+        "blocksMods": [],
+        "categories": ["notes", "harder"],
+        "unlockCondition": "none",
+        "shouldCheckOnAllSongs": false,
+        "checkOn": ["starting-point", "guidance", "abnormality", "dead-serious"],
+        "showsUpEverywhere": false,
+        "allowedSongs": ["starting-point", "guidance", "abnormality", "dead-serious"],
+        "hellSpecific": true
+    },
+
+	"lessdark": {
+        "knobAddition": 0.75,
+        "id": 3,
+        "blocksMods": [4, 5, 6],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"noflicker": {
+        "knobAddition": 0.85,
+        "id": 4,
+        "blocksMods": [3, 5, 6],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"moredark": {
+        "knobAddition": 1.1,
+        "id": 5,
+        "blocksMods": [3, 4, 6],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"alldark": {
+        "knobAddition": 1.25,
+        "id": 6,
+        "blocksMods": [3, 4, 5],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame_hard",
+        "specific": "story"
+    },
+
+	"moremoney": {
+        "knobAddition": 0.5,
+        "id": 7,
+        "blocksMods": [8, 9],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"lessmoney": {
+        "knobAddition": 1.05,
+        "id": 8,
+        "blocksMods": [7, 9],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"nomoney": {
+        "knobAddition": 1.15,
+        "id": 9,
+        "blocksMods": [7, 8],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame_hard",
+        "specific": "story"
+    },
+	"SPAMTON_G_SPAMTON": {
+        "knobAddition": 1.05,
+        "id": 56,
+        "blocksMods": [],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+
+	"moreitems": {
+        "knobAddition": 0.5,
+        "id": 10,
+        "blocksMods": [11, 12],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"lessitems": {
+        "knobAddition": 1.05,
+        "id": 11,
+        "blocksMods": [10, 12],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"noitems": {
+        "knobAddition": 1.15,
+        "id": 12,
+        "blocksMods": [10, 11],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+    
+	"doublemaxhealth": {
+        "knobAddition": 0.85,
+        "id": 44,
+        "blocksMods": [43, 15],
+        "categories": ["health", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": true
+    },
+	"halfmaxhealth": {
+        "knobAddition": 1.15,
+        "id": 9,
+        "blocksMods": [44, 15],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true
+    },
+	"halfhealth": {
+        "knobAddition": 1.1,
+        "id": 13,
+        "blocksMods": [14, 15, 62],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"quarterhealth": {
+        "knobAddition": 1.15,
+        "id": 14,
+        "blocksMods": [13, 15, 62],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"oneshot": {
+        "knobAddition": 1.5,
+        "id": 15,
+        "blocksMods": [44, 43, 13, 14],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame_hard",
+        "showsUpEverywhere": true
+    },
+	"aegis": {
+        "knobAddition": 0.9,
+        "id": 45,
+        "blocksMods": [],
+        "categories": ["health", "easier"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true,
+        "blacklistedSongs": ["halt", "onward"],
+        "hellSpecific": false
+    },
+	"perfect": {
+        "knobAddition": 1.1,
+        "id": 46,
+        "blocksMods": [],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true
+    },
+	"superperfect": {
+        "knobAddition": 1.15,
+        "id": 57,
+        "blocksMods": [46, 15],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true
+    },
+	"sweettooth": {
+        "knobAddition": 1.15,
+        "id": 47,
+        "blocksMods": [],
+        "categories": ["health", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true
+    },
+	"killer": {
+        "knobAddition": 0.9,
+        "id": 48,
+        "blocksMods": [7, 9],
+        "categories": ["health", "easier"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true
+    },
+	"fading": {
+        "knobAddition": 1.1,
+        "id": 58,
+        "blocksMods": [],
+        "categories": ["notes", "harder"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": true,
+        "blacklistedSongs": ["404", "left-behind"],
+        "hellSpecific": false
+    },
+	"overdrive": {
+        "knobAddition": 1.15,
+        "id": 59,
+        "blocksMods": [],
+        "categories": ["notes", "harder"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": true,
+        "blacklistedSongs": ["404", "left-behind"],
+        "hellSpecific": false
+    },
+    
+	"lesssongs": {
+        "knobAddition": 0.5,
+        "id": 16,
+        "blocksMods": [17],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"moresongs": {
+        "knobAddition": 1.1,
+        "id": 17,
+        "blocksMods": [16],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"repeat": {
+        "knobAddition": 1.1,
+        "id": 18,
+        "blocksMods": [],
+        "categories": ["notes", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+    
+	"hide": {
+        "knobAddition": 1.1,
+        "id": 53,
+        "blocksMods": [],
+        "categories": ["rush", "harder"],
+        "unlockCondition": "finishgame",
+        "shouldCheckOnAllSongs": false,
+        "checkOn": ["demise", "demise-hell", "rushing", "rushing-hell", "coming-through", "coming-through-hell", "flicker", "flicker-hell",
+                    "deception", "deception-hell", "ethereal", "ethereal-hell", "ambuscade", "ambuscade-hell", "rebound", "rebound-hell"],
+        "showsUpEverywhere": false,
+        "allowedSongs": ["demise", "rushing", "coming-through", "flicker", "deception", "ethereal", "ambuscade", "rebound"],
+        "hellSpecific": false
+    },
+    
+	"screech_faster": {
+        "knobAddition": 1.15,
+        "id": 20,
+        "blocksMods": [],
+        "categories": ["screech", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"screech_darkness": {
+        "knobAddition": 1.1,
+        "id": 60,
+        "blocksMods": [],
+        "categories": ["screech", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["annoyance", "shitstain", "stalker", "darkness"],
+        "hellSpecific": false
+    },
+    
+	"timothy_less": {
+        "knobAddition": 0.9,
+        "id": 21,
+        "blocksMods": [36],
+        "categories": ["timothy", "story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"timothy_more": {
+        "knobAddition": 1.1,
+        "id": 36,
+        "blocksMods": [21],
+        "categories": ["timothy", "story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+    
+	"eyes_drainslower": {
+        "knobAddition": 0.9,
+        "id": 22,
+        "blocksMods": [23],
+        "categories": ["eyes", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["stare", "always-watching", "watch-out", "eye-spy"],
+        "hellSpecific": false
+    },
+	"eyes_darkslow": {
+        "knobAddition": 0.85,
+        "id": 40,
+        "blocksMods": [39],
+        "categories": ["eyes", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["stare", "always-watching", "watch-out", "eye-spy"],
+        "hellSpecific": false
+    },
+	"eyes_drainfaster": {
+        "knobAddition": 1.1,
+        "id": 23,
+        "blocksMods": [22],
+        "categories": ["eyes", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["stare", "always-watching", "watch-out", "eye-spy"],
+        "hellSpecific": false
+    },
+	"eyes_darkfast": {
+        "knobAddition": 1.1,
+        "id": 39,
+        "blocksMods": [40],
+        "categories": ["eyes", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["stare", "always-watching", "watch-out", "eye-spy"],
+        "hellSpecific": false
+    },
+	"eyes_fadingout": {
+        "knobAddition": 0.85,
+        "id": 41,
+        "blocksMods": [],
+        "categories": ["eyes", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["stare", "always-watching", "watch-out", "eye-spy"],
+        "hellSpecific": false
+    },
+    
+	"figure_easy": {
+        "knobAddition": 0.8,
+        "id": 35,
+        "blocksMods": [24],
+        "categories": ["figure", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["not-a-sound", "tranquil", "imperceptible", "hyperacusis"],
+        "hellSpecific": false
+    },
+	"figure_oneshot": {
+        "knobAddition": 1.2,
+        "id": 24,
+        "blocksMods": [35],
+        "categories": ["figure", "harder"],
+        "unlockCondition": "figure_mastery",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["not-a-sound", "tranquil", "imperceptible", "hyperacusis"],
+        "hellSpecific": false
+    },
+    
+	"seek_slower": {
+        "knobAddition": 0.9,
+        "id": 25,
+        "blocksMods": [26, 42],
+        "categories": ["seek", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["encounter", "delve", "found-you", "ready-or-not"],
+        "hellSpecific": false
+    },
+	"seek_faster": {
+        "knobAddition": 1.1,
+        "id": 26,
+        "blocksMods": [25, 42],
+        "categories": ["seek", "harder"],
+        "unlockCondition": "seek_mastery",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["encounter", "delve", "found-you", "ready-or-not"],
+        "hellSpecific": false
+    },
+	"seek_constant": {
+        "knobAddition": 1.1,
+        "id": 42,
+        "blocksMods": [25, 26],
+        "categories": ["seek", "harder"],
+        "unlockCondition": "seek_mastery",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["encounter", "delve", "found-you", "ready-or-not"],
+        "hellSpecific": false
+    },
+    
+	"halt_early": {
+        "knobAddition": 0.9,
+        "id": 37,
+        "blocksMods": [27],
+        "categories": ["halt", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["halt", "onward"],
+        "hellSpecific": false
+    },
+	"halt_more": {
+        "knobAddition": 1.1,
+        "id": 27,
+        "blocksMods": [37],
+        "categories": ["halt", "harder"],
+        "unlockCondition": "halt_mastery",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["halt", "onward"],
+        "hellSpecific": false
+    },
+	"halt_slide": {
+        "knobAddition": 1.1,
+        "id": 38,
+        "blocksMods": [],
+        "categories": ["halt", "harder"],
+        "unlockCondition": "halt_mastery",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["halt", "onward"],
+        "hellSpecific": false
+    },
+	"halt_mirror": {
+        "knobAddition": 1.1,
+        "id": 51,
+        "blocksMods": [61],
+        "categories": ["halt", "harder"],
+        "unlockCondition": "halt_mastery",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["halt", "onward"],
+        "hellSpecific": true
+    },
+
+    "jack_restart": {
+        "knobAddition": 1.02,
+        "id": 52,
+        "blocksMods": [],
+        "categories": ["jack", "harder"],
+        "unlockCondition": "finishgame",
+        "shouldCheckOnAllSongs": false,
+        "checkOn": ["invader"],
+        "showsUpEverywhere": false,
+        "allowedSongs": ["invader"],
+        "hellSpecific": false
+    },
+    
+
+    "glitch_segmentation": {
+        "knobAddition": 1.05,
+        "id": 49,
+        "blocksMods": [],
+        "categories": ["glitch", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["404", "left-behind"],
+        "hellSpecific": true
+    },
+    "glitch_corruption": {
+        "knobAddition": 1.1,
+        "id": 50,
+        "blocksMods": [],
+        "categories": ["glitch", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": false,
+        "allowedSongs": ["404", "left-behind"],
+        "hellSpecific": false
+    },
+    
+	"shadow_remove": {
+        "knobAddition": 0.9,
+        "id": 28,
+        "blocksMods": [29, 30],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"shadow_harder": {
+        "knobAddition": 1.1,
+        "id": 29,
+        "blocksMods": [28, 30],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+	"shadow_more": {
+        "knobAddition": 1.1,
+        "id": 30,
+        "blocksMods": [28, 29],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+    
+	"void_remove": {
+        "knobAddition": 0.95,
+        "id": 31,
+        "blocksMods": [32],
+        "categories": ["story_mode", "easier"],
+        "unlockCondition": "none",
+        "specific": "story"
+    },
+	"void_more": {
+        "knobAddition": 1.05,
+        "id": 32,
+        "blocksMods": [31],
+        "categories": ["story_mode", "harder"],
+        "unlockCondition": "finishgame",
+        "specific": "story"
+    },
+    
+	"snare_everywhere": {
+        "knobAddition": 1.1,
+        "id": 62,
+        "blocksMods": [],
+        "categories": ["misc", "harder"],
+        "unlockCondition": "finishgame",
+        "showsUpEverywhere": true,
+        "blacklistedSongs": ["halt", "onward", "flicker", "stalker", "eye-spy", "angry-spider"],
+        "hellSpecific": false
+    },
+    
+	"botplay": {
+        "knobAddition": 1.0,
+        "knobMultiplier": 0,
+        "id": 54,
+        "blocksMods": [],
+        "categories": ["misc", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": true
+    },
+	"practice": {
+        "knobAddition": 1.0,
+        "knobMultiplier": 0.05,
+        "id": 55,
+        "blocksMods": [],
+        "categories": ["misc", "easier"],
+        "unlockCondition": "none",
+        "showsUpEverywhere": true
+    }
+}

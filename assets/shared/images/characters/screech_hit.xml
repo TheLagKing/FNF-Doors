@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="screech_hit.png" width="2470" height="2182">
+	<SubTexture name="screech_hit0001" x="1470" y="677" width="243" height="46" frameX="-459" frameY="-0" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0002" x="736" y="1488" width="696" height="660" rotated="true" frameX="-750" frameY="-538" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0003" x="736" y="1488" width="696" height="660" rotated="true" frameX="-747" frameY="-537" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0004" x="1408" y="750" width="661" height="693" frameX="-724" frameY="-529" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0005" x="2" y="2" width="749" height="729" frameX="-438" frameY="-472" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0006" x="2" y="733" width="746" height="726" rotated="true" frameX="-401" frameY="-450" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0007" x="753" y="2" width="715" height="746" frameX="-418" frameY="-424" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0008" x="2" y="1461" width="732" height="719" rotated="true" frameX="-426" frameY="-452" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0009" x="750" y="750" width="656" height="736" frameX="-435" frameY="-517" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0010" x="1470" y="2" width="610" height="673" frameX="-306" frameY="-463" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0011" x="1434" y="1445" width="527" height="581" frameX="-188" frameY="-399" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0012" x="1963" y="1445" width="487" height="513" frameX="-239" frameY="-128" frameWidth="2074" frameHeight="1545"/>
+	<SubTexture name="screech_hit0013" x="2071" y="677" width="397" height="230" frameX="-329" frameY="-0" frameWidth="2074" frameHeight="1545"/>
+</TextureAtlas>

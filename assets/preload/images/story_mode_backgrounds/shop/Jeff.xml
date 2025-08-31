@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jeff.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Eyes0000" x="0" y="0" width="546" height="352"/>
+	<SubTexture name="Eyes0001" x="586" y="0" width="546" height="352"/>
+	<SubTexture name="Eyes0002" x="1172" y="0" width="546" height="352"/>
+	<SubTexture name="Eyes0003" x="0" y="392" width="546" height="352"/>
+	<SubTexture name="Eyes0004" x="586" y="392" width="546" height="352"/>
+	<SubTexture name="Eyes0005" x="1172" y="392" width="546" height="352"/>
+</TextureAtlas>

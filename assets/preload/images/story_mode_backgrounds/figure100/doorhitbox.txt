@@ -1,0 +1,2 @@
+hitbox1 (door) - 453 x 325 - 733, 232
+hitbox2 (lever) - 33 x 70 - 1215, 408

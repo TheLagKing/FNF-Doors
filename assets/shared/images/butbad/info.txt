@@ -1,0 +1,5 @@
+bg.png - 0,0
+chimney - 1219,73
+back chimney - 1267,694
+chandelier - 1174,-99
+fire - 1198, 606 (1148,556 with 50 offset)

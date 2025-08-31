@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="eyesBG.png" width="7668" height="1568">
+  <SubTexture name="gangsta-eyes0016.png" x="3" y="3"  width="828" height="765" frameX="-202" frameY="-209" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0017.png" x="837" y="3"  width="828" height="765" frameX="-202" frameY="-206" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0018.png" x="1671" y="3"  width="828" height="765" frameX="-202" frameY="-206" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0019.png" x="2505" y="3"  width="828" height="765" frameX="-202" frameY="-205" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0015.png" x="3339" y="3"  width="832" height="768" frameX="-200" frameY="-207" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0001.png" x="4177" y="3"  width="832" height="769" frameX="-200" frameY="-203" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0014.png" x="5015" y="3"  width="832" height="769" frameX="-200" frameY="-210" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0002.png" x="5853" y="3"  width="835" height="771" frameX="-198" frameY="-202" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0003.png" x="6694" y="3"  width="835" height="771" frameX="-198" frameY="-203" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0005.png" x="3" y="774"  width="842" height="777" frameX="-195" frameY="-203" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0013.png" x="851" y="774"  width="842" height="777" frameX="-195" frameY="-207" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0004.png" x="1699" y="774"  width="842" height="778" frameX="-195" frameY="-200" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0012.png" x="2547" y="777"  width="842" height="778" frameX="-195" frameY="-209" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0010.png" x="3395" y="778"  width="846" height="781" frameX="-193" frameY="-207" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0006.png" x="4247" y="778"  width="850" height="785" frameX="-191" frameY="-199" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0007.png" x="5103" y="780"  width="850" height="785" frameX="-191" frameY="-203" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0008.png" x="5959" y="780"  width="850" height="785" frameX="-191" frameY="-203" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0009.png" x="6815" y="780"  width="850" height="785" frameX="-191" frameY="-205" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0020.png" x="4177" y="3"  width="832" height="769" frameX="-200" frameY="-203" frameWidth="1247" frameHeight="1188"/>
+  <SubTexture name="gangsta-eyes0011.png" x="3395" y="778"  width="846" height="781" frameX="-193" frameY="-207" frameWidth="1247" frameHeight="1188"/>
+</TextureAtlas>

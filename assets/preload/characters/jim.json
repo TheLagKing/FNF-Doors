@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jim left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down jim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				140
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jim up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jim right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "jim idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/but_bad/jimothy",
+	"position": [
+		170,
+		570
+	],
+	"healthicon": "timothy",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		23,
+		43
+	],
+	"camera_position": [
+		-180,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Anims/Idle"
+		},
+		{
+			"offsets": [
+				140,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Anims/Left"
+		},
+		{
+			"offsets": [
+				9,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Anims/Up"
+		},
+		{
+			"offsets": [
+				-7,
+				-87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Anims/Down"
+		},
+		{
+			"offsets": [
+				-100,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Anims/Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/atlas/Rush",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rush",
+	"flip_x": false,
+	"healthbar_colors": [
+		35,
+		34,
+		55
+	],
+	"camera_position": [
+		150,
+		420
+	],
+	"sing_duration": 6.1,
+	"scale": 0.32,
+	"_editor_isPlayer": false
+}

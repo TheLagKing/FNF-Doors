@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MouseAnimation.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mouse0000" x="0" y="0" width="213" height="232"/>
+	<SubTexture name="Mouse0001" x="253" y="0" width="213" height="232"/>
+	<SubTexture name="Mouse0002" x="506" y="0" width="213" height="232"/>
+	<SubTexture name="Mouse0003" x="759" y="0" width="213" height="232"/>
+	<SubTexture name="Mouse0004" x="0" y="272" width="213" height="232"/>
+	<SubTexture name="Mouse0005" x="253" y="272" width="213" height="232"/>
+	<SubTexture name="Mouse0006" x="506" y="272" width="213" height="232"/>
+	<SubTexture name="Mouse0007" x="759" y="272" width="213" height="232"/>
+	<SubTexture name="Mouse0008" x="0" y="544" width="213" height="232"/>
+	<SubTexture name="Mouse0009" x="253" y="544" width="213" height="232"/>
+	<SubTexture name="Mouse0010" x="506" y="544" width="213" height="232"/>
+	<SubTexture name="Mouse0011" x="759" y="544" width="213" height="232"/>
+</TextureAtlas>

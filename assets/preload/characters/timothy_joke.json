@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				-207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle tim"
+		},
+		{
+			"offsets": [
+				-60,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up tim"
+		},
+		{
+			"offsets": [
+				47,
+				-208
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down tim"
+		},
+		{
+			"offsets": [
+				-96,
+				-225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right tim"
+		},
+		{
+			"offsets": [
+				-30,
+				-195
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left tim"
+		},
+		{
+			"offsets": [
+				-70,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dead",
+			"loop": false,
+			"name": "dead tim"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/timothy_joke",
+	"extraImages": ["characters/joke_tim/neutral-special"],
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tim_joke",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		23,
+		43
+	],
+	"camera_position": [
+		-90,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

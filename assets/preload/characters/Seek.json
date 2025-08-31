@@ -1,0 +1,90 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "seek idle"
+		},
+		{
+			"offsets": [
+				13,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "seek left"
+		},
+		{
+			"offsets": [
+				-10,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "seek down"
+		},
+		{
+			"offsets": [
+				20,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "seek up"
+		},
+		{
+			"offsets": [
+				-50,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "seek right"
+		},
+		{
+			"offsets": [
+				-17,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Laugh",
+			"indices": [],
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Seek",
+	"extraImages": ["characters/Seek_laugh"],
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "seek",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		33,
+		50
+	],
+	"camera_position": [
+		-110,
+		-90
+	],
+	"sing_duration": 6,
+	"scale": 1.1
+}

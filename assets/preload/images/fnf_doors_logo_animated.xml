@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fnf_doors_logo_animated.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence fnf logo text animated 10000" x="40" y="40" width="1089" height="971" frameX="0" frameY="0" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10001" x="40" y="40" width="1089" height="971" frameX="0" frameY="-1" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10002" x="40" y="40" width="1089" height="971" frameX="0" frameY="-4" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10003" x="40" y="40" width="1089" height="971" frameX="0" frameY="-9" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10004" x="40" y="40" width="1089" height="971" frameX="0" frameY="-15" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10005" x="40" y="40" width="1089" height="971" frameX="0" frameY="-24" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10006" x="40" y="40" width="1089" height="971" frameX="0" frameY="-34" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10007" x="40" y="40" width="1089" height="971" frameX="0" frameY="-45" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10008" x="40" y="40" width="1089" height="971" frameX="0" frameY="-53" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10009" x="40" y="40" width="1089" height="971" frameX="0" frameY="-60" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10010" x="40" y="40" width="1089" height="971" frameX="0" frameY="-64" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10011" x="40" y="40" width="1089" height="971" frameX="0" frameY="-67" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10012" x="40" y="40" width="1089" height="971" frameX="0" frameY="-68" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10013" x="40" y="40" width="1089" height="971" frameX="0" frameY="-67" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10014" x="40" y="40" width="1089" height="971" frameX="0" frameY="-64" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10015" x="40" y="40" width="1089" height="971" frameX="0" frameY="-60" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10016" x="40" y="40" width="1089" height="971" frameX="0" frameY="-53" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10017" x="40" y="40" width="1089" height="971" frameX="0" frameY="-45" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10018" x="40" y="40" width="1089" height="971" frameX="0" frameY="-34" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10019" x="40" y="40" width="1089" height="971" frameX="0" frameY="-24" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10020" x="40" y="40" width="1089" height="971" frameX="0" frameY="-15" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10021" x="40" y="40" width="1089" height="971" frameX="0" frameY="-9" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10022" x="40" y="40" width="1089" height="971" frameX="0" frameY="-4" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10023" x="40" y="40" width="1089" height="971" frameX="0" frameY="-1" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10024" x="40" y="40" width="1089" height="971" frameX="0" frameY="0" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10025" x="40" y="40" width="1089" height="971" frameX="0" frameY="-1" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10026" x="40" y="40" width="1089" height="971" frameX="0" frameY="-4" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10027" x="40" y="40" width="1089" height="971" frameX="0" frameY="-9" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10028" x="40" y="40" width="1089" height="971" frameX="0" frameY="-15" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10029" x="40" y="40" width="1089" height="971" frameX="0" frameY="-24" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10030" x="40" y="40" width="1089" height="971" frameX="0" frameY="-34" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10031" x="40" y="40" width="1089" height="971" frameX="0" frameY="-45" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10032" x="40" y="40" width="1089" height="971" frameX="0" frameY="-53" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10033" x="40" y="40" width="1089" height="971" frameX="0" frameY="-60" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10034" x="40" y="40" width="1089" height="971" frameX="0" frameY="-64" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10035" x="40" y="40" width="1089" height="971" frameX="0" frameY="-67" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10036" x="40" y="40" width="1089" height="971" frameX="0" frameY="-68" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10037" x="40" y="40" width="1089" height="971" frameX="0" frameY="-67" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10038" x="40" y="40" width="1089" height="971" frameX="0" frameY="-64" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10039" x="40" y="40" width="1089" height="971" frameX="0" frameY="-58" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10040" x="40" y="40" width="1089" height="971" frameX="0" frameY="-50" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10041" x="40" y="40" width="1089" height="971" frameX="0" frameY="-40" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10042" x="40" y="40" width="1089" height="971" frameX="0" frameY="-28" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10043" x="40" y="40" width="1089" height="971" frameX="0" frameY="-18" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10044" x="40" y="40" width="1089" height="971" frameX="0" frameY="-10" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10045" x="40" y="40" width="1089" height="971" frameX="0" frameY="-5" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10046" x="40" y="40" width="1089" height="971" frameX="0" frameY="-1" frameWidth="1089" frameHeight="1039"/>
+	<SubTexture name="Occurrence fnf logo text animated 10047" x="40" y="40" width="1089" height="971" frameX="0" frameY="0" frameWidth="1089" frameHeight="1039"/>
+</TextureAtlas>

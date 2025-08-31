@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lilSeek.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="73" y="236" width="70" height="115" pivotX="0" pivotY="0" frameX="-14" frameY="-7" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Idle0001" x="234" y="231" width="69" height="115" frameX="-15" frameY="-7" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Idle0002" x="0" y="344" width="70" height="115" frameX="-14" frameY="-7" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Right0000" x="0" y="0" width="93" height="102" frameX="-14" frameY="-21" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Right0001" x="149" y="118" width="83" height="105" frameX="-15" frameY="-18" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Right0002" x="70" y="351" width="73" height="108" frameX="-14" frameY="-15" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Left0000" x="93" y="0" width="79" height="118" frameX="0" frameY="-4" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Left0001" x="75" y="118" width="74" height="118" frameX="-5" frameY="-4" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Left0002" x="232" y="114" width="70" height="117" frameX="-9" frameY="-5" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Down0000" x="245" y="0" width="85" height="96" frameX="-11" frameY="-26" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Down0001" x="149" y="231" width="85" height="96" frameX="-11" frameY="-26" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Down0002" x="143" y="327" width="72" height="110" frameX="-14" frameY="-13" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Up0000" x="0" y="102" width="75" height="123" frameX="-6" frameY="0" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Up0001" x="0" y="225" width="73" height="119" frameX="-8" frameY="-4" frameWidth="104" frameHeight="120"/>
+	<SubTexture name="Up0002" x="172" y="0" width="73" height="114" frameX="-7" frameY="-9" frameWidth="104" frameHeight="120"/>
+</TextureAtlas>

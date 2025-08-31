@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JeffRightTentacles.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="R Tentacle0000" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0001" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0002" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0003" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0004" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0005" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0006" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0007" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0008" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0009" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0010" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0011" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0012" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0013" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0014" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0015" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0016" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0017" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0018" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0019" x="40" y="40" width="450" height="148" frameX="0" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0020" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0021" x="530" y="40" width="452" height="150"/>
+	<SubTexture name="R Tentacle0022" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+	<SubTexture name="R Tentacle0023" x="40" y="230" width="450" height="148" frameX="-1" frameY="-1" frameWidth="452" frameHeight="150"/>
+</TextureAtlas>

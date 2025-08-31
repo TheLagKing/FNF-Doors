@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bob guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bob guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bob guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bob guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bob guitar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "guitar",
+			"fps": 24,
+			"name": "bob idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bob",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bob",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		174,
+		129
+	],
+	"camera_position": [
+		-180,
+		-220
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

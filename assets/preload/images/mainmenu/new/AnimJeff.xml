@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="jeff.png" width="4890" height="4104">
+	<SubTexture name="jeff0000" x="3261" y="1014" width="1627" height="1008" frameX="-83" frameY="-49" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0001" x="3261" y="1014" width="1627" height="1008" frameX="-83" frameY="-49" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0002" x="3256" y="2049" width="1627" height="1016" frameX="-83" frameY="-41" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0003" x="3256" y="2049" width="1627" height="1016" frameX="-83" frameY="-41" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0004" x="2" y="2" width="1627" height="1038" frameX="-83" frameY="-19" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0005" x="2" y="2" width="1627" height="1038" frameX="-83" frameY="-19" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0006" x="1632" y="1014" width="1627" height="1033" frameX="-83" frameY="-24" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0007" x="1632" y="1014" width="1627" height="1033" frameX="-83" frameY="-24" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0008" x="3261" y="2" width="1627" height="1010" frameX="-83" frameY="-47" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0009" x="3261" y="2" width="1627" height="1010" frameX="-83" frameY="-47" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0010" x="3257" y="3067" width="1620" height="1011" frameX="-90" frameY="-46" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0011" x="3257" y="3067" width="1620" height="1011" frameX="-90" frameY="-46" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0012" x="2" y="1042" width="1628" height="1012" frameX="-82" frameY="-45" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0013" x="2" y="1042" width="1628" height="1012" frameX="-82" frameY="-45" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0014" x="2" y="2056" width="1623" height="1024" frameX="-87" frameY="-33" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0015" x="2" y="2056" width="1623" height="1024" frameX="-87" frameY="-33" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0016" x="1632" y="2049" width="1622" height="1028" frameX="-88" frameY="-29" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0017" x="1632" y="2049" width="1622" height="1028" frameX="-88" frameY="-29" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0018" x="2" y="3082" width="1620" height="1020" frameX="-90" frameY="-37" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0019" x="2" y="3082" width="1620" height="1020" frameX="-90" frameY="-37" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0020" x="1631" y="2" width="1628" height="1010" frameX="-82" frameY="-47" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0021" x="1631" y="2" width="1628" height="1010" frameX="-82" frameY="-47" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0022" x="1627" y="3079" width="1628" height="1008" frameX="-82" frameY="-49" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="jeff0023" x="1627" y="3079" width="1628" height="1008" frameX="-82" frameY="-49" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

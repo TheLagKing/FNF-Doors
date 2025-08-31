@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="haltIcon.png" width="2044" height="486">
+	<SubTexture name="Halt Glitch Left0000" x="554" y="1" width="515" height="484" frameX="-0" frameY="-12" frameWidth="550" frameHeight="500"/>
+	<SubTexture name="Halt Glitch Left0002" x="1" y="1" width="550" height="484" frameX="-0" frameY="-12" frameWidth="550" frameHeight="500"/>
+	<SubTexture name="Halt Glitch Left0001" x="1072" y="1" width="511" height="484" frameX="-0" frameY="-12" frameWidth="550" frameHeight="500"/>
+	<SubTexture name="Halt Left0000" x="1586" y="1" width="457" height="484" frameX="-42" frameY="-12" frameWidth="550" frameHeight="500"/>
+</TextureAtlas>

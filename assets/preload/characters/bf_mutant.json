@@ -1,0 +1,167 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "final/idle"
+		},
+		{
+			"offsets": [
+				-1265,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "final/up"
+		},
+		{
+			"offsets": [
+				-9,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "final/right"
+		},
+		{
+			"offsets": [
+				-8,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "final/missleft"
+		},
+		{
+			"offsets": [
+				-9,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "final/missdown"
+		},
+		{
+			"offsets": [
+				-37,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "final/missright"
+		},
+		{
+			"offsets": [
+				-14,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "final/left"
+		},
+		{
+			"offsets": [
+				-11,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "final/missup"
+		},
+		{
+			"offsets": [
+				11,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "final/down"
+		},
+		{
+			"offsets": [
+				-5,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "altDown"
+		},
+		{
+			"offsets": [
+				-11,
+				37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "altUp"
+		},
+		{
+			"offsets": [
+				-36,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "final/altRight"
+		},
+		{
+			"offsets": [
+				-16,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "final/altLeft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriend/mutantbf",
+	"position": [
+		-10,
+		360
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		52,
+		111,
+		180
+	],
+	"camera_position": [
+		-210,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="spawnSeek.png" width="6296" height="6013">
+	<SubTexture name="spawn 0001" x="2705" y="2328" width="68" height="450" rotated="true" frameX="-191" frameY="-1680" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0002" x="3315" y="5907" width="784" height="104" frameX="-192" frameY="-1663" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0003" x="2" y="1267" width="916" height="124" frameX="-187" frameY="-1650" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0004" x="2172" y="4187" width="153" height="997" rotated="true" frameX="-184" frameY="-1636" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0005" x="4567" y="4022" width="1077" height="193" frameX="-157" frameY="-1595" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0006" x="6051" y="2682" width="243" height="1128" rotated="true" frameX="-131" frameY="-1541" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0007" x="3315" y="5341" width="1135" height="564" frameX="-132" frameY="-1220" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0008" x="4511" y="5286" width="1141" height="689" frameX="-132" frameY="-1096" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0009" x="4575" y="1544" width="1150" height="687" frameX="-133" frameY="-1098" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0010" x="1012" y="5265" width="1158" height="584" frameX="-138" frameY="-1202" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0011" x="5737" y="2" width="316" height="1139" rotated="true" frameX="-168" frameY="-1470" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0012" x="5731" y="2682" width="318" height="1142" rotated="true" frameX="-172" frameY="-1470" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0013" x="5727" y="1544" width="383" height="1136" rotated="true" frameX="-181" frameY="-1405" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0014" x="5651" y="4022" width="540" height="1135" rotated="true" frameX="-187" frameY="-1247" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0015" x="2172" y="5334" width="1141" height="589" frameX="-182" frameY="-1199" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0016" x="4575" y="849" width="1160" height="693" frameX="-163" frameY="-1096" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0017" x="4567" y="3251" width="1162" height="769" frameX="-162" frameY="-1018" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0018" x="4530" y="2" width="1163" height="845" frameX="-161" frameY="-943" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0019" x="4567" y="2332" width="1145" height="917" frameX="-179" frameY="-870" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0020" x="4511" y="4284" width="1138" height="1000" frameX="-185" frameY="-788" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0021" x="1012" y="4187" width="1106" height="1076" frameX="-217" frameY="-711" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0022" x="3366" y="4284" width="1143" height="1055" rotated="true" frameX="-267" frameY="-644" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0023" x="2" y="4187" width="1008" height="1189" frameX="-313" frameY="-598" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0024" x="2353" y="4104" width="1011" height="1228" frameX="-311" frameY="-559" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0025" x="2" y="2" width="1114" height="1263" frameX="-210" frameY="-523" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0026" x="2705" y="2808" width="1000" height="1294" frameX="-323" frameY="-491" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0027" x="1380" y="2328" width="1323" height="994" rotated="true" frameX="-328" frameY="-462" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0028" x="2072" y="2" width="986" height="1348" frameX="-336" frameY="-437" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0029" x="2" y="1410" width="1376" height="972" rotated="true" frameX="-349" frameY="-410" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0030" x="1118" y="2" width="952" height="1406" frameX="-369" frameY="-380" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0031" x="1380" y="1410" width="1440" height="916" rotated="true" frameX="-389" frameY="-349" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0032" x="2822" y="1352" width="891" height="1454" frameX="-397" frameY="-341" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0033" x="2" y="2384" width="872" height="1475" frameX="-405" frameY="-327" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0034" x="876" y="3324" width="1475" height="861" rotated="true" frameX="-399" frameY="-327" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0035" x="3707" y="2808" width="858" height="1474" frameX="-394" frameY="-324" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0036" x="3060" y="2" width="1468" height="858" rotated="true" frameX="-394" frameY="-324" frameWidth="1727" frameHeight="1845"/>
+	<SubTexture name="spawn 0037" x="3715" y="862" width="858" height="1468" frameX="-394" frameY="-324" frameWidth="1727" frameHeight="1845"/>
+</TextureAtlas>

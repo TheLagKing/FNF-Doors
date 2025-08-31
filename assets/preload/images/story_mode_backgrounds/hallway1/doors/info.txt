@@ -1,0 +1,10 @@
+right - 1097, 287 (size= 295 x 429)
+left - 533, 285 (size = 295 x 429)
+
+window right - 1555, 241
+window left - 0, 230
+
+closet right - 1522, 143
+closet left - 0, 131
+
+panel info - 30, 50

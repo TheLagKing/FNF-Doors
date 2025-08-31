@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- To make your own translation file, just copy this file, and name it [translationName].xml -->
+<!-- Never edit shit in < > otherwise it won't work. -->
+<!-- Make sure to never edit the keys, only the values. -->
+<!-- For instance, for key "ez" (line 11), you don't edit "ez", you edit "Easy" since it's the thing that'll show up in game -->
+<!-- The key will always contain what the game needs to "see" your translation file -->
+<!-- TLDR : Change the value and not the key -->
+<root>
+    <generalshit>
+        <engineVersionShit value="Doors Engine {0}"/>
+        <gameVersionShit value="FNF : Doors {0}"/>
+        <ez value="Lehké"/>
+        <normal value="Normální"/>
+        <hard value="Těžké"/>
+        <hell value="Pekelné"/>
+        <heaven value="Nebeské"/>
+        <wip value="WIP"/>
+        <diffDescriptions>
+            <Easy value="Obtížnost je snížená pro nové hráče.\nVšechno je mírnější, ale nebojte se hrát na lehké obtížnosti!"/>
+            <Normal value="Tohle je určená obtížnost.\nPerfektně balancovaná, jak by všechno být mělo."/>
+            <Hard value="Pro Veterány a Masochisty.\nKaždé setkání je souboj o život."/>
+            <Hell value="Smrt je jen svoboda."/>
+            <Wip value="Nedokončeno, prosím buďte trpěliví.\nUsilovně pracujeme, abycom vám to přinesly!"/>
+        </diffDescriptions>
+        <ratings>
+            <yousuck value="Seš špatnej!"/>
+            <shit value="Hovno"/>
+            <bad value="špatný"/>
+            <bruh value="Bruh"/>
+            <meh value="Meh"/>
+            <nice value="Hezký"/>
+            <good value="Dobrý"/>
+            <great value="Skvělý"/>
+            <sick value="Úžasný!"/>
+            <perfect value="Perfektní!!"/>
+            <ratingsFC>
+                <sfc value="Perfektní FC"/>
+                <gfc value="Dobrý FC"/>
+                <fc value="FC"/>
+                <clear value="Splněno"/>
+            </ratingsFC>
+        </ratings>
+        <score value="Skóre"/>
+        <misses value="Chyby"/>
+        <rating value="Hodnocení"/>
+        <botplayText value="JÁ MÁM SKILL ISSUE"/>
+    </generalshit>
+    <newUI>
+        <!-- Menu names -->
+        <stats value="STATISTIKY"/>
+        <chooseMods value="VYBER SI MODIFIKÁTORY"/>
+        <pause value="PAUZA"/>
+        <prerun value="PRE-RUN OBCHOD"/>
+        <tutorial value="TUTORIÁL"/>
+        <glasshatOnline value="GLASSHAT ONLINE"/>
+        <death value="ZEMŘEL JSI!"/>
+        <specialThanks value="SPECIÁLNÍ PODĚKOVÁNÍ"/>
+        <socials value="SOCIÁLNÍ SÍTĚ"/>
+        <donateMenu value="DONACE"/>
+
+        <!-- Button names -->
+        <quit value="ODEJÍT"/>
+        <showMod value="UKÁZAT MODIFIKÁTORYS"/>
+        <reset value="RERSETOVAT"/>
+        <cancel value="ZRUŠIT"/>
+        <restart value="RESTARTOVAT"/>
+        <options value="NASTAVENÍ"/>
+        <resume value="OBNOVIT HRU"/>
+        <play value="HRÁT"/>
+        <mainmenu value="HLAVNÍ MENU"/>
+        <newrun value="NOVÁ HRA"/>
+        <register value="REGISTROVAT"/>
+        <login value="PŘIHLÁSIT SE"/>
+        <modifyAcc value="ZAPOMNĚLI JSTE HESLO?"/>
+        <revive value="OŽIVIT"/>
+        <donateKofi value="DAROVAT NA KOFI"/>
+        
+        <clickOff value="Klikni kamkoliv pro odchod."/>
+        <pressOff value="Pro pokračování stiskněte {0}."/>
+        <pressOffMult value="Pro pokračování stiskněte {0} nebo {1}."/>
+        
+        <donateMenuText value="Hej, na tomto módu jsme pracovali asi 3 roky, takže by to pro nás znamenalo celý svět, kdybyste darovali trochu penízků. Nemůžeme na oplátku mnoho nabídnout, ale pomohlo by nám to zaplatit servery, aby udržely žebříček online, a možná i další věci v budoucích aktualizacích! Děkuji vám za podporu."/>
+    </newUI>
+    <glasshat>
+        <email value="E-MAIL"/>
+        <username value="JMÉNO UŽIVATELE"/>
+        <password value="HESLO"/>
+        <passwordInfo value="HELSA MUSÍ BÝT 8-32 MÍST, MÍT ALESPOŇ 1 ČÍSLO, 1 VELKÉ PÍSMENO A 1 MALÉ PÍSMENO."/>
+        <info value="Glasshat Online je FNF : Doors online řešení!\nŽádné osobní údaje nejsou uloženy.\nS účtem můžete přistupovat k žebříčkům, publikovat skóre...\nÚspěchy jsou synchronizovány také prostřednictvím účtů!"/>
+        
+        <allFields value="Prosím vyplňte všechna pole."/>
+        <invalidMail value="Vaše e-mailová adresa je neplatná."/>
+        <insecurePass value="Vaše heslo není dostatečně bezpečné. Vaše heslo musí být mezi 8 a 32 písmeny, musí mít velké písmeno, malé písmeno A číslo."/>
+
+        <noScores value="Nebylo nalezeno žádné skóre."/>
+        <notLoggedIn value="Nejste přihlášeni.\nGlasshat přihlášení je v nastavení."/>
+        <error value="Chyba při načítání skóre.\nProsím nahlašte to na discord."/>
+    </glasshat>
+    <death>
+        <revivesLeft value="ZBÝVAJÍCÍ OŽIVENÍ : {0}"/>
+        <freeplayRevives value="ZBÝVAJÍCÍ OŽIVENÍ : NEKONEČNO"/>
+        <modsUsed value="Použité modifikátory : {0}"/>
+        <reviveWarning value="Máš {0} oživení."/>
+        <tips>
+            <!-- Don't translate the type="tip"-->
+            <a60 type="rada">
+                <tip1 _0="Oh... ten červený. \nNejsem si jistý jak ho pojmenovat..." _1="Většinou útočí okolo místnosti A-60 takže..." _2="Ho můžeš pojmenovat A-60. Já nevim."/>
+                <tip2 _0="Znovu A-60..." _1="Nemyslím si že je tak těžký na pochopení." _2="Pospěš si, ještě nejsme hotoví."/>
+                <tip3 _0="Znovu A-60..." _1="Zvládneš to. Věřím ti." _2="Uvidíme se příště. Že jo?"/>
+            </a60>
+            <ambush type="rada">
+                <tip1 _0="Zemřeli jste tím, komu říkáte Ambush..." _1="Ono je záludné." _2="Využij to co tě naučil Rush!"/>
+                <tip2 _0="Zase Ambush..." _1="Dostane tě, když to nejmíň čekáš!" _2="Má jedinečný ev. Když ho uslyšíš, buď připraven!"/>
+                <tip3 _0="Ambush tě zabil." _1="Možná si budeš muset párkrát vlézt a vylézt ze schovky." _2="To zvládneš!"/>
+            </ambush>
+            <elevator type="rada">
+                <tip1 _0="Vypadá to, že jsi neutek..." _1="Je to těžký rytmus k následování!" _2="Soustřeď se na tlukot srdce."/>
+                <tip2 _0="Vypadá to, že jsi neutek..." _1="Ovládej svůj rytmus!" _2="Jen jeden špatný tlukot a jseš mrtvej!"/>
+                <tip3 _0="Vypadá to, že jsi neutek..." _1="Zkusím ti pomoct naváděcími notamy." _2="To zvládneš!"/>
+            </elevator>
+            <eyes type="rada">
+                <tip1 _0="Eyes tě zabil..." _1="Nemají rádi když se na ně koukáš." _2="Zavři oči a věř rytmu."/>
+                <tip2 _0="Znovu tě zabil Eyes..." _1="Měj zavřené oči co nejdýl to půjde." _2="Lehčejc jsi oddechneš, když se na to nekoukáš."/>
+                <tip3 _0="Zdá se, že máte problémy s Eyes..." _1="Měj zavřené očí." _2="Mrkání taky funguje."/>
+            </eyes>
+            <figure type="rada">
+                <tip1 _0="Zabil tě ten, kterému říkají Figure..." _1="Je slepý, ale používá zvuky a vibrace pro svůj prospěch." _2="Soustřeď se na tlukot srdce."/>
+                <tip2 _0="Znovu tě zabil Figure..." _1="Je slepý, ale ostatní smysly má na jiné úrovni." _2="Jen jeden špatný tlukot a jseš mrtvej!"/>
+                <tip3 _0="Bohužel tě znovu zabil Figure." _1="Zkusím ti pomoct naváděcími notamy." _2="Ovládání srdečního tepu je životně důležité, ještě více než udržovat rytmus."/>
+            </figure>
+            <glitch type="tip">
+                <tip1 _0="To je zvláštní, já nevím kdo tě zabil." _1="Naopak jsem si všim že jsi se spomalil za blízkým." _2="Zůstaňte spolu!"/>
+                <tip2 _0="To je zvláštní, já nevím kdo tě zabil." _1="Naopak jsem si všim že jsi se spomalil za blízkým." _2="Měla by tu být jiná cesta pryč."/>
+                <tip3 _0="To je zvláštní, já nevím kdo tě zabil." _1="Naopak jsem si všim že jsi se spomalil za blízkým." _2="Zkus zadní vchod pro úťek, který je venku!"/>
+            </glitch>
+            <halt type="tip">
+                <tip1 _0="Zemřeli jste tím, komu říkáte Halt..." _1="Musíš od něj utéct!" _2="Může se však kdykoli objevit před vámi..."/>
+                <tip2 _0="Zase Halt..." _1="Může se kdykoli objevit před vámi." _2="Když to udělá, otoč se a pokračuj v úťeku!"/>
+                <tip3 _0="Zdá se, že máte problémy s Haltem..." _1="Když se teleportuje, narušuje vaši vizi." _2="Snaž se předvídat jeho teleportaci!"/>
+            </halt>
+            <rush type="tip">
+                <tip1 _0="Rush tě zabil..." _1="Věnujte pozornost věcem, které mohou naznačovat jeho příchod." _2="Vydává také zvuk když přichází."/>
+                <tip2 _0="Zase Rush..." _1="Hlídej světla." _2="Souvisejí s jeho útokem."/>
+                <tip3 _0="Zdá se, že máte problémy s Rushem..." _1="Světla blikají když je poblíž." _2="Kdykoli se to stane, najdi schovku!"/>
+            </rush>
+            <screech type="tip">
+                <tip1 _0="Screech tě zabil..." _1="Vyhýbá se osvětlených místností." _2="Pokud máš podezření, že je v okolí, koukni se okolo sebe."/>
+                <tip2 _0="Zase Screech..." _1="Vychází v temných místnostech." _2="Když držíš světlo, téměř nikdy neůtočí."/>
+                <tip3 _0="Zdá se, že máte problémy se Screechem..." _1="Když zpíváš proti němu, tvá vize se ztmaví." _2="Zabráníš tomu světlem!"/>
+            </screech>
+            <seek type="tip">
+                <tip1 _0="You seem to have gotten lost, and died to Seek..." _1="Stay focused on the rhythm." _2="It may be hard to follow the rhythm while running, but you can do it!"/>
+                <tip2 _0="You died to Seek again..." _1="When it screams, it may destabilize you." _2="Don't let it get an advantage on you."/>
+                <tip3 _0="You almost made it!" _1="Don't waste any time." _2="You'll need it all!"/>
+            </seek>
+            <dupe type="tip">
+                <tip1 _0="You died to Dupe..." _1="It creates fake doors." _2="Make sure to pick coherent doors."/>
+                <tip2 _0="You died to Dupe again..." _1="It creates fake doors, but isn't great at it." _2="Remember that you can never go backwards."/>
+                <tip3 _0="It seems you are having trouble with Dupe..." _1="When encountering 2 doors, make sure to pick a coherent one." _2="If a door makes you go backwards, it probably contains Dupe."/>
+            </dupe>
+            <shadow type="tip">
+                <tip1 _0="You died to who you call Shadow..." _1="It appears in front of you and drains your life energy." _2="I believe you can make it flee."/>
+                <tip2 _0="You died to Shadow again..." _1="It slowly depletes your life energy if it remains for too long." _2="Maybe ask it to leave? Poke it until it leaves?"/>
+                <tip3 _0="It seems you are having trouble with Shadow..." _1="Try clicking on it until it disappears." _2="Remember, click on it as much as possible until it disappears."/>
+            </shadow>
+            <hide type="tip">
+                <tip1 _0="You died to who you call Hide..." _1="It seems to appear when you stay inside closets." _2="I believe exiting the closet will help you."/>
+                <tip2 _0="You died to Hide again..." _1="It seems to appear when you stay inside closets." _2="Avoid staying too long inside closets."/>
+                <tip3 _0="It seems you are having trouble with Hide..." _1="Try exiting the closets when hearing the whispers." _2="You may need to exit and enter back into closets."/>
+            </hide>
+            <void type="tip">
+                <tip1 _0="You died to who you call Void..." _1="Its always creeping up ever-so-slightly behind you." _2="Avoid letting it catch you!"/>
+                <tip2 _0="You died to Void again..." _1="It seems to appear when you spend too long idling." _2="Avoid letting it catch up!."/>
+                <tip3 _0="It seems you are having trouble with Void..." _1="Try leaving the room when you start losing consciousness." _2="He'll leave you alone if you move away."/>
+            </void>
+            <generalTip _0="It seems you couldn't follow the rhythm..." _1="Make sure to hit the notes at the right time!" _2="I'll help you with guiding notes."/>
+            <lastLife _0="Hmm..." _1="It seems another one has fallen..." _2="Say Hi to Bob for me, will you?"/>
+        </tips>
+        <reviveWarning value="You have {0} revives left."/>
+    </death>
+    <placeholder value="Zástupný symbol"/>
+    <credit>
+        <artist value="Malíř"/>
+        <artists value="Malíři"/>
+        <musician value="Interpret"/>
+        <musicians value="Interpreti"/>
+        <chart value="Mapa"/>
+        <ez value="Lenient"/>
+        <normal value="Standard"/>
+        <hard value="Expert"/>
+        <hell value="Pekelné"/>
+    </credit>
+    <newCredit>
+        <art value="Malba"/>
+        <music value="Muzika"/>
+        <chart value="Mapa"/>
+    </newCredit>
+    <options>
+        <disabled value="VYPNUTÉ"/>
+        <enabled value="ZAPNUTÉ"/>
+        <main>
+            <!-- Try to keep these short -->
+            <language value="Jazyk"/>
+            <glasshat value="Glasshat"/> <!-- Don't translate this one -->
+            <controls value="Ovládání"/>
+            <graphics value="Grafika"/>
+            <visuals value="Vizuály"/>
+            <gameplay value="Hra"/>
+        </main>
+        <visuals>
+            <notesplash name="Notové Cákance" desc="Když vyplé, trefení &quot;Úžasný!&quot; not neukáže částice."/>
+            <notesplashAlpha name="Průhlednost Cákanců" desc="Vyšší čísla znamenají, že cákanec je viditejnější."/>
+            <hidehud name="Shovat HUD" desc="Když zaplé, shová většinu HUD elementů."/>
+            <timebar name="Časovač:" desc="Co by měl Časovač ukazovat?"/>
+            <flashinglights name="Blikající světla" desc="Vypni tohle jestli nemáš rád blikající světla!"/>
+            <camerazooms name="Kamerové Přiblížení" desc="Když vyplé, kamera se nepřiblíží na beat."/>
+            <camerafollow name="Sledování Kamery" desc="Když vyplé, kamera se nebude pohybovat když trefíš notu."/>
+            <cameraangle name="Kamerové otočení" desc="Když vyplé, kamera se neotočí když trefíš levou nebo pravou."/>
+            <healthslide name="Posuvník Života" desc="Když zaplé, život se neobjeví když je plný\na objeví když umíráš."/>
+            <healthicons name="Ikony na Životě" desc="Když zaplé, uvidíš inkony na životech místo strany\n(&quot;Vanilla&quot; or &quot;Ourple Guy Styl&quot;)."/>
+            <scoretxtzoom name="Text Skóre Přiblížení na beat" desc="Když vyplé, vypne skóre a text se přibližovat\nvždycky co trefíš notu."/>
+            <fpscounter name="FPS Ukazatel" desc="Když vyplé, shová FPS Ukazatel."/>
+            <specificOptions>
+                <timebar _0="Zbívající Čas" _1="Uběhlý Čas" _2="Jméno Písně" _3="Vypnuto" _4="Vypnuto"/>
+            </specificOptions>
+        </visuals>
+        <language>
+            <language name="Jazyk" desc="Změní jazyk hry!"/>
+            <helpOut name="Help us out!" desc="You can participate freely to translation by contacting FNF Doors Translation Team."/>
+            <finished value="Finished"/>
+            <proofread value="Proofread"/>
+            <help value="You can help by clicking the button above."/>
+            <infoText value="The translation {0} is :\n {1}% Finished\n{2}% Proofread\nYou can help by clicking the button above."/>
+        </language>
+        <graphics>
+            <lowquality name="Nízká Kvalita" desc="Když zapnuto, vypne nějaké detaily na pozadí,\nzkrátí nabíhaní a zlepší výkon."/>
+            <antialiasing name="Vyhlazování" desc="Když vypnuto, vypne Vyhlazování, zlepší výkon\nza cenu ostřejších vizuálů."/>
+            <shaders name="Shadery" desc="Když vypnuto, vypne Shadery.\nPoužito pro vizuální efekty, ale jsou CPU intenzivní pro slabší PC."/>
+            <framerate name="Snímková Frekvence (FPS)" desc="Vysvětlí se to samo, nebo ne?"/>
+            <colorblind name="Filtr pro Barvoslepý" desc="Můžeš nastavit Filtr pro Barvoslepý (lepší hratelnost pro barvoslepý)"/>
+            <filmgrain name="Filmová Zrnitost" desc="Přidá Filmovou zrnitost k Režimu Příběhu"/>
+            <gpucache name="GPU mezipaměť" desc="Když zapnuto, povolí GPU ukládat textury do mezipaměti, snižuje využití RAM."/>
+            <specificOptions>
+                <colorblind _0="Žádné" _1="Deuteranopie" _2="Protanopie" _3="Tritanopie"/>
+            </specificOptions>
+        </graphics>
+        <gameplay>
+            <controller name="Mód Ovladače" desc="Zapni tohle, když chceš hrát s ovladačem místo klávesnice."/>
+            <midscroll name="Middlescroll" desc="Když zapnuto, noty budou ve středu obrazovky."/>
+            <downscroll name="Downscroll" desc="Když zaplé, noty poletí dolů másto nahoru."/>
+            <oppnotes name="Noty Nepřítele" desc="Když vypnuto, neuvidíš noty nepřítele."/>
+            <ghosttap name="Ghost Tapping" desc="Když zaplé, nedostaneš chyby za stisknutí kláves,\nkdyž tam není žádná nota."/>
+            <disablereset name="Vypnout Klávesu Resetování" desc="Když zaplé, stisknutí resetu nic neudělá."/>
+            <strumlineBackgroundOpacity name="Strumline Background" desc="Adds a black background behind your arrows, allowing you to see better."/>
+            <hitsound name="Hlasitose Hitsoundu" desc="Vtipné noty dělají &quot;Tik&quot; , když je trefíš."/>
+            <ratingoffset name="Ofset Hodnocení" desc="Změní jak brzo/pozdě musíš trefit pro &quot;Úžasný&quot;\nČím víš, tím déle to musíš trefit."/>
+        </gameplay>
+        <controls>
+            <default value="Resetovat na Originální Klávesy"/>
+            <notes>
+                <globalname value="--- NOTY ---"/>
+                <note_left value="Doleva"/>
+                <note_down value="Dolů"/>
+                <note_up value="Nahoru"/>
+                <note_right value="Doprava"/>
+            </notes>
+            <heartbeat>
+                <globalname value="--- SRDEČNÍ TEP ---"/>
+                <heartbeat_left value="Doleva"/>
+                <heartbeat_right value="Doprava"/>
+            </heartbeat>
+            <items>
+                <globalname value="--- VĚCI ---"/>
+                <item1 value="Věc 1"/>
+                <item2 value="Věc 2"/>
+                <item3 value="Věc 3"/>
+                <item4 value="Věc 4"/>
+                <item5 value="Věc 5"/>
+                <item6 value="Věc 6"/>
+            </items>
+            <ui>
+                <globalname value="--- UI ---"/>
+                <reset value="Reset"/>
+                <accept value="Potvrdit"/>
+                <back value="Zpět"/>
+                <pause value="Pauza"/>
+            </ui>
+            <volume>
+                <globalname value="--- HLASITOST ---"/>
+                <volume_mute value="Ztlumit"/>
+                <volume_up value="Nahoru"/>
+                <volume_down value="Dolů"/>
+            </volume>
+            <debug>
+                <globalname value="--- DEBUG ---"/>
+                <debug_1 value="Klávesa 1"/>
+                <debug_2 value="Klávesa 2"/>
+            </debug>
+        </controls>
+    </options>
+    <items>
+        <test name="Testovací Objekt" desc="Nevím jak si tohle dostal, ale aspoň to máš?" plural="F"/>
+        <lighter name="Zapalovač" desc="Makes it easier to see in dark places. May even allow you to see other paths." plural="F"/>
+        <flashlight name="Baterka" desc="Turns a dark room into a lit-up room!" plural="F"/>
+        <crucifix name="Krucifix" desc="You may find a use for this at death's door." plural="F"/>
+        <vitamins name="Vitamíny" desc="It says on the label: &quot;Lose Less, Gain More!&quot;" plural="T"/>
+        <candle name="Svíčka" desc="Lighting this candle may help you sing better." plural="F"/>
+        <bandages name="Bandage" desc="Stops any kind of damage, until it peels off." plural="T"/>
+        <error name="věc.neNalezena.Glitch.NaN" desc="Připomíná ti někoho váženého..." plural="F"/>
+        <skeleKey name="Kostlivcový Klíč" desc="Může otevřít dveře... To dělají klíče, že jo ?" plural="F"/>
+        <soldout value="Vyprodáno!"/>
+
+        <messages>
+            <storyVitamins value="Tohle by bylo užitečné pouze tehdy, když jste v nebezpečí..."/>
+        </messages>
+    </items>
+    <mechanics>
+        <halt>
+            <bg value="OTOČ SE"/>
+            <title value="HALTOVA MECHANIKA"/>
+            <major value="Nedotykej se Haltovy ikony."/>
+            <minor value="Stisknutím [{0}] tě pohne doprava.\nTrefení not tě pohne do leva."/>
+        </halt>
+        <eyes>
+            <bg value="NEKOUKEJ SE"/>
+            <title value="MECHANIKA EYES"/>
+            <major value="NEKOUKEJ SE."/>
+            <minor value="Stisknutím [{0}] udělá boyfrienda zavřít své oči a zastaví požkození.\nKdyž máš dlouho zavřené oči, bude to těžší vidět noty."/>
+        </eyes>
+        <figure>
+            <bg value="NEDĚLEJ ZVUKY"/>
+            <title value="MECHANIKA FIGURE"/>
+            <major value="HLÍDEJ SI SVŮJ TEP."/>
+            <minor value="Stisknutím [{0}] a [{1}], kopíruj tep podle HEART NOTES které se objevují.\nChybování je těžce potrestáno."/>
+        </figure>
+        <popups>
+            <snare>
+                <major value="+ SNARE"/>
+                <minor value="Watch your health!"/>
+            </snare>
+        </popups>
+    </mechanics>
+    <states>
+        <pause>
+            <warning value="Tohle tě donutí použít oživení!\nSeš si jistý že to chceš?"/>
+            <warningtwo value="Nemáš žádné oživení!\nTohle tě automaticky donutí resetovat svůj prkrok.\nSeš si jistý že to má cenu ?"/>
+            <yes value="Ano"/>
+            <no value="Ne"/>
+        </pause>
+        <mainmenu>
+            <sm value="PŘÍBĚH"/>
+            <gal value="GALERIE"/>
+            <cred value="KREDITY"/>
+            <free value="VOLNÁ HRA"/>
+            <ach value="POKROKY"/>
+            <sett value="NASTAVENÍ"/>
+            <tip value="DONATIONS"/>
+        </mainmenu>
+        <credits>
+            <owner value="Vlastnitel"/>
+            <director value="Vedoucí"/>
+            <lead value="Lead"/>
+            <artist value="Malíř"/>
+            <animator value="Animátor"/>
+            <chrom value="Kreátor Chromatic"/>
+            <music value="Interpret"/>
+            <chart value="Mapovač"/>
+            <code value="Programátor"/>
+            <guest value="Náštěvník"/>
+            <former value="Bývalí"/>
+        </credits>
+        <flashing>
+            <warn value="Pozor!\nTenhle mód má blikající světla!\nPrávě není cesta jak je vypnout !!!\nDávej pozor když hraješ tenhle mód !!!!\nTahle obrazovka se ukáže jen jednou.\nByl/a jsi varován!"/>
+        </flashing>
+        <freeplay>
+            <unlock value="ODEMKNOUT\n&quot;{0}&quot;\nACHIEVEMENT"/>
+            <or value="NEBO"/>
+            <instructions value="Stiskni DOLEVA nebo DOPRAVA na změnu kategorie | Stiskni ENTER aby jsi hrál písni."/>
+            <subinstructions value="'Stiskni {0} nebo {1} abys pokračoval/a.\nStiskni {2} nebo {3} abys odešel/a.'"/>
+            <categories>
+                <start value="First Steps - Boyfriend &amp; Guiding Light"/>
+                <rush value="Unleashed Stampede - Rush"/>
+                <screech value="Hiss in the Shadows - Screech"/>
+                <ambush value="Restless Echo - Ambush"/>
+                <eyes value="Gaze into Madness - Eyes"/>
+                <halt value="Corridor Phantom - Halt"/>
+                <timothy value="Eight-Legged Surprise - Timothy"/>
+                <jack value="Closet Guardian - Jack"/>
+                <shop value="Shop Düdz - Bob, Jeff &amp; Goblino"/>
+                <seek value="Devil's Chase - Seek"/>
+                <figure value="Blind Hunt - Figure"/>
+                <glitch value="Reality Broken - Glitch"/>
+                <freeplay value="Extras"/>
+
+                <!-- WIP CATEGORIES -->
+                <dupe value="Memory Game - Dupe"/>
+            </categories>
+        </freeplay>
+        <newFreeplay>
+            <length value="Délka písně"/>
+            <diff value="Obtížnost"/>
+            <mdiff value="M. Obtížnost"/> <!-- This corresponds to the mechanic difficulty -->
+        </newFreeplay>
+        <gallery>
+            <!-- Heavily unfinished, we'll have to finish up the gallery before you can translate it -->
+        </gallery>
+        <title>
+            <glasshatTxt value="S LÁSKOU OD GLASSHAT STUDIOS &amp; FRIENDS"/>
+            <haxeflixelTxt value="VYVOJEN S HAXEFLIXEL"/>
+            <love value="S LÁSKOU PRO\nDOORS\nA\nFRIDAY NIGHT FUNKIN'"/>
+        </title>
+    </states>
+    <leaderboards>
+        <glasshat value="GLASSHAT JMÉNO"/>
+        <score value="SKÓRE"/>
+        <acc value="ACC"/>
+        <miss value="CHYBY"/>
+        <modf value="MÓDY"/>
+    </leaderboards>
+    <story>
+        <reset value="Stiskni R na resetování tvého pokroku."/>
+        <results>
+            <tbc value="Konečně venku...?"/>
+            <died value="Game Over"/>
+            <runScore value="Skóre : "/>
+            <runRating value="Přesnost : "/>
+            <runMiss value="Chyby : "/>
+            <runMods value="Použité modifikátory : "/>
+            <runTime value="Čas Zahrán : "/>
+            <runSongs value="Hostile Entities Encountered : "/>
+            <newBest value="New Best!"/>
+        </results>
+        <itemget>
+            <singular value="Dostal/a jsi {0} !"/>
+            <multiple value="Dostal/a jsi {0} !"/>
+            <warn value="Nezapomeň že nemůžeš nít více než 6 věcí na jednou!"/>
+        </itemget>
+        <runstats>
+            <diff value="Obtížnost"/>
+            <timePlayed value="Čas Zahrán"/>
+            <currentDoor value="Akruální Dveře"/>
+            <noSongs value="Zatím jsi nehrál žádné písně!"/>
+        </runstats>
+        <paintings>
+            <left>
+                <Icydrip value="Icydrip deskripce obrazu"/>
+                <Kal value="&quot;Klidný&quot; mimozemšťan."/>
+                <Yosi value="Kdybych byl jen tak klidný jako on."/>
+                <Murder value="Snažili se spolupracovat na písni."/>
+                <Tibu value="Programátor spatřen ve volné přírodě."/>
+                <Halt value="Tento obraz se jmenuje &quot;Ghost Remnant&quot;."/>
+                <Morph value="Zdá se, že tento obraz nemá jméno..."/>
+                <Overhead value="Tento obraz se jmenuje &quot;Overhead!&quot;."/>
+
+                <Plant value="This painting is titled &quot;Orchidaceae&quot;."/>
+                <Troll value="This painting is titled &quot;Emotional Man&quot;."/>
+                <YellowCreature value="This painting is titled &quot;Electrical&quot;."/>
+
+            </left>
+            <right>
+                <Catimbas value="This painting is titled &quot;Autoportrait of Catimbas&quot;."/>
+                <Leetram value="Já jsi pamatuju tuhle čepici!"/>
+                <Rochi value="Tento obraz se jmenuje &quot;Rochi&quot;."/>
+                <Peak value="Šťastná hudebnická rodina."/>
+                <Waleter value="Připomíná mi Pica."/>
+                <Quarters value="Tento obraz se jmenuje &quot;Quarters&quot;."/>
+                <Ribbons value="Tento obraz se jmenuje &quot;Ribbons&quot;."/>
+                <RushingOld value="Tento obraz se jmenuje &quot;Smile Remnant&quot;."/>
+                <SmallSpider value="Tento obraz se jmenuje &quot;Web Remnant&quot;."/>
+
+                <BrownImpostor value="This painting is titled &quot;Final Encounter&quot;."/>
+                <Door value="This painting is titled &quot;Door&quot;."/>
+                <Hole value="This painting is titled &quot;Imperfection&quot;."/>
+                <TheNether value="This painting is titled &quot;Witness&quot;."/>
+            </right>
+            <ML>
+                <DeepEnd value="Tento obraz se jmenuje &quot;Deep End&quot;."/>
+                <Stargazer value="Tento obraz se jmenuje &quot;Stargazer&quot;."/>
+                <ChemicalAndMerritz value="Looks like whoever made the paintings honored those who are not still with us."/>
+                <WeirdScreechThingy value="This painting is titled &quot;Knockoff&quot;."/> 
+            </ML>
+            <MR>
+                <Marshmallows value="Tento obraz se jmenuje &quot;Marshmallows&quot;."/>
+                <SpookyScary value="Tento obraz se jmenuje &quot;Spooky, Scary&quot;."/>
+                <BlueandPuritzle value="This painting is titled &quot;Portrait of a Portrait of a Portrait&quot;."/> 
+                <FlintAndSteel value="This painting is titled &quot;Flint N Steel in a snowstorm&quot;."/> 
+            </MR>
+            <SL>
+                <Psst value="Tento obraz se jmenuje &quot;Psst...&quot;"/>
+                <Baller value="Tento obraz se jmenuje &quot;Baller&quot;."/>
+                <haircut value="This painting is titled &quot;Haircut&quot;."/> 
+                <PurpleandCallu value="This painting is titled &quot;Reconciliation&quot;."/> 
+            </SL>
+            <SR>
+                <Loser value="Tento obraz se jmenuje &quot;Loser&quot;."/>
+                <Friend value="Tento obraz se jmenuje &quot;47th Friend&quot;."/>
+                <HotLemon value="This painting is titled &quot;Lemon in a Hot Dog bun&quot;."/> 
+                <RipsyAndZestik value="This painting is titled &quot;The haunted one&quot;."/> 
+            </SR>
+        </paintings>
+        <tutorial value="Hello Visitor! Progression is made by going through the many doors you may find. You may want to try using your mouse to explore your surroundings, and interact with the furniture and objects. These can help you survive in this hotel, by giving you money, or usable items. Your goal is to make it to door 100 alive."/>
+        <interactions>
+            <books value="Několik starých knih o {0}"/>
+            <closetClosed value="Tato skříň nemůže být otevřena..."/>
+            <guidancePlayed value="Spívat stejnou věc dvakrát nebude zajímavé."/>
+            <darkSight value="Je to těžké vidět ve tmě."/>
+            <doorClosed value="Tyto dveře nejsou přístupné."/>
+            <entityClosed value="Něco vám brání v přístupu k těmto dveřím."/>
+            <entityLongClosed value="Něco vám brání v přístupu od dalšího postupu."/>
+            <entityFurClosed value="Něco vám brání interakce s tímto."/>
+        </interactions>
+    </story>
+    <achievements>
+        <menu value="POKROKY"/>
+        <anyoneHome name="Anyone Home?" desc="Ring the bell in the lobby."/>
+        <rushFind name="Uhněte" desc="Najdi Rushe."/>
+        <screechFind name="Vydím tě" desc="Najdi Screeche."/>
+        <eyesFind name="Koukni se na mě" desc="Najdi Eyes."/>
+        <ambushFind name="Odražení" desc="Najdi Ambushe."/>
+        <timothyFind name="Poznej te se s Timothym" desc="Najdi Timothyho."/>
+        <glitchFind name="Zanechán" desc="Vzpomeň si, kdo tě nechal v lobby."/>
+        <jackFind name="Ooga booga!" desc="Setkej se s Jackem."/>
+        <haltFind name="Tam a zpátky" desc="Najdi Halt."/>
+        <figureFind name="Shhhhh..." desc="Poznej Figure."/>
+        <seekFind name="Můžete běžet" desc="Najdi Seek."/>
+        <absoluteFailure name="Absolutní závada" desc="Měj plný inventář, ale stejně umři."/>
+        <fuckScreech name="Oslepen sluncem" desc="Rosviť místnost."/>
+        <burnTheHotel name="Podpal hotel" desc="Použij 2 zapalovače ve stejně místonsti."/>
+        <seeingDouble name="Dvoijitý Útok" desc="Méj 2 entity ve stejné místnosti v režimu Příběhu."/>
+        <comboNotFound name="Kombo nenalezeno!" desc="Finish &quot;404&quot; with at least 404 combo."/>
+        <youreSlow name="Step by Step" desc="Always pick the smallest of 2 Doors."/>
+        <youreFast name="Following your Dreams" desc="Always pick the biggest of 2 Doors."/>
+        <youWin name="Konečně pryč...?" desc="Dohraj hru."/>
+        <youWinHard name="Na dně" desc="Dohraj hru na těžké obtížnosti."/>
+        <thatsEasy name="To bylo lehké." desc="Dohraj hru bez chyb."/>
+        <onTheEdge name="Na okraji" desc="Buď u halta pro 20 sekund"/>
+        <neverTripped name="Nikdy nezakop" desc="Dohraj všechny Seekovo písně s přesností větší než 95%"/>
+        <cardiacArrest name="Kardiostimulátor" desc="Nikdy neměj chybu v srdečním tepu."/>
+        <drippedOut name="Vydrippován" desc="FC Drip a Drip Pekelné."/>
+        <RNJesus name="Milován RNG bohem" desc="Najdi Jacka. Dvakrát. Ve stejném pokusu."/>
+        <tissButAScratch name="Tohle je jen modřina!" desc="Dohraj hru bez chyb a s přesností větší než 99.9%."/>
+        <completionist name="Completionist" desc="FC každou píseň."/>
+        <hotelHell name="Hotelové Peklo" desc="Dohraj hru s +150% knob modifikátory (nebo víc)."/>
+        <donation name="Dárcovský cíl!" desc="Donate 5 times to Jeff in Story Mode in the same run."/>
+        <voidFind name="It Stares Back" desc="Encounter the Void."/>
+        <rip name="RIP" desc="Lose all your revives."/>
+        <smallBusiness name="Supporting Small Businesses" desc="Buy an item from Jeff."/>
+        <crucifix name="Why Won't You Die?" desc="Use a crucifix."/>
+        <welcomeBack name="Welcome Back" desc="Play story mode a second time after winning."/>
+    </achievements>
+    <modifiers>
+        <easy name="Lehký Režim" value="Méně Not, Lehčí Mechaniky."/>
+        <hard name="Těžký Režim" value="Více Not, Těžší Mechaniky."/>
+        <lessdark name="Zaplá Světla" value="O hodně míň tmavých místností."/>
+        <noflicker name="Práce Elektrykáře" value="Světla nikdy neblikají ani se neniší."/>
+        <moredark name="Žpatná Práce Elektrykáře" value="Více tmavých místností a světla více blikají a ničí."/>
+        <alldark name="Večerka" value="Všechny místnosti bez písně jsou tmavé"/>
+        <moremoney name="El Goblino Na Přestávce" value="Najdeš více zlata."/>
+        <lessmoney name="El Goblino Tu Byl" value="Najdeš méně zlata."/>
+        <nomoney name="El Goblinovo Výplata" value="Nenajdeš žádný zlato."/>
+        <moreitems name="Víc Věcí" value="Najdeš více Věcí."/>
+        <lessitems name="Mín Věcí" value="Najdeš méně věcí."/>
+        <noitems name="Žádné Věci" value="Nenajdeš žádné věci."/>
+        <SPAMTON_G_SPAMTON name="Obchodník" value="Shop item prices are RANDOMIZED!"/>
+        <doublemaxhealth name="Nepohybný Objekt" value="Máš dvakrát více života."/>
+        <aegis name="Egida" value="Můžeš dostat overheal s maximálním počtem 200% života. Overheal se snižuje časem."/>
+        <killer name="Instinkt Zabijáka" value="Když uděláš chybu, pro 5 sekund dostáváš více života."/>
+        <halfmaxhealth name="Skleněný Kanón" value="Máš jen polovinu života."/>
+        <halfhealth name="Zakopl" value="Začneš většinu písní s 50% nebo méně života."/>
+        <quarterhealth name="Zakopl a Leží" value="Začneš většinu písní s 25% nebo méně života."/>
+        <oneshot name="Poslední Výdech" value="Jestli netrefíš notu, umřeš."/>
+        <perfect name="Perfekce" value="Trefování úžasný ti dá 2x víc života, ale všechno ostatní ti život nedá."/>
+        <sweettooth name="Sladkozubý" value="Čím větší máš kombo, tím více života stratíš za chyby."/>
+        <lesssongs name="Procházka" value="Většina entit útočí méně."/>
+        <moresongs name="Útěk" value="Většina entit útočí častěji."/>
+        <repeat name="Znovu!" value="Stejná píseň může zahrát víckrát."/>
+        <hide name="V Šatníku" value="Přidá novou mechaniku. Spammuj Mezerník aby tě Hide nevyhodil (a zabil)."/>
+        <screech_faster name="Postřech" value="Screetch ti ubližuje rychelji."/>
+        <timothy_less name="Deratizace" value="Nemůžeš najít Timothyho v šuplíkách :("/>
+        <timothy_more name="Pavoičí návnada" value="Timothy se objevuje častěji :D"/>
+        <eyes_drainslower name="Ěilhání" value="Eyes ti ubližuje pomaleji."/>
+        <eyes_darkslow name="Jsem Vzhůru" value="Obrazovka bude celá černá když máš zavřené oči."/>
+        <eyes_drainfaster name="Dléhavý Pohled" value="Eyes ti ubližuje rychleji."/>
+        <eyes_darkfast name="Unavení" value="Orazovka bude celá černá rychleji když máš zavřené oči."/>
+        <eyes_fadingout name="Vyhasnutí" value="Čím blíž je obrazovka k černotě, tím víc života dostáváš."/>
+        <figure_easy name="Zlaté Srdce" value="Chyba v tepu srdce ti ublíží jako normální nota."/>
+        <figure_oneshot name="Infarkt" value="Chyba v tepu srdce tě zabije."/>
+        <seek_slower name="Poklus" value="Seek ti bere život pomaleji."/>
+        <seek_faster name="Sprint" value="Seek ti bere život rychleji."/>
+        <seek_constant name="Špatný Kardio" value="Pomalu stráxíš život když utíkáš od Seeka."/>
+        <halt_early name="Telepat" value="jsi varován o Haltovo změnu stran dříve a ubližuje tě pomaleji."/>
+        <halt_more name="Otočky" value="Halt se objeví víckrát a ubližuje ti rychleji."/>
+        <halt_mirror name="Zrcadlení" value="Noty změní stranu když ty změníš stranu."/>
+        <halt_slide name="Skluzavka" value="Halt se neteleportuje na druhou stranu, ale klouže se. Ubližuje ti když se zklouzne."/>
+        <jack_restart name="Znovu?" value="Když se Jack schová, tak budeš mít stejně života jako na začátku písně."/>
+        <glitch_segmentation name="Segmentační Chyba" value="Tvoje životy se porouchají, takže nemá smysl koukat na ně. Stejné pro čas."/>
+        <glitch_corruption name="Korupce" value="Tvůj HUD se někdy porouchá pro pár milisekund"/>
+        <shadow_remove name="Lehká Mysl" value="Shadow se nemůže objevit."/>
+        <shadow_harder name="Klikej Rycheji!" value="Shadow bude těžší na poražení."/>
+        <shadow_more name="Schizofrenie" value="Shadow se objeví víckrát."/>
+        <void_remove name="Šnek" value="Void se neobjeví."/>
+        <void_more name="Speedrunner" value="Void se objeví dvakrát rychle."/>
+        <fading name="Mizící" value="Noty pomalu zmizí a zase objeví."/>
+        <overdrive name="Převod" value="Náhodně změní scroll speed a získání života v písni."/>
+        <screech_darkness name="Pravá Tma" value="Místnost bude ještě tamvší a schová vrch not."/>
+        <superperfect name="Všechno nebo Nic" value="Trefením Úžasných získáš život, zbytkem stratíš."/>
+        <modcharting name="NotFNF - Recommended" value="Noty budou tancovat!"/>
+        <snare_everywhere name="Pozor kam šlapeš" value="Past se objeví na každé písni, jako kdybys byl/a ve skleníku."/>
+        <botplay name="Skill Issue Mód" value="Zapne Botplay."/>
+        <practice name="Tréning" value="Zapne Tréning."/>
+        <categories>
+            <easier value="Easier Modifiers"/>
+            <harder value="Harder Modifiers"/>
+            <story_mode value="Story Mode Modifiers"/>
+            <health value="Health Modifiers"/>
+            <notes value="Note Modifiers"/>
+            <rush value="Rush Modifiers"/>
+            <screech value="Screech Modifiers"/>
+            <timothy value="Timothy Modifiers"/>
+            <eyes value="Eyes Modifiers"/>
+            <figure value="Figure Modifiers"/>
+            <seek value="Seek Modifiers"/>
+            <halt value="Halt Modifiers"/>
+            <jack value="Jack Modifiers"/>
+            <glitch value="Glitch Modifiers"/>
+            <misc value="Misc Modifiers"/>
+        </categories>
+    </modifiers>
+
+    <lyrics>
+        <angry-spider>
+            <im_a_giant value="I'm a giant"/>
+            <ungoliant value="Ungoliant"/>
+            <a_shelob value="Shelob"/>
+            <an_aragog value="Aragog"/>
+            <an_arukenimon value="Arukenimon"/>
+            <and_i_wreck_anyone_i_can value="A já mohu zničit kohoki chci"/>
+            <im_pog value="Jsem Pog"/>
+            <a_self_propelling_hairy_hand value="Samoosobě střílející ruka"/>
+            <with_eight_fingers value="S osmi prsty"/>
+            <wrapped_around_a_pair_of_scary_fangs value="Zabalená okolo strašidelných tesáků"/>
+            <ornate_pincers value="Zdobené kleště"/>
+        </angry-spider>
+    </lyrics>
+
+    <bobsBook>
+        <intro value="Hi, I’m Bob, I’m not going to spend my time writing about me and how I ended up here because that is not important right now, although I may add it once I’ve finished writing this book. I’m writing this about something else. About this “Hotel”, if you can even call it that.  I’m at least going to document everything I discover about this place. Maybe it can help someone else, or make me a lot of money once I sell this book!  I hope this helps. Turn back while you still can."/>
+
+        <hotel value="Na tomto hotelu je něco divného. Budu detailovat věci, které najdi v budoucích stranách. Update - Door 3: Vždy tu jsou dvě dveře, všechny místnosti vypadají jako divné chodby. Slyěím divné zvuki ale nikdu tam není, myslím že jsem sám. alespoň doufám. Update - Door 9: Nejsem sám. Update - Door 27: Jsou tu oči na zdech. Obrazy také vypadají divně. Update - Door 49: Další místnost vypadá jako knihovna. Já můžu slyšet něco řvát za tima dveřma."/>
+
+        <entities value="Those &quot;Entities&quot;... They aren’t like anything I’ve ever seen, not animals nor humans. I don’t even know if they are real or inside my head.  I’ll continue documenting my discoveries in this book. I’ll let you know, reader, what I encounter in future.."/>
+
+        <guidingLight value="Překvapivě pomocná entita. Může se mnou mluvit, a pomáhá mi přes správnou cestu a lépe pochopit věci. Pomohlo mi se jménama entit, protože to prej nejsem první."/>
+
+        <hide value="This entity is a weird thing I noticed in the closets. I don't think it's a malignent conscious entity, but it's definitely weird. I decided to hide in one of the closets while I wrote this book, but my eyes started to hurt, and I got a strong headache, until I left the closet.  Update: I found a crucifix in a drawer and decided to open a closet, it instantly slammed shut. Don't know what that was all about."/>
+
+        <rush value="Holy fuck, that one is a conscious and malignent thing. It looks like a big flying head with dark smoke emitting from it. It seems to always smile, as far as I can tell at least. It’s hard to describe this one’s appearance because of how fast it moves, I tried to draw it the best I could. It can charge through doors. So hiding behind one won’t do you any good. I just think it patrols all the rooms though, it doesn’t look everywhere for prey. Definitely hostile, using the closets to hide has worked in ensuring my survival."/>
+
+        <screech value="Velice malá lepkavá věc. Vypadá jako kdyby měla chapadla nebo bodliny na sobé. Vypadá to že se objebuje hlavné ve tm+, a vždy udělá &quot;Psst&quot; před ůtokem. Zaůtočí tě ve slepém místě a ukousne kus tvé kůže. Všim jsem si ho když jsem slyšek &quot;Psst&quot; a pak cítil hodně bolesti na levé noze, díky bohu že jsem měl obvazy. Namaluji to když to pořáně uvidím."/>
+
+        <ambush value="Very similar to Rush. It’s also a big flying head, although it emits a bright green glow instead of dark smoke. I would’ve said that Ambush is easier to avoid as its green glow gives you a lot more time to react, but I was quick to notice that instead of dashing forward once, it rebounds back and fourth. It’s constantly screeching when nearby so once it stops, you can tell that it’s safe to get out of your hiding spot."/>
+
+        <timothy value="Nemyslím že bolí tak moc jako ostatní entity, je to pavouk. Pojmenuji ho Timmothy, Viděl jsem ho víckrát tak o něm udělám stranu. Vždycky se leknu když ze šuplíku vyskočí na můj obličej. Někdy kousne, ale já vždycky měj věc pro pavouky."/>
+
+        <seek value="Píšu toto po největším sprintu mého života. Otočil jsem se a viděl jsem tu entitu. Tahle je určitě vědomá a chytrá. Může manipulovat s hotelem, například shodí lustry. Jestli to uvidíš, utíkej dokud neslyšíš hlasité kroky. Nenech se chytít, nemyslím si že by to skončilo dobře."/>
+
+        <eyes value="This entity was really hard to draw, as I couldn’t directly stare at it. Eyes is a large purple light with a lot of eyes in the centre of it, 20~ish eyes maybe? Looking at it makes me feel like all my organs are shutting down, along with a massive headache. The best thing you can do would be closing your eyes, or looking in the opposite direction.  But as I always say, &quot;Heart, Liver, Lungs&quot; focus on yourself and you should be able to resist it for a few more seconds."/>
+
+        <figure value="Je to v knihovně."/>
+    </bobsBook>
+
+    <loadingTips>
+        <title>
+            <lby value="Koukni za sebe"/>
+            <warn value="Pozor!"/>
+            <dyu value="Uhhhhhhhhhhhh"/>
+            <dyk value="Věděl jsi?"/>
+            <ff value="Fun Fact :"/>
+            <kyd value="Věděl jsi?"/>
+            <ho value="Upřímně"/>
+            <pt value="Pro Tip:"/>
+        </title>
+        <text>
+            <lby value="Koukni za sebe"/>
+            <healthZero value="Pokud tvůj život bude nulový, umřeš!"/>
+            <fig value="Figure je figurína."/>
+            <shart value="Posral sem se. \nHodně posral"/>
+            <balls value="BFovo koule fungujou jako jeho koule"/>
+            <skibidi value="Screech má skibidi rizz (ne)"/>
+            <locker value="Figure si může strčit skříňku do prdele"/>
+            <no value="Ne."/>
+            <didu value="UHHHHHHHHHHH"/>
+            <dark value="Čím víc koukáš do tmy, \nTím víc kouká na tebe."/>
+            <bf value="V FNF : Doors módu se jménem FNF : Doors, existuje postava bf, protože bf"/>
+            <ah value="Screech je kokot"/>
+            <gun value="V catnip měl Seek mít pistol"/>
+            <maid value="Jednou byla pokojská, která to vše viděla. \nSvětlo je dovedlo do bezpečí."/>
+            <burned value="Seek prej nechtěl být podpálen naživu. \nWhoops"/>
+            <the value="ten"/>
+            <shit value="Figure se kouká, když sereš"/>
+            <dik value="Věděl jsem? Ví někdo?"/>
+            <hymn value="Drip je oficiální hymna Austrálie."/>
+            <none value=""/>
+            <mitosis value="Seekovo oči mohou provést mitózu. \nAle nikdy to nebylo oficiálně potvrzeno, takže táhni"/>
+            <insane value="90% vývojářů tohoto módu jsou šílení a nemohou žít ve společnosti"/>
+            <behind value="Za tebou..."/>
+            <nini value="NiNi, také znám jako Puppet Master dostal všechny Úspěchy v Doors."/>
+            <ido value="Ano."/>
+            <yosibu value="FNF : Všichni uživatelé Doors Community Server byli přejmenováni na &quot;Yosibu&quot; když vyšlo demo."/>
+            <yesterday value="Vím, co jsi dělal včera"/>
+            <vaporeon value="Pokud jde o páření samců člověka a samic Pokémon.\nVaporeon je nejvíce kompatibilní Pokémon"/>
+            <reset value="Jestli máš více než 50 kombo, stiskni R pro zadarmo věc!"/>
+            <fatrush value="Obézní Rush není skutečný."/>
+            <procrastinating value="(the translator procrastinated too much on this one)"/>
+            <plt value="Svobodná Palestýna"/>
+            <eyes value="Nemůžeš udržet své oči navždy zavřené proti Eyes!"/>
+            <halt value="Drž si rozchod od Halta."/>
+            <heartbeat value="Vždy věnuj pozornost tvému srdci proti Figure."/>
+            <run value="Utíkej!"/>
+            <idle value="Neflákej se moc dlouho!"/>
+            <lilguy value="Myslím, že ti chce něco ukázat.\nV pauze možná?"/>
+            <crashout value="crash out"/>
+            <findTim value="Find Timothy by searching through drawers instead of doors."/>
+            <findJack value="Find Jack by searching through closets with a 1/200 chance per closet."/>
+            <stareRemake value="Stare was remade over 8 times."/>
+            <demo2release value="Demo 2 was originally an April fools update for 2024."/>
+            <rushscreechcommon value="Rush and Screech are the most common entities to find in story-mode."/>
+            <f1update value="F1 isn’t the last update!"/>
+            <searchDrawers value="Remember to search drawers for coins to buy items from Jeff’s Shop."/>
+            <threeYears value="FNF Doors, by the time of F1’s release has been in the making for 3 years."/>
+        </text>
+    </loadingTips>
+
+    <popups>
+        <titles>
+            <expertDiff value="Message from a friendly face"/>
+        </titles>
+        <messages>
+            <expertDiff value="Hey! I think you may struggle more than you expect by selecting Expert difficulty.\n\nTry completing Normal before venturing into harder difficulties."/>
+        </messages>
+        <leavePopup value="Press any key or click to continue."/>
+    </popups>
+</root>

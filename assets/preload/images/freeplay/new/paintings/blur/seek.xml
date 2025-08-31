@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="seek.png" width="1688" height="335">
+	<SubTexture name="seek0001" x="2" y="2" width="560" height="331" frameX="-0" frameY="-0" frameWidth="560" frameHeight="331"/>
+	<SubTexture name="seek0002" x="564" y="2" width="560" height="331" frameX="-0" frameY="-0" frameWidth="560" frameHeight="331"/>
+	<SubTexture name="seek0003" x="1126" y="2" width="560" height="331" frameX="-0" frameY="-0" frameWidth="560" frameHeight="331"/>
+</TextureAtlas>

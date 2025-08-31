@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-350,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-350,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-350,
+				-450
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-350,
+				-365
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-350,
+				-450
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elevator/ambushElevator",
+	"position": [
+		-400,
+		-330
+	],
+	"healthicon": "ambush",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		184,
+		85
+	],
+	"camera_position": [
+		-130,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

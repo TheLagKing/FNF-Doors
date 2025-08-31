@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- To make your own translation file, just copy this file, and name it [translationName].xml -->
+<!-- Never edit shit in < > otherwise it won't work. -->
+<!-- Make sure to never edit the keys, only the values. -->
+<!-- For instance, for key "ez" (line 11), you don't edit "ez", you edit "Easy" since it's the thing that'll show up in game -->
+<!-- The key will always contain what the game needs to "see" your translation file -->
+<!-- TLDR : Change the value and not the key -->
+<root>
+    <generalshit>
+        <engineVersionShit value="Doors Engine {0}"/>
+        <gameVersionShit value="FNF : Doors {0}"/>
+        <ez value="简单"/>
+        <normal value="普通"/>
+        <hard value="困难"/>
+        <hell value="地狱"/>
+        <heaven value="写实"/>
+        <wip value="WIP"/>
+        <diffDescriptions>
+            <Easy value="专对于刚玩FNF的新手们准备的难度，\n没有比这更简单的了，淦就完了！"/>
+            <Normal value="一个十分正常的游戏难度"/>
+            <Hard value="专对于喜欢挑战的玩家！\n敢于面对所遇到的危险！"/>
+            <Hell value="失误不可饶恕"/>
+            <Wip value="敬请期待\n我知道你很急但你先别急"/>
+        </diffDescriptions>
+        <ratings>
+            <yousuck value="废物"/>
+            <shit value="菜就多练"/>
+            <bad value="淦"/>
+            <bruh value="啊这"/>
+            <meh value="还行"/>
+            <nice value="好"/>
+            <good value="很好"/>
+            <great value="棒"/>
+            <sick value="棒极了！"/>
+            <perfect value="完美！"/>
+            <ratingsFC>
+                <sfc value="SFC"/>
+                <gfc value="GFC"/>
+                <fc value="FC"/>
+                <clear value="Clear"/>
+            </ratingsFC>
+        </ratings>
+        <score value="分数"/>
+        <misses value="漏箭数"/>
+        <rating value="准确度"/>
+        <botplayText value="BOTPLAY"/>
+    </generalshit>
+    <newUI>
+        <!-- Menu names -->
+        <stats value="数据统计"/>
+        <chooseMods value="自定义微调器"/>
+        <pause value="暂停"/>
+        <prerun value="预备商店"/>
+        <tutorial value="新手教程"/>
+        <glasshatOnline value="在线游戏"/>
+        <death value="你死了"/>
+        <specialThanks value="特别鸣谢"/>
+        <socials value="社交联系"/>
+        <donateMenu value="捐赠页面"/>
+
+        <!-- Button names -->
+        <quit value="暂离"/>
+        <showMod value="显示微调器"/>
+        <reset value="重置"/>
+        <cancel value="取消"/>
+        <restart value="重新开始"/>
+        <options value="设置"/>
+        <resume value="继续"/>
+        <play value="开始逃生"/>
+        <mainmenu value="主菜单"/>
+        <newrun value="新游戏"/>
+        <register value="注册"/>
+        <login value="登录"/>
+        <modifyAcc value="忘记密码？"/>
+        <revive value="复活"/>
+        <donateKofi value="在 KOFI 上 进行捐赠"/>
+        
+        <clickOff value="点击任意处来确认"/>
+        <pressOff value="按 {0} 键来继续"/>
+        <pressOffMult value="按 {0} 或 {1} 键来继续"/>
+        
+        <donateMenuText value="嘿，我们在这个模组上工作了大约3年，所以，如果你捐赠了一点点现金，它对我们付出的努力就会有意义，虽然 我们不能提供很多回报，但这将帮助我们支付服务器来保持排行榜， 也许在以后的更新中还有其他一些东西！ 感谢您的支持"/>
+    </newUI>
+    <glasshat>
+        <email value="邮箱地址"/>
+        <username value="用户名"/>
+        <password value="密码"/>
+        <passwordInfo value="密码需要8-32个字符，至少需要包含1个数字，1个大写字母和1个小写字母。"/>
+        <info value="在线模式将会为此模组带来有趣的内容！\n我们不会窃取你的个人数据\n当你登录后，你可以访问在线排行榜和公布自己的最高分数，成就数据也可以通过账户同步！"/>
+        
+        <allFields value="请输入全部字段"/>
+        <invalidMail value="无效的邮箱地址"/>
+        <insecurePass value="你的密码不够安全，你的密码长度必须要在8-32个字符之间，必须要有大写字母，小写字母和数字"/>
+
+        <noScores value="你还未玩过此曲目"/>
+        <notLoggedIn value="你处于离线状态\n设置中可开启在线模式"/>
+        <error value="加载分数数据失败\n请麻烦在discord或者跟b站slenty0013私聊报告"/>
+    </glasshat>
+    <death>
+        <revivesLeft value="复活剩余次数: {0}"/>
+        <freeplayRevives value="复活剩余次数: 无限"/>
+        <modsUsed value="使用的微调器: {0}"/>
+        <reviveWarning value="你还有 {0} 条生命"/>
+        <tips>
+            <!-- Don't translate the type="tip"-->
+            <a60 type="tip">
+                <tip1 _0="嗯... 红色的东西\n我不知道我该如何称呼它" _1="好吧，它通常在A-60的附近房间攻击你，所以... " _2="你就叫它A-60吧，我也不知道"/>
+                <tip2 _0="又是A-60... " _1="我认为这一点不会太难理解" _2="好了，振奋起来，我们还有一条很长的路"/>
+                <tip3 _0="又是A-60... " _1="你可以做到的，我相信你" _2="我会视奸你的，行吗？"/>
+            </a60>
+            <ambush type="tip">
+                <tip1 _0="你死在了一个叫做Ambush的东西..." _1="这玩意儿就很离谱" _2="和提防Rush同一个道理！"/>
+                <tip2 _0="你又死在Ambush了... " _1="当你不去以抱着怀疑心的时候，一切都晚了！" _2="吃一堑长一智吧"/>
+                <tip3 _0="你死在了Ambush" _1="你可能需要在它瞅不到的地方躲更长的时间" _2="管它呢，你可以做到的！"/>
+            </ambush>
+            <elevator type="tip">
+                <tip1 _0="看起来你出师未捷身先死" _1="难得这么简单的一次！" _2="请务必专注于您的节奏"/>
+                <tip2 _0="啊这... " _1="跟好节奏！" _2="我寻思着这也不难啊... "/>
+                <tip3 _0="...... " _1="算了无妨" _2="我相信你能做到的"/>
+            </elevator>
+            <eyes type="tip">
+                <tip1 _0="&#10;你死在了一个叫做Eyes的东西..." _1="它们不喜欢被注视" _2="天黑请闭眼- 请相信节奏"/>
+                <tip2 _0="你又死在了Eyes了..." _1="请尽最大努力合上你的眼！" _2="当你合眼时，一切都会迎刃而解"/>
+                <tip3 _0="看起来你与Eyes不共戴天..." _1="请确保你一直在闭眼" _2="时常合眼或闭眼也是可以的"/>
+            </eyes>
+            <figure type="tip">
+                <tip1 _0="你死在了一个叫做Figure的东西..." _1="它是个瞎子，但不代表着它的听力不好" _2="请务必专注于您的节奏"/>
+                <tip2 _0="你又死在Figure了..." _1="它虽然是个瞎子，但它的其他方面尤其是听力远比你好" _2="也许你快做到了！"/>
+                <tip3 _0="看起来你很害怕Figure..." _1="我会尽最大努力来帮助你" _2="控制你的心率是至关重要的，甚至比保持节奏更重要"/>
+            </figure>
+            <glitch type="tip">
+                <tip1 _0="这狠奇怪，我无法确定你死于谁" _1="另外，我发现你离你的同伴太远了" _2="请保持在一起！"/>
+                <tip2 _0="这狠奇怪，我无法确定你死于谁" _1="另外，我发现你离你的同伴太远了" _2="应该有另一种解决方案"/>
+                <tip3 _0="这狠奇怪，我无法确定你死于谁" _1="另外，我发现你离你的同伴太远了" _2="试试用后门来躲避它！"/>
+            </glitch>
+            <halt type="tip">
+                <tip1 _0="你死在了一个叫做Halt的东西..." _1="你必须要离它远点！" _2="尽管它可能会时不时的出现在你前面..."/>
+                <tip2 _0="你又死在Halt了..." _1="当你逃时，它可能会时不时的出现在你前面" _2="当那发生时，请回头离它远点！"/>
+                <tip3 _0="看起来你对于Halt来讲你急了..." _1="当它传送到你的后方时，你的视野会扭曲" _2="尝试去预判它！"/>
+            </halt>
+            <rush type="tip">
+                <tip1 _0="你死在了一个叫做Rush的东西..." _1="当它要出现时请留意那些可以用来躲藏的地点" _2="当然它在冲过来时，它会发出声音"/>
+                <tip2 _0="你又死在Rush了..." _1="留意灯光..." _2="灯光的闪烁说明着它要来了"/>
+                <tip3 _0="看起来你快被Rush笑掉牙了..." _1="灯闪即危" _2="当那发生时，快快找到躲藏的地方！"/>
+            </rush>
+            <screech type="tip">
+                <tip1 _0="你死在了一个叫做Screech的东西" _1="它喜欢在黑暗的房间里潜伏" _2="当你怀疑它在你周围时，环顾四周来吓跑它"/>
+                <tip2 _0="你又死在Screech了..." _1="它潜伏在黑暗的房间" _2="如果你有光源类的工具它也许对你避而不及"/>
+                <tip3 _0="看起来Screech如同蚊子一样困扰你..." _1="当对它进行唱歌时，你的视野将会变暗" _2="为了防止这种情况，请尝试找到光源！"/>
+            </screech>
+            <seek type="tip">
+                <tip1 _0="看起来你被Seek抓到了..." _1="保持以跟随节奏为重点" _2="也许在你奔跑时很难跟随节奏，但你可以做到的！"/>
+                <tip2 _0="你又死在Seek了..." _1="当它尖叫时，你也许会受到影响" _2="不要让它抓到你的软肋！"/>
+                <tip3 _0="Seek认为你插翅难逃但你快做到了！" _1="不要停下脚步" _2="再挺挺！"/>
+            </seek>
+            <dupe type="Tip">
+                <tip1 _0="你死在了一个叫做Dupe的东西..." _1="是它制造了假门" _2="下次请留意正确的门号"/>
+                <tip2 _0="你又死在Dupe了..." _1="虽然它会制造假门，但它的假门还会有露馅的地方" _2="我来教你吧，假门会让你不由自主后退"/>
+                <tip3 _0="看起来Dupe很'羡慕'的你的记性" _1="当您遇到两扇门时，请反复确认哪扇门才是正确的" _2="如果那扇门会让你退后走，那么它很有可能是Dupe"/>
+            </dupe>
+            <shadow type="tip">
+                <tip1 _0="你死在了一个叫做Shadow的东西..." _1="它通常出现在你前面并消耗你的血条" _2="我相信你能够无视直接穿过它"/>
+                <tip2 _0="你又死在Shadow了..." _1="如果你待的时间够长，它就会足够杀死你" _2="或许你下次看到它时，直接跑路？"/>
+                <tip3 _0="看起来你的运气因为Shadow而好到爆了" _1="我有一计，下次鼠标狂点Shadow" _2="记住，你需要以最快的速度去狂按，直到它彻底消失为止"/>
+            </shadow>
+            <hide type="tip">
+                <tip1 _0="你死在了一个叫做Hide的东西... " _1="看起来它会在你 在柜子里的时候出现" _2="动动身子，别宅在柜子里"/>
+                <tip2 _0="你又死在Hide了..." _1="It seems to appear when you stay inside closets." _2="请不要在柜子里躲太长时间"/>
+                <tip3 _0="看起来Hide和你有点'关系'" _1="当你听到低语时请尝试离开柜子" _2="你可能需要反复进出柜子"/>
+            </hide>
+            <void type="tip">
+                <tip1 _0="你死在了一个叫做Void的东西... " _1="它总是出现在你看不见的后面" _2="不要让它抓到你！"/>
+                <tip2 _0="你又死在Void了..." _1="看起来当你呆着不动太长的时间时，你会偶遇它" _2="不要让它追上你！"/>
+                <tip3 _0="看起来你很'喜欢'Void... " _1="当你开始失去知觉时，请尝试离开房间" _2="如果你尝试继续往前走开，它就会无视你"/>
+            </void>
+            <generalTip _0="你似乎无法跟随节奏..." _1="确保在适当的时候击中箭头！" _2="我会尽最大努力来帮助你"/>
+            <lastLife _0="额" _1="看起来又是一个不幸的人" _2="请对你的父母心存感激？"/>
+        </tips>
+        <reviveWarning value="You have {0} revives left."/>
+    </death>
+    <placeholder value="占位符"/>
+    <credit>
+        <artist value="画师"/>
+        <artists value="画师"/>
+        <musician value="曲师"/>
+        <musicians value="曲师"/>
+        <chart value="谱师"/>
+        <ez value="简单"/>
+        <normal value="普通"/>
+        <hard value="困难"/>
+        <hell value="地狱"/>
+    </credit>
+    <newCredit>
+        <art value="画师"/>
+        <music value="曲师"/>
+        <chart value="谱师"/>
+    </newCredit>
+    <options>
+        <disabled value="已禁用"/>
+        <enabled value="已启用"/>
+        <main>
+            <!-- Try to keep these short -->
+            <language value="语言设置"/>
+            <glasshat value="Glasshat"/> <!-- Don't translate this one -->
+            <controls value="控制设置"/>
+            <graphics value="显示设置"/>
+            <visuals value="画面设置"/>
+            <gameplay value="游玩设置"/>
+        </main>
+        <visuals>
+            <notesplash name="箭头溅射效果" desc="如果禁用, 敲击成 &quot;Sick！&quot; 评分时 不会显示粒子效果"/>
+            <notesplashAlpha name="溅射效果不透明度" desc="更高的数值代表着更清晰的溅射效果"/>
+            <hidehud name="隐藏HUD" desc="如果启用，将会隐藏大多数关于 HUD 的界面"/>
+            <timebar name="时间条" desc="正经人谁会隐藏时间条？！"/>
+            <flashinglights name="光特效" desc="如果你有光敏性癫痫可尝试禁用此项目"/>
+            <camerazooms name="镜头伸缩" desc="如果禁用，则游玩过程中不会出现镜头伸缩"/>
+            <camerafollow name="镜头跟随" desc="如果禁用，则你的镜头不会跟随你所敲击的箭头"/>
+            <cameraangle name="镜头旋转" desc="如果禁用，则你的镜头不会根据你所敲打的左键或右键来旋转镜头"/>
+            <healthslide name="血条滑动" desc="如果启用，你的血条会在你的满血或者接近死亡的时候被隐藏"/>
+            <healthicons name="血条图标" desc="如果启用，你的角色图标将会显示在血条上而不是其他地方\n(&quot;原版&quot; 或者 &quot;紫衣人模组的风格&quot;)"/>
+            <scoretxtzoom name="分数伸缩" desc="如果禁用，则会在你的分数变化的时候禁止镜头伸缩"/>
+            <fpscounter name="FPS 显示器" desc="如果禁用，将会隐藏 FPS 显示器"/>
+            <specificOptions>
+                <timebar _0="剩余时间" _1="度过的时间" _2="歌曲名称" _3="曲名 + 时间" _4="禁用"/>
+            </specificOptions>
+        </visuals>
+        <language>
+            <language name="语言设置" desc="设置游戏的语言"/>
+            <helpOut name="翻译组招人！" desc="You can participate freely to translation by contacting FNF Doors Translation Team."/>
+            <finished value="已完成"/>
+            <proofread value="校正翻译"/>
+            <help value="你可以按击按钮来帮助翻译"/>
+            <infoText value="{0} 语言翻译 进度:\n已完成{1}%\n正在翻译{2}%\n你可以按击按钮来帮助翻译"/>
+        </language>
+        <graphics>
+            <lowquality name="低画质" desc="如果启用，将不会出现一些细节的东西，\n用来提升游戏性能和减少加载时间"/>
+            <antialiasing name="抗锯齿" desc="如果禁用，将会以更清晰的视觉效果为代价提高性能"/>
+            <shaders name="着色器" desc="如果禁用，将不会有视觉特效效果\n通常用来更好的视觉体验，当然也可能会让你的CPU燃起来(物理)"/>
+            <framerate name="帧率" desc="很容易理解，不是吗？不理解的话，人话，低配不要尝试调高"/>
+            <colorblind name="色盲过滤器" desc="此选项用于提升色盲患者的游戏体验"/>
+            <filmgrain name="老式电影效果" desc="顾名思义，我觉得你会知道"/>
+            <gpucache name="GPU 缓存" desc="如果启用，将会允许GPU用于缓存纹理以减少RAM的使用"/>
+            <specificOptions>
+                <colorblind _0="无" _1="绿色色盲" _2="红色色盲" _3="蓝色色盲"/>
+            </specificOptions>
+        </graphics>
+        <gameplay>
+            <controller name="控制器模式" desc="如果你想用控制器而不是键盘来游玩的话，请启用此选项"/>
+            <midscroll name="中位键" desc="如果启用，你的箭头位置将会显示在中间"/>
+            <downscroll name="下位箭" desc="如果启用，你的箭头位置将会显示在下面"/>
+            <oppnotes name="对手箭" desc="如果禁用，将不会显示对手的箭头"/>
+            <ghosttap name="空箭" desc="如果启用，你将不会在没有箭头的时候按击箭头从而会增加你的漏键数"/>
+            <disablereset name="禁用重置键" desc="如果启用，你将不会因为不小心按到重置键而原地去世"/>
+            <strumlineBackgroundOpacity name="箭头背景" desc="在箭头的后面加个黑色的背景来方便你更好的读谱"/>
+            <hitsound name="击箭声" desc="如果启用，每次你按到箭头的时候，会有声音"/>
+            <ratingoffset name="延迟设置" desc="越高的数值，说明你要按的要更早些"/>
+        </gameplay>
+        <controls>
+            <default value="重置所有按键设置"/>
+            <notes>
+                <globalname value="--- 箭头设置 ---"/>
+                <note_left value="左箭"/>
+                <note_down value="下箭"/>
+                <note_up value="上箭"/>
+                <note_right value="右箭"/>
+            </notes>
+            <heartbeat>
+                <globalname value="--- 心率设置 ---"/>
+                <heartbeat_left value="左"/>
+                <heartbeat_right value="右"/>
+            </heartbeat>
+            <items>
+                <globalname value="--- 物品栏 ---"/>
+                <item1 value="物品栏 1"/>
+                <item2 value="物品栏 2"/>
+                <item3 value="物品栏 3"/>
+                <item4 value="物品栏 4"/>
+                <item5 value="物品栏 5"/>
+                <item6 value="物品栏 6"/>
+            </items>
+            <ui>
+                <globalname value="--- UI 设置 ---"/>
+                <reset value="重置键"/>
+                <accept value="确认键"/>
+                <back value="返回键"/>
+                <pause value="暂停键"/>
+            </ui>
+            <volume>
+                <globalname value="--- 音量 ---"/>
+                <volume_mute value="关闭声音"/>
+                <volume_up value="放大声音"/>
+                <volume_down value="降低声音"/>
+            </volume>
+            <debug>
+                <globalname value="--- DEBUG模式 ---"/>
+                <debug_1 value="热键 1"/>
+                <debug_2 value="热键 2"/>
+            </debug>
+        </controls>
+    </options>
+    <items>
+        <test name="测试物品" desc="合着你从哪儿得到的" plural="F"/>
+        <lighter name="打火机" desc="Makes it easier to see in dark places. May even allow you to see other paths." plural="F"/>
+        <flashlight name="手电筒" desc="Turns a dark room into a lit-up room!" plural="F"/>
+        <crucifix name="十字架" desc="You may find a use for this at death's door." plural="F"/>
+        <vitamins name="维他命" desc="It says on the label: &quot;Lose Less, Gain More!&quot;" plural="T"/>
+        <candle name="蜡烛" desc="Lighting this candle may help you sing better." plural="F"/>
+        <bandages name="绷带" desc="Stops any kind of damage, until it peels off." plural="F"/>
+        <error name="item.notFound.Glitch.NaN" desc="ᓖ┧\n不是哥们" plural="F"/>
+        <skeleKey name="骷髅钥匙" desc="用来打开一扇... 这就是其用途不是吗？" plural="F"/>
+        <soldout value="卖光了！"/>
+
+        <messages>
+            <storyVitamins value="这只有当您处于危险状态时才会有用..."/>
+        </messages>
+    </items>
+    <mechanics>
+        <halt>
+            <bg value="往回走！"/>
+            <title value="如何躲避Halt"/>
+            <major value="不要接触Halt的图标！"/>
+            <minor value="按击 [{0}] 键来转向右面\n 敲击箭头来转向左面"/>
+        </halt>
+        <eyes>
+            <bg value="不要直视！"/>
+            <title value="如何躲避Eye"/>
+            <major value="不要看它"/>
+            <minor value="按击 [{0}] 键可闭上眼睛来避免掉血\n但是闭眼后，会随着时间的逐渐流逝，箭头会变得越来越难看清"/>
+        </eyes>
+        <figure>
+            <bg value="不要发出声音！"/>
+            <title value="如何躲避Figure"/>
+            <major value="你的心跳也许会害了你！"/>
+            <minor value="通过按 [{0}] 和 [{1}]键，来调整你的心跳旋律\n错误的心跳旋律也许会害了你"/>
+        </figure>
+        <popups>
+            <snare>
+                <major value="地刺"/>
+                <minor value="仔细看着点！"/>
+            </snare>
+        </popups>
+    </mechanics>
+    <states>
+        <pause>
+            <warning value="使用后你可以复活一次！\n是否确认？"/>
+            <warningtwo value="你没有复活道具了！\n这将会使你丢失本次所有的进度！\n是否确认？"/>
+            <yes value="是"/>
+            <no value="否"/>
+        </pause>
+        <mainmenu>
+            <sm value="故事模式"/>
+            <gal value="画廊"/>
+            <cred value="致谢名单"/>
+            <free value="休闲模式"/>
+            <ach value="成就"/>
+            <sett value="设置中心"/>
+            <tip value="捐赠页面"/>
+        </mainmenu>
+        <credits>
+            <owner value="模组拥有者"/>
+            <director value="主创"/>
+            <lead value="领导者"/>
+            <artist value="画师"/>
+            <animator value="动画师"/>
+            <chrom value="人声编辑"/>
+            <music value="曲师"/>
+            <chart value="谱师"/>
+            <code value="编程"/>
+            <guest value="游客"/>
+            <former value="前任制作人员"/>
+        </credits>
+        <flashing>
+            <warn value="当心点！\n这个模组会有光效效果！\n你没有办法来禁用它！\n游玩此模组的时候癫痫者请注意！\n这个屏幕只会显示一次！\n你已经被警告过了！"/>
+        </flashing>
+        <freeplay>
+            <unlock value="解锁\n&quot;{0}&quot;\n成就"/>
+            <or value="或者"/>
+            <instructions value="按 左键 或 右键 来切换目录 | 按 Enter键 来选择一个歌曲"/>
+            <subinstructions value="'按 {0} 或 {1} 来继续\n按 {2} 或 {3} to 来离开'"/>
+            <categories>
+                <start value="新手教程 - bf &amp; 蓝光"/>
+                <rush value="大疯黑球 - Rush"/>
+                <screech value="阴暗中作祟 - Screech"/>
+                <ambush value="不安的回声 - Ambush"/>
+                <eyes value="死亡凝视 - Eyes"/>
+                <halt value="神秘幻影 - Halt"/>
+                <timothy value="焯级小惊喜 - Timothy"/>
+                <jack value="柜子守卫 - Jack"/>
+                <shop value="实用的商店 - Bob, Jeff &amp; Goblino"/>
+                <seek value="终命追击 - Seek"/>
+                <figure value="捉迷藏 - Figure"/>
+                <glitch value="破损的现实 - Glitch"/>
+                <freeplay value="额外内容"/>
+
+                <!-- WIP CATEGORIES -->
+                <dupe value="记忆游戏 - Dupe"/>
+            </categories>
+        </freeplay>
+        <newFreeplay>
+            <length value="歌曲长度"/>
+            <diff value="难度"/>
+            <mdiff value="机制难度"/> <!-- This corresponds to the mechanic difficulty -->
+        </newFreeplay>
+        <gallery>
+            <!-- Heavily unfinished, we'll have to finish up the gallery before you can translate it -->
+        </gallery>
+        <title>
+            <glasshatTxt value="FNF热爱者 GlassHat工作室 特献"/>
+            <haxeflixelTxt value="以HaxeFlixel编码的游戏"/>
+            <love value="给予\nDoors和\nFriday Night Funkin'\n社区的礼物"/>
+        </title>
+    </states>
+    <leaderboards>
+        <glasshat value="GLASSHAT NAME"/>
+        <score value="分数"/>
+        <acc value="准确度"/>
+        <miss value="漏箭数"/>
+        <modf value="微调器"/>
+    </leaderboards>
+    <story>
+        <reset value="按 R 键来重置你目前所有的进度"/>
+        <results>
+            <tbc value="结束了...？"/>
+            <died value="游戏结束"/>
+            <runScore value="分数: "/>
+            <runRating value="精准度: "/>
+            <runMiss value="漏箭数: "/>
+            <runMods value="使用的微调器: "/>
+            <runTime value="游戏时间: "/>
+            <runSongs value="你所偶遇的实体: "/>
+            <newBest value="新的最佳历史记录！"/>
+        </results>
+        <itemget>
+            <singular value="你得到了一个 {0} ！"/>
+            <multiple value="你得到了 {0} ！"/>
+            <warn value="注意你一次性最多不能拥有6个以上的物品！"/>
+        </itemget>
+        <runstats>
+            <diff value="难度"/>
+            <timePlayed value="游戏时间"/>
+            <currentDoor value="当前门数"/>
+            <noSongs value="当前你还未进入过任意一首曲目！"/>
+        </runstats>
+        <paintings>
+            <left>
+                <Icydrip value="冰滴艺术画描述"/>
+                <Kal value="一个 &quot;冷静&quot; 的外星人"/>
+                <Yosi value="我多么希望我能和他一样酷啊"/>
+                <Murder value="他们试图与一个歌曲联动"/>
+                <Tibu value="一个野生的程序猿出现了！"/>
+                <Halt value="这幅绘画的标题为 &quot;幽灵残余&quot;"/>
+                <Morph value="这幅绘画似乎没有标题..."/>
+                <Overhead value="这幅画标题为 &quot;看你头上！&quot;"/>
+
+                <Plant value="这幅绘画的标题是 &quot;兰花&quot;"/>
+                <Troll value="这幅绘画的标题是 &quot;奇异搞笑的人&quot;"/>
+                <YellowCreature value="这幅绘画的标题是 &quot;惊雷&quot;"/>
+
+            </left>
+            <right>
+                <Catimbas value="这幅绘画的标题是 &quot;卡廷巴斯自画像&quot;"/>
+                <Leetram value="我知道这个帽子！"/>
+                <Rochi value="这幅绘画的标题是 &quot;罗叱&quot;"/>
+                <Peak value="一个快乐的音乐家家庭"/>
+                <Waleter value="让我想起了Pico"/>
+                <Quarters value="这幅绘画的标题是 &quot;四分之一&quot;"/>
+                <Ribbons value="这幅绘画的标题是 &quot;碎状物&quot;"/>
+                <RushingOld value="这幅绘画的标题为 &quot;氪癌的笑容&quot;"/>
+                <SmallSpider value="这幅绘画标题为 &quot;网络装修&quot;"/>
+
+                <BrownImpostor value="这幅绘画的标题为 &quot;最后的偶遇&quot;"/>
+                <Door value="这幅绘画的标题是 &quot;一扇门&quot;"/>
+                <Hole value="这幅画标题为 &quot;瑕疵&quot;"/>
+                <TheNether value="这幅绘画的标题是 &quot;目击者&quot;"/>
+            </right>
+            <ML>
+                <DeepEnd value="这幅绘画的标题是 &quot;深渊&quot;"/>
+                <Stargazer value="这幅绘画的标题是 &quot;观星者&quot;"/>
+                <ChemicalAndMerritz value="看来无论是谁绘制这些绘画，都是对那些逝去的人的赞歌"/>
+                <WeirdScreechThingy value="这幅绘画的标题是 &quot;击碎 &quot;"/> 
+            </ML>
+            <MR>
+                <Marshmallows value="这幅画标题为 &quot;棉花糖&quot;"/>
+                <SpookyScary value="这幅绘画的标题是 &quot;恐怖月&quot;"/>
+                <BlueandPuritzle value="这幅绘画的标题是 &quot;画中画中画 &quot;"/> 
+                <FlintAndSteel value="这幅绘画的标题是 &quot;打火石 &quot;"/> 
+            </MR>
+            <SL>
+                <Psst value="这幅画标题为 &quot;Psst...(byd的动静)&quot;"/>
+                <Baller value="这幅绘画的标题为 &quot;Baller&quot;"/>
+                <haircut value="这幅绘画的标题是 &quot;理发 &quot;"/> 
+                <PurpleandCallu value="这幅绘画的标题是 &quot;和解 &quot;"/> 
+            </SL>
+            <SR>
+                <Loser value="这幅绘画的标题是 &quot;废物&quot;"/>
+                <Friend value="这幅绘画的标题是 &quot;第四十七个朋友&quot;"/>
+                <HotLemon value="这幅绘画的标题是 &quot;与热狗格格不入的柠檬 &quot;"/> 
+                <RipsyAndZestik value="这幅绘画的标题是 &quot;鬼宅 &quot;"/> 
+            </SR>
+        </paintings>
+        <tutorial value="Hello Visitor! Progression is made by going through the many doors you may find. You may want to try using your mouse to explore your surroundings, and interact with the furniture and objects. These can help you survive in this hotel, by giving you money, or usable items. Your goal is to make it to door 100 alive."/>
+        <interactions>
+            <books value="一些关于 {0} 的古老书籍"/>
+            <closetClosed value="这个衣柜打不开..."/>
+            <guidancePlayed value="一首歌唱两次并不是很有趣"/>
+            <darkSight value="这很难在黑暗中看清"/>
+            <doorClosed value="无法进入这个门"/>
+            <entityClosed value="有些东西阻止您进入这个门"/>
+            <entityLongClosed value="有些东西正在阻止您取得进一步进展"/>
+            <entityFurClosed value="有些东西阻止你与这个东西进行交互"/>
+        </interactions>
+    </story>
+    <achievements>
+        <menu value="成就"/>
+        <anyoneHome name="有人在吗？" desc="在大厅中响铃"/>
+        <rushFind name="闪烁的灯" desc="偶遇Rush"/>
+        <screechFind name="灯灭了" desc="偶遇Screech"/>
+        <eyesFind name="我一直在凝视着你..." desc="偶遇Eyes"/>
+        <ambushFind name="更刺耳的声音.. ？" desc="偶遇Ambush"/>
+        <timothyFind name="你个小别致" desc="偶遇Timothy"/>
+        <glitchFind name="遗留者" desc="记住你离开大厅的人"/>
+        <jackFind name="阿米诺斯" desc="偶遇Jack"/>
+        <haltFind name="进退两难" desc="偶遇Halt"/>
+        <figureFind name="嘘...小声点..." desc="偶遇Figure"/>
+        <seekFind name="尽管逃吧！" desc="偶遇Seek"/>
+        <absoluteFailure name="给你机会你不中用" desc="满满的一包有用的物品但你还是死了"/>
+        <fuckScreech name="我眼瞎了" desc="照亮一间熄灭的房间"/>
+        <burnTheHotel name="旅店烧烤" desc="在同一间房间使用两个打火机"/>
+        <seeingDouble name="双重麻烦" desc="在故事模式中的一间房间里同时遭遇两种实体的攻击"/>
+        <comboNotFound name="Combo nlt Found!" desc="在&quot;404&quot;歌曲中至少有过一次404连击数"/>
+        <youreSlow name="Step by Step" desc="Always pick the smallest of 2 Doors."/>
+        <youreFast name="Following your Dreams" desc="Always pick the biggest of 2 Doors."/>
+        <youWin name="结束了...？" desc="完成逃生，但真的结束了吗？"/>
+        <youWinHard name="绝境逢生" desc="在困难难度下，完成逃生"/>
+        <thatsEasy name="那好简单" desc="在没有漏箭的情况下完成逃生"/>
+        <onTheEdge name="敌不动，我不动" desc="留在Halt的房间中20秒以上"/>
+        <neverTripped name="永不绊倒" desc="以大于98%的准确度完成Seek的逃生"/>
+        <cardiacArrest name="起搏专家" desc="永不落下一个心跳键"/>
+        <drippedOut name="滴落之出" desc="全连Drip和Drip Hell曲目"/>
+        <RNJesus name="你太走运了" desc="在一次逃生中遇到两次Jack"/>
+        <tissButAScratch name="展的徒弟" desc="在逃生中，每首歌全连，且准确度超过99.9%"/>
+        <completionist name="终结者" desc="全连每一首歌曲"/>
+        <hotelHell name="地狱酒店" desc="在150%或150%以上的难度微调器中完成逃生"/>
+        <donation name="善心捐赠" desc="再一次逃生中，向Jeff捐款5次或5次以上"/>
+        <voidFind name="想回去了？" desc="掉入虚空"/>
+        <rip name="你失败了" desc="失去所有的复活次数"/>
+        <smallBusiness name="小小的赞助" desc="从Jeff的商店购买一件物品"/>
+        <crucifix name="你怎么还不死？" desc="使用十字架"/>
+        <welcomeBack name="欢迎回家" desc="在胜利一次后再进行一次故事模式"/>
+    </achievements>
+    <modifiers>
+        <easy name="简单模式" value="更少的箭头和机制"/>
+        <hard name="困难模式" value="更多的箭头和机制"/>
+        <lessdark name="电力发达" value="更少的无光房间"/>
+        <noflicker name="专业电力维修" value="灯光永远不会闪烁"/>
+        <moredark name="年久失修" value="更多的无光房间和闪烁房间"/>
+        <alldark name="停电了" value="所有的普通房间全部为无光房间"/>
+        <moremoney name="有钱能使鬼推磨" value="在逃生中你能找到更多的金钱"/>
+        <lessmoney name="抑郁寡欢" value="在逃生中你会找到更少的金钱"/>
+        <nomoney name="穷光蛋" value="在逃生中你找不到任何的金钱"/>
+        <moreitems name="肥沃的旅店" value="在逃生中，你会找到更多的物品"/>
+        <lessitems name="贫穷的旅店" value="在逃生中，你会找到更少的物品"/>
+        <noitems name="薛定谔的旅店" value="在逃生中，你会找不到任何的物品"/>
+        <SPAMTON_G_SPAMTON name="交易撮合者" value="商品的价格是随机的！"/>
+        <doublemaxhealth name="简直是个超人" value="你的最大生命值又提升了一倍"/>
+        <aegis name="神的庇护" value="你的回血可以破血条，但最多只能到达200%的生命值"/>
+        <killer name="必胜的决心" value="当你漏击一个箭时，你会在接下来的5秒内在每次敲击时，会回更多的血量"/>
+        <halfmaxhealth name="玻璃心" value="你的最大生命值被砍了一半"/>
+        <halfhealth name="猝了但没有完全猝" value="在大多数歌曲的开端，你会以低于50%的生命值开始"/>
+        <quarterhealth name="猝了" value="在大多数歌曲的开端，你会以低于25%的生命值开始"/>
+        <oneshot name="无路可退" value="漏击一个箭就会直接要了你的命"/>
+        <perfect name="追求极致" value="极好及极好以上的评分将会双倍回血，但低于极好的评分将不会回血"/>
+        <sweettooth name="双刃剑" value="当你的连击数越高，你所因为漏箭而扣更多的生命值"/>
+        <lesssongs name="顺风而行" value="大部分实体将会更少的攻击你"/>
+        <moresongs name="逆风而行" value="大部分实体将会更频繁的攻击你"/>
+        <repeat name="再来亿遍" value="同一首歌曲将会被播放多次"/>
+        <hide name="莫挨老子" value="新增机制，你需要不停的按击空格键来防止Hide"/>
+        <screech_faster name="判断的再快点" value="Screech将会以更快的速度攻击你"/>
+        <timothy_less name="杀虫剂" value="Timothy将不会再被找到嘤嘤嘤"/>
+        <timothy_more name="捅了老窝" value="Timothy的出现次数将会更频繁"/>
+        <eyes_drainslower name="眼有余力而不足" value="受到Eyes的攻击掉血将会更慢"/>
+        <eyes_darkslow name="保持清醒" value="当你闭眼时，你的屏幕变暗时间讲会变得更慢"/>
+        <eyes_drainfaster name="震眼欲花" value="受到Eyes的攻击掉血将会更快"/>
+        <eyes_darkfast name="心有余力而不足" value="当你闭眼时，你的屏幕变暗时间讲会变得更快"/>
+        <eyes_fadingout name="隔眼有限" value="屏幕变得越暗，你所回的血量更快"/>
+        <figure_easy name="钢铁之心" value="漏掉一个心跳键的伤害与漏一个箭所受的伤害一致"/>
+        <figure_oneshot name="溶解的心" value="漏掉一个心跳键会直接要了你的命"/>
+        <seek_slower name="老寒腿" value="Seek扣除你的血更慢"/>
+        <seek_faster name="博尔特" value="Seek扣除你的血更快"/>
+        <seek_constant name="有氧运动" value="当你在逃跑时，Seek扣除你的血会变慢"/>
+        <halt_early name="我就知道" value="当Halt换边时，你会更快地得到警告，并且伤害你的速度会更慢"/>
+        <halt_more name="蓝色旅店" value="Halt生成将会更频繁，伤害你的速度更快"/>
+        <halt_mirror name="镜中世界" value="在Halt房间中，当你换方向时，你的箭头位置也会换边"/>
+        <halt_slide name="避不掉的" value="当Halt换边时不再传送，而是直接穿过，且穿过的时候会伤害你"/>
+        <jack_restart name="好好好这么玩" value="当老六Jack躲起来的时候，你的生命值会恢复到歌曲开始时的状态"/>
+        <glitch_segmentation name="故障危机" value="你的HUD界面将会故障化"/>
+        <glitch_corruption name="腐化故障" value="你的HUD界面将会偶尔会出现几毫秒的故障"/>
+        <shadow_remove name="头脑清醒" value="Shadow将不会再出现"/>
+        <shadow_harder name="点的再快点！" value="你将会更难避开Shadow"/>
+        <shadow_more name="人格分裂" value="Shadow出现的次数将会更多"/>
+        <void_remove name="无人跟踪" value="Void将不会再出现"/>
+        <void_more name="尾随一路" value="Void出现的次数将会更加频繁"/>
+        <fading name="凋谢的箭头" value="箭头将会慢慢淡入和淡出"/>
+        <overdrive name="过度谨慎" value="在歌曲中，谱面速度和回血速度会随时发生变化"/>
+        <screech_darkness name="真正的黑暗" value="房间将会变得更黑暗些，并隐藏箭头的上半部分"/>
+        <superperfect name="为了什么" value="只有敲击出Sick评分时才能回血"/>
+        <modcharting name="纯净版" value="移除了全部的原作机制\n只会有fnf的玩法"/>
+        <snare_everywhere name="当心点" value="几乎到处都是地刺，就像是你在温室一样"/>
+        <botplay name="展示模式" value="启用Botplay"/>
+        <practice name="无敌模式" value="启用练习模式"/>
+        <categories>
+            <easier value="简单些的微调器"/>
+            <harder value="更难点的微调器"/>
+            <story_mode value="故事模式微调器"/>
+            <health value="血条微调器"/>
+            <notes value="箭头微调器"/>
+            <rush value="关于Rush的微调器"/>
+            <screech value="关于Screech的微调器"/>
+            <timothy value="关于Timothy的微调器"/>
+            <eyes value="关于Eyes的微调器"/>
+            <figure value="关于Figure的微调器"/>
+            <seek value="关于Seek的微调器"/>
+            <halt value="关于Halt的微调器"/>
+            <jack value="关于Jack的微调器"/>
+            <glitch value="关于Glitch的微调器"/>
+            <misc value="其他微调器"/>
+        </categories>
+    </modifiers>
+
+    <lyrics>
+        <angry-spider>
+            <im_a_giant value="我是个巨人"/>
+            <ungoliant value="如痴金醉"/>
+            <a_shelob value="一个 Shelob"/>
+            <an_aragog value="一个 Aragog"/>
+            <an_arukenimon value="一个 Arukenimon"/>
+            <and_i_wreck_anyone_i_can value="我会毁了任何我能毁的人"/>
+            <im_pog value="我是一个 Pog"/>
+            <a_self_propelling_hairy_hand value="一只自发式多毛手"/>
+            <with_eight_fingers value="拥有着八根手指"/>
+            <wrapped_around_a_pair_of_scary_fangs value="裹着一对可怕的尖牙"/>
+            <ornate_pincers value="装饰着我的钳子"/>
+        </angry-spider>
+    </lyrics>
+
+    <bobsBook>
+        <intro value="你好，我是Bob，现在你所看到的是我写的如何逃出这里的向导之书，至于我是怎么来到这里的，这都不重要了，重要的是，关于这家“酒店”，我会在这个向导之书中记录下来我所发现的一切，希望这能帮到你，或者是在我卖掉帧本书后给我赚很多钱！"/>
+
+        <hotel value="这家酒店有些不对劲，我将在这里和接下来的页面中详细介绍我发现的东西。 3号门：每个十字路口都有两扇门，所有房间看起来都像奇怪的走廊。我听到一些奇怪的声音，但那里没有人，至少我希望能找个跟我一样的人。 9号门：我并不孤单。 27号门：墙上有一些眼睛，这些画也很奇怪。 49号门：隔壁房间看起来像图书馆，我能听到那该死的门后有什么东西在咆哮"/>
+
+        <entities value="那些&quot;实体&quot;...他们不像常规的我们所见到的动物或人类，我不知道他们是真实存在的还是是我大脑的幻觉，但不管怎样，我会继续记录下来，我会告诉你，我将在接下来所要不得不面对的..."/>
+
+        <guidingLight value="一个看似无害的实体，它能说话，似乎能帮助我找到自己的路，更好地理解事情 它帮我取了实体的名字，因为我显然不是第一个来这里的人"/>
+
+        <hide value="这个实体是我在衣柜里注意到的一件奇怪的事情，我不认为这是一个恶意的有意识的实体，但这绝对很奇怪，我决定在写这本书的时候躲在一个衣柜里，但我的眼睛开始疼了，我头痛欲裂，直到我离开了衣柜， 补充：我在抽屉里发现了一个十字架，决定打开刚刚的衣柜，它立刻砰地一声关上了，十字架不见了，所有的衣柜看起来都被关上了"/>
+
+        <rush value="好家伙，他看起来就像一个巨大的飞行中的子弹头，并周围不断放出黑烟，而且它看起来一直在疯笑，我也很难描述他的外观，因为他移动的很快，他可以撞开大门，同时他也不会停留在一个地方，找一个封闭的空间来躲避他"/>
+
+        <screech value="一个非常小的黏糊糊的东西。它似乎有触手或某种尖刺。 它看起来最常见于黑暗中，而且在攻击之前总是发出&quot;Psst&quot;声，它会攻击你的盲点，并咬下你的一块皮肤。 当它发出&quot;Psst&quot;声音时，我才留意到我的腿部受伤了但好消息是还好我有绷带。 如果我能看到更多，我就画出来它的样子"/>
+
+        <ambush value="与Rush非常相似，但是它有一个明亮的绿光，它相对来讲他不会只冲刺一次，它会来反冲刺四次，它在附近时会不断的震动，一旦停止震动，这就证明你安全了"/>
+
+        <timothy value="我认为它不会像其他实体那样伤人，它只是一只普通的蜘蛛。我想我会把它命名为Timothy，我已经看过很多次了，所以我最好给他写一页。 当它从抽屉里跳到我脸上时，我总是很害怕。它有时会咬人，但我一直很喜欢蜘蛛"/>
+
+        <seek value="我是在经历了人生中最大的冲刺之后写这篇文章的。我转过身，看到这个实体在追我。 它绝对是聪明的有意识的实体。它可以以某种方式操纵酒店本身，例如让吊灯从天花板上掉下来。 如果你看到它，快跑，直到你听不到它的脚步声。在任何情况下都不要让它抓住你，我认为这对你来说都不会有好结果"/>
+
+        <eyes value="这个实体确实很难绘制，因为我无法直接站在它上，它是一个散发出紫色的眼睛，在眼睛的中心有许多眼睛，可能有20多只眼睛？ 看一看它，我就感到我的所有器官都在颤抖，同时还有严重的头痛，你能做的最好事情是闭上眼睛，或向相反方向看。 但正如我总是说的那样，为了使自己不会晕过去，您应该能够再抵抗几秒钟"/>
+
+        <figure value="它就在图书馆等待着猎物..."/>
+    </bobsBook>
+
+    <loadingTips>
+        <title>
+            <lby value="请时刻小心你的屁股后面"/>
+            <warn value="注意！"/>
+            <dyu value="你...啊"/>
+            <dyk value="你知道吗？"/>
+            <ff value="有趣的事实："/>
+            <kyd value="你知不知道你做了什么？"/>
+            <ho value="相信自己的直觉"/>
+            <pt value="游戏秘诀："/>
+        </title>
+        <text>
+            <lby value="我怎么觉得我的屁股凉凉的"/>
+            <healthZero value="当你的生命值变为0时，游戏结束"/>
+            <fig value="Figure是什么，当然是Figure"/>
+            <shart value="崩溃了\n我窜了"/>
+            <balls value="*bf的奇妙性知识*"/>
+            <skibidi value="*Screech发出了尖锐的爆鸣声*"/>
+            <locker value="学校的库锁可以完全容下Figure的屁股"/>
+            <no value="这里没什么看的"/>
+            <didu value="呃啊...我不知道"/>
+            <dark value="当你凝视着深渊\n深渊也在凝视着你"/>
+            <bf value="在Doors模组中，被叫为Doors模组，模组有一个叫bf的角色，那是因为他是bf"/>
+            <ah value="你试过大炮轰蚊子吗？"/>
+            <gun value="Seek的最初设计是拿着枪（莫名其妙？）"/>
+            <maid value="曾经有一位女仆知道了所有\n是蓝色灯光保证了她的生命安全"/>
+            <burned value="Seek并不喜欢被活活烧死\n[huh猫]"/>
+            <the value="1"/>
+            <shit value="当你在大便的时候Figure也在注视着你"/>
+            <dik value="我知道并不代表着全部人知道"/>
+            <hymn value="Drip的存在就如同42号混凝土拌意大利面的存在一样"/>
+            <none value=""/>
+            <mitosis value="Seek的眼睛如同细胞的有丝分裂一样\n当然这不是官方的说法"/>
+            <insane value="模组中的90%的开发团队没有一个人是完全意义上的正常人"/>
+            <behind value="小心身后..."/>
+            <nini value="阿巴阿巴"/>
+            <ido value="恭喜你废掉了你人生中宝贵的几秒钟的时间"/>
+            <yosibu value="在之前的FNF：Doors模组的dc群里曾经所有的用户在demo发布后都把名字改成了&quot;Yosibu&quot;"/>
+            <yesterday value="我知道你昨天干了什么好事"/>
+            <vaporeon value="帅到我简直尿裤子"/>
+            <reset value="如果你的连击达到50后，按 R 来获得超级无敌有用的物品(迫真"/>
+            <fatrush value="宅男Rush是不存在的"/>
+            <procrastinating value="我有拖延症"/>
+            <plt value="辛苦那些二战的纳粹军官了 *西海！*"/>
+            <eyes value="当你面对Eyes的时候不要一直闭眼！"/>
+            <halt value="请与Halt保持点距离感"/>
+            <heartbeat value="面对Figure时请控制好你的心跳"/>
+            <run value="Seek: 躲得过初一，躲不过初五"/>
+            <idle value="不要跟个入机一样呆的太久"/>
+            <lilguy value="我想有个小神秘想向你展示个东西\n也许在暂停菜单上？"/>
+            <crashout value="爷崩溃了"/>
+            <findTim value="Timothy只会出现在抽屉中"/>
+            <findJack value="你只有0.5%的概率来在柜子中遇到Jack"/>
+            <stareRemake value="Stare的机制已经被调整了整整8次"/>
+            <demo2release value="第二个Demo版本刚开始是为了2024年的愚人节而准备的版本"/>
+            <rushscreechcommon value="和Screech是故事模式中再寻常不过的实体"/>
+            <f1update value="F1并不是该模组的最后一次更新！"/>
+            <searchDrawers value="不要忘了去搜刮抽屉并用你搜刮到的金币去Jeff商店里买些物品"/>
+            <threeYears value="一个不冷不热的知识，该模组为F1正式版发布准备了三年"/>
+        </text>
+    </loadingTips>
+
+    <popups>
+        <titles>
+            <expertDiff value="来自友好面的消息"/>
+        </titles>
+        <messages>
+            <expertDiff value="我猜你以现在的实力来玩困难难度还有些费劲\n\n试试打通普通难度再来试试更难的难度吧"/>
+        </messages>
+        <leavePopup value="按任意键或者鼠标点击来继续"/>
+    </popups>
+</root>

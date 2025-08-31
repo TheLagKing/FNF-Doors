@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="suit-goblino-new.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="el-goblino-business instance 10000" x="20" y="20" width="176" height="233" frameX="-1" frameY="-2" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10001" x="216" y="20" width="176" height="233" frameX="-1" frameY="-2" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10002" x="412" y="20" width="175" height="232" frameX="-1" frameY="-3" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10003" x="607" y="20" width="175" height="232" frameX="-1" frameY="-3" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10004" x="802" y="20" width="177" height="234" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10005" x="20" y="274" width="177" height="234" frameX="0" frameY="-1" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10006" x="217" y="274" width="177" height="235" frameX="0" frameY="0" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10007" x="414" y="274" width="177" height="235" frameX="0" frameY="0" frameWidth="178" frameHeight="235"/>
+	<SubTexture name="el-goblino-business instance 10008" x="611" y="274" width="178" height="235"/>
+	<SubTexture name="el-goblino-business instance 10009" x="809" y="274" width="178" height="235"/>
+	<SubTexture name="el-goblino-business instance 10010" x="20" y="529" width="178" height="235"/>
+	<SubTexture name="el-goblino-business instance 10011" x="218" y="529" width="178" height="235"/>
+	<SubTexture name="el-goblino-business instance 10012" x="416" y="529" width="178" height="235"/>
+	<SubTexture name="el-goblino-business instance 10013" x="614" y="529" width="178" height="235"/>
+</TextureAtlas>

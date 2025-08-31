@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "seek0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-107
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "seek left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-420
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "seek down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				53
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "seek up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "seek right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/but_bad/seek",
+	"position": [
+		-210,
+		10
+	],
+	"healthicon": "seek",
+	"flip_x": false,
+	"healthbar_colors": [
+		27,
+		33,
+		50
+	],
+	"camera_position": [
+		-100,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

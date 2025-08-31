@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-85,
+				-207
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "anims/idle tim"
+		},
+		{
+			"offsets": [
+				-60,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "anims/up tim"
+		},
+		{
+			"offsets": [
+				47,
+				-208
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "anims/down tim"
+		},
+		{
+			"offsets": [
+				-96,
+				-225
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "anims/right tim"
+		},
+		{
+			"offsets": [
+				-30,
+				-195
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "anims/left tim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/atlas/mc-spider",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tim_joke",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		23,
+		43
+	],
+	"camera_position": [
+		-90,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fire loop.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fire0000" x="50" y="50" width="502" height="492" frameX="-10" frameY="-34" frameWidth="521" frameHeight="526"/>
+	<SubTexture name="fire0001" x="602" y="50" width="516" height="524" frameX="-1" frameY="0" frameWidth="521" frameHeight="526"/>
+	<SubTexture name="fire0002" x="1168" y="50" width="521" height="505" frameX="0" frameY="-19" frameWidth="521" frameHeight="526"/>
+	<SubTexture name="fire0003" x="50" y="624" width="508" height="512" frameX="-6" frameY="-13" frameWidth="521" frameHeight="526"/>
+	<SubTexture name="fire0004" x="608" y="624" width="503" height="474" frameX="-4" frameY="-52" frameWidth="521" frameHeight="526"/>
+</TextureAtlas>

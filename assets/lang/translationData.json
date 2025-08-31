@@ -1,0 +1,54 @@
+{
+    "en": {
+        "advancement": 1,
+        "proofRead": 1
+    },
+    "cs": {
+        "advancement": 0.76,
+        "proofRead": 0
+    },
+    "es-cl": {
+        "advancement": 0.43,
+        "proofRead": 0
+    },
+    "fr-ca": {
+        "advancement": 0.93,
+        "proofRead": 1
+    },
+    "id": {
+        "advancement": 0.05,
+        "proofRead": 0
+    },
+    "lt": {
+        "advancement": 0.05,
+        "proofRead": 0
+    },
+    "no": {
+        "advancement": 0.08,
+        "proofRead": 0
+    },
+    "pl": {
+        "advancement": 0,
+        "proofRead": 0
+    },
+    "pt-br": {
+        "advancement": 1,
+        "proofRead": 0
+    },
+    "ru": {
+        "advancement": 0.60,
+        "proofRead": 0
+    },
+    "tr": {
+        "advancement": 0.81,
+        "proofRead": 0
+    },
+    "vi": {
+        "advancement": 0.50,
+        "proofRead": 0
+    },
+    "zh-cn": {
+        "advancement": 1.00,
+        "proofRead": 0
+    }
+}

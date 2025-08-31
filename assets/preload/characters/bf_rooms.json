@@ -1,0 +1,211 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Poses/idle"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Poses/up"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Poses/right"
+		},
+		{
+			"offsets": [
+				-6,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Poses/left"
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Poses/down"
+		},
+		{
+			"offsets": [
+				-7,
+				37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Poses/alt-up"
+		},
+		{
+			"offsets": [
+				-18,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Poses/alt-right"
+		},
+		{
+			"offsets": [
+				23,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Poses/alt-left"
+		},
+		{
+			"offsets": [
+				-3,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Poses/alt-down"
+		},
+		{
+			"offsets": [
+				-14,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Poses/miss-right"
+		},
+		{
+			"offsets": [
+				9,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Poses/miss-up"
+		},
+		{
+			"offsets": [
+				26,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Poses/miss-left"
+		},
+		{
+			"offsets": [
+				-3,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Poses/miss-down"
+		},
+		{
+			"offsets": [
+				-5,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-altmiss",
+			"indices": [],
+			"name": "Poses/miss-alt-up"
+		},
+		{
+			"offsets": [
+				-13,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-altmiss",
+			"indices": [],
+			"name": "Poses/miss-alt-right"
+		},
+		{
+			"offsets": [
+				24,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-altmiss",
+			"indices": [],
+			"name": "Poses/miss-alt-left"
+		},
+		{
+			"offsets": [
+				-3,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-altmiss",
+			"indices": [],
+			"name": "Poses/miss-alt-down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriend/regularbf",
+	"position": [
+		80,
+		420
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		52,
+		111,
+		180
+	],
+	"camera_position": [
+		-210,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}

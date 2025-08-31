@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf0000" x="2" y="2" width="414" height="505" pivotX="0" pivotY="0"/>
+	<SubTexture name="gf0001" x="2" y="2" width="414" height="505"/>
+	<SubTexture name="gf0002" x="2" y="2" width="414" height="505"/>
+	<SubTexture name="gf0003" x="2" y="509" width="414" height="505"/>
+	<SubTexture name="gf0004" x="2" y="509" width="414" height="505"/>
+	<SubTexture name="gf0005" x="2" y="509" width="414" height="505"/>
+	<SubTexture name="gf0006" x="418" y="2" width="414" height="505"/>
+	<SubTexture name="gf0007" x="418" y="2" width="414" height="505"/>
+	<SubTexture name="gf0008" x="418" y="2" width="414" height="505"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RetryButton.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence RetryButton 10000" x="40" y="40" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10001" x="739" y="40" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10002" x="1438" y="40" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10003" x="2137" y="40" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10004" x="2836" y="40" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10005" x="40" y="337" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10006" x="739" y="337" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10007" x="1438" y="337" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10008" x="2137" y="337" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10009" x="2836" y="337" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10010" x="40" y="634" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10011" x="739" y="634" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10012" x="1438" y="634" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10013" x="2137" y="634" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10014" x="2836" y="634" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10015" x="40" y="931" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10016" x="739" y="931" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10017" x="1438" y="931" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10018" x="2137" y="931" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10019" x="2836" y="931" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10020" x="40" y="1228" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10021" x="739" y="1228" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10022" x="1438" y="1228" width="659" height="257"/>
+	<SubTexture name="Occurrence RetryButton 10023" x="2137" y="1228" width="659" height="257"/>
+</TextureAtlas>

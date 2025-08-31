@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				66,
+				-86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle/"
+		},
+		{
+			"offsets": [
+				170,
+				-145
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down/"
+		},
+		{
+			"offsets": [
+				57,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up/"
+		},
+		{
+			"offsets": [
+				246,
+				-124
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right/"
+		},
+		{
+			"offsets": [
+				48,
+				-128
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left/"
+		},
+		{
+			"offsets": [
+				170,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "down miss/"
+		},
+		{
+			"offsets": [
+				55,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "up miss/"
+		},
+		{
+			"offsets": [
+				40,
+				-130
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "left miss/"
+		},
+		{
+			"offsets": [
+				247,
+				-127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "right miss/"
+		},
+		{
+			"offsets": [
+				170,
+				-145
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "down/"
+		},
+		{
+			"offsets": [
+				57,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "up/"
+		},
+		{
+			"offsets": [
+				246,
+				-124
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "right/"
+		},
+		{
+			"offsets": [
+				48,
+				-128
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "left/"
+		},
+		{
+			"offsets": [
+				170,
+				-150
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-altmiss",
+			"loop": false,
+			"name": "down miss/"
+		},
+		{
+			"offsets": [
+				55,
+				-43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-altmiss",
+			"loop": false,
+			"name": "up miss/"
+		},
+		{
+			"offsets": [
+				40,
+				-130
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singRIGHT-altmiss",
+			"loop": false,
+			"name": "left miss/"
+		},
+		{
+			"offsets": [
+				247,
+				-127
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-altmiss",
+			"loop": false,
+			"name": "right miss/"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/abuse/neko",
+	"position": [
+		0,
+		-230
+	],
+	"healthicon": "neko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		176,
+		236
+	],
+	"camera_position": [
+		60,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

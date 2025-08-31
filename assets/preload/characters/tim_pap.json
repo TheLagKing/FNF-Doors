@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-91,
+				-212
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "anims/idle tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-80,
+				-111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "anims/up tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-208
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "anims/down tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-228
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "anims/right tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-183
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "anims/left tim",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/atlas/timothy_joke_pap",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tim_joke",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		23,
+		43
+	],
+	"camera_position": [
+		-90,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

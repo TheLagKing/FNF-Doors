@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seek.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="seek0000" x="50" y="50" width="544" height="700" frameX="-280" frameY="0" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0001" x="50" y="50" width="544" height="700" frameX="-280" frameY="0" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0002" x="644" y="50" width="551" height="665" frameX="-297" frameY="-39" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0003" x="644" y="50" width="551" height="665" frameX="-297" frameY="-39" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0004" x="1245" y="50" width="569" height="593" frameX="-289" frameY="-117" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0005" x="1245" y="50" width="569" height="593" frameX="-289" frameY="-117" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0006" x="1864" y="50" width="855" height="533" frameX="0" frameY="-172" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0007" x="1864" y="50" width="855" height="533" frameX="0" frameY="-172" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0008" x="2769" y="50" width="649" height="464" frameX="-237" frameY="-239" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0009" x="2769" y="50" width="649" height="464" frameX="-237" frameY="-239" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0010" x="50" y="800" width="647" height="455" frameX="-239" frameY="-246" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0011" x="50" y="800" width="647" height="455" frameX="-239" frameY="-246" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0012" x="50" y="800" width="647" height="455" frameX="-239" frameY="-246" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0013" x="50" y="800" width="647" height="455" frameX="-239" frameY="-246" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0014" x="50" y="800" width="647" height="455" frameX="-239" frameY="-246" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0015" x="50" y="800" width="647" height="455" frameX="-239" frameY="-246" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0016" x="2769" y="50" width="649" height="464" frameX="-237" frameY="-239" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0017" x="2769" y="50" width="649" height="464" frameX="-237" frameY="-239" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0018" x="644" y="50" width="551" height="665" frameX="-297" frameY="-39" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0019" x="644" y="50" width="551" height="665" frameX="-297" frameY="-39" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0020" x="50" y="50" width="544" height="700" frameX="-280" frameY="0" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0021" x="50" y="50" width="544" height="700" frameX="-280" frameY="0" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0022" x="50" y="50" width="544" height="700" frameX="-280" frameY="0" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek0023" x="50" y="50" width="544" height="700" frameX="-280" frameY="0" frameWidth="886" frameHeight="710"/>
+	<SubTexture name="seek down0000" x="747" y="800" width="544" height="256" frameX="0" frameY="-21" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0001" x="747" y="800" width="544" height="256" frameX="0" frameY="-21" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0002" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0003" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0004" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0005" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0006" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0007" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0008" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0009" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0010" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0011" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0012" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0013" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek down0014" x="1341" y="800" width="502" height="277" frameX="-21" frameY="0" frameWidth="544" frameHeight="277"/>
+	<SubTexture name="seek left0000" x="1893" y="800" width="563" height="657" frameX="0" frameY="-9" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0001" x="1893" y="800" width="563" height="657" frameX="0" frameY="-9" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0002" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0003" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0004" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0005" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0006" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0007" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0008" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0009" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0010" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0011" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0012" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0013" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek left0014" x="2506" y="800" width="553" height="648" frameX="-25" frameY="0" frameWidth="578" frameHeight="666"/>
+	<SubTexture name="seek right0000" x="3109" y="800" width="479" height="716" frameX="-22" frameY="0" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0001" x="3109" y="800" width="479" height="716" frameX="-22" frameY="0" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0002" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0003" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0004" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0005" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0006" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0007" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0008" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0009" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0010" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0011" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0012" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0013" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek right0014" x="50" y="1566" width="483" height="677" frameX="0" frameY="-32" frameWidth="501" frameHeight="716"/>
+	<SubTexture name="seek up0000" x="583" y="1566" width="506" height="840" frameX="-47" frameY="0" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0001" x="583" y="1566" width="506" height="840" frameX="-47" frameY="0" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0002" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0003" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0004" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0005" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0006" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0007" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0008" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0009" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0010" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0011" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0012" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0013" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+	<SubTexture name="seek up0014" x="1139" y="1566" width="596" height="756" frameX="0" frameY="-91" frameWidth="596" frameHeight="847"/>
+</TextureAtlas>

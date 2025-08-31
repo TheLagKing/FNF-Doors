@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="JeffLeftTentacle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="L Tentacle0000" x="40" y="40" width="395" height="389" frameX="-12" frameY="-6" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0001" x="40" y="40" width="395" height="389" frameX="-12" frameY="-6" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0002" x="475" y="40" width="398" height="338" frameX="-15" frameY="-53" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0003" x="475" y="40" width="398" height="338" frameX="-15" frameY="-53" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0004" x="913" y="40" width="417" height="286" frameX="-12" frameY="-95" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0005" x="913" y="40" width="417" height="286" frameX="-12" frameY="-95" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0006" x="1370" y="40" width="438" height="308" frameX="-6" frameY="-72" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0007" x="1370" y="40" width="438" height="308" frameX="-6" frameY="-72" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0008" x="40" y="469" width="398" height="324" frameX="0" frameY="-57" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0009" x="40" y="469" width="398" height="324" frameX="0" frameY="-57" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0010" x="478" y="469" width="324" height="356" frameX="-24" frameY="-22" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0011" x="478" y="469" width="324" height="356" frameX="-24" frameY="-22" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0012" x="842" y="469" width="265" height="371" frameX="-19" frameY="0" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0013" x="842" y="469" width="265" height="371" frameX="-19" frameY="0" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0014" x="1147" y="469" width="266" height="329" frameX="-28" frameY="-51" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0015" x="1147" y="469" width="266" height="329" frameX="-28" frameY="-51" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0016" x="1453" y="469" width="276" height="285" frameX="-28" frameY="-100" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0017" x="1453" y="469" width="276" height="285" frameX="-28" frameY="-100" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0018" x="40" y="880" width="294" height="302" frameX="-26" frameY="-84" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0019" x="40" y="880" width="294" height="302" frameX="-26" frameY="-84" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0020" x="374" y="880" width="325" height="338" frameX="-14" frameY="-42" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0021" x="374" y="880" width="325" height="338" frameX="-14" frameY="-42" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0022" x="739" y="880" width="351" height="374" frameX="-15" frameY="-17" frameWidth="444" frameHeight="395"/>
+	<SubTexture name="L Tentacle0023" x="739" y="880" width="351" height="374" frameX="-15" frameY="-17" frameWidth="444" frameHeight="395"/>
+</TextureAtlas>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="spawnFig.png" width="5113" height="5901">
+	<SubTexture name="Intro 10000" x="2374" y="2" width="1381" height="1392" frameX="-443" frameY="-0" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10001" x="2" y="2729" width="1381" height="1391" frameX="-449" frameY="-18" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10002" x="1385" y="2729" width="1372" height="1379" frameX="-451" frameY="-95" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10003" x="2759" y="2729" width="1372" height="1379" frameX="-462" frameY="-349" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10004" x="3483" y="1396" width="1354" height="1279" frameX="-469" frameY="-664" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10005" x="3757" y="2" width="1354" height="1279" frameX="-468" frameY="-1255" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10006" x="2" y="4122" width="1200" height="1058" frameX="-552" frameY="-2153" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10007" x="1204" y="4122" width="1200" height="1058" frameX="-552" frameY="-2458" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10008" x="2031" y="2060" width="1450" height="667" frameX="-456" frameY="-2897" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10009" x="2" y="2060" width="2027" height="667" frameX="-171" frameY="-2897" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10010" x="2" y="1385" width="2319" height="673" frameX="-27" frameY="-2891" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10011" x="2" y="710" width="2356" height="673" frameX="-10" frameY="-2891" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10012" x="2" y="2" width="2370" height="706" frameX="-0" frameY="-2858" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10013" x="854" y="5182" width="839" height="706" frameX="-712" frameY="-2858" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10014" x="2" y="5182" width="850" height="717" frameX="-708" frameY="-2847" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10015" x="2" y="5182" width="850" height="717" frameX="-708" frameY="-2847" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10016" x="4181" y="4308" width="853" height="719" frameX="-706" frameY="-2845" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10017" x="4181" y="4308" width="853" height="719" frameX="-706" frameY="-2845" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10018" x="4181" y="4308" width="853" height="719" frameX="-706" frameY="-2845" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10019" x="4181" y="4308" width="853" height="719" frameX="-706" frameY="-2845" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10020" x="2406" y="5064" width="850" height="720" frameX="-708" frameY="-2844" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10021" x="2406" y="5064" width="850" height="720" frameX="-708" frameY="-2844" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10022" x="3258" y="5064" width="842" height="722" frameX="-713" frameY="-2842" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10023" x="3258" y="5064" width="842" height="722" frameX="-713" frameY="-2842" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10024" x="4181" y="2677" width="903" height="731" frameX="-680" frameY="-2833" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10025" x="4181" y="2677" width="903" height="731" frameX="-680" frameY="-2833" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10026" x="4102" y="5057" width="836" height="740" frameX="-737" frameY="-2824" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10027" x="4102" y="5057" width="836" height="740" frameX="-737" frameY="-2824" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10028" x="4181" y="3410" width="674" height="896" frameX="-805" frameY="-2672" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10029" x="4181" y="3410" width="674" height="896" frameX="-805" frameY="-2672" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10030" x="3575" y="4110" width="604" height="945" frameX="-861" frameY="-2624" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10031" x="3575" y="4110" width="604" height="945" frameX="-861" frameY="-2624" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10032" x="2406" y="4110" width="586" height="952" frameX="-874" frameY="-2616" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10033" x="2406" y="4110" width="586" height="952" frameX="-874" frameY="-2616" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10034" x="2994" y="4110" width="579" height="952" frameX="-880" frameY="-2616" frameWidth="2371" frameHeight="3569"/>
+	<SubTexture name="Intro 10035" x="2994" y="4110" width="579" height="952" frameX="-880" frameY="-2616" frameWidth="2371" frameHeight="3569"/>
+</TextureAtlas>

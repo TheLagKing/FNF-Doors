@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- To make your own translation file, just copy this file, and name it [translationName].xml -->
+<!-- Never edit shit in < > otherwise it won't work. -->
+<!-- Make sure to never edit the keys, only the values. -->
+<!-- For instance, for key "ez" (line 11), you don't edit "ez", you edit "Easy" since it's the thing that'll show up in game -->
+<!-- The key will always contain what the game needs to "see" your translation file -->
+<!-- TLDR : Change the value and not the key -->
+<root>
+    <generalshit>
+        <engineVersionShit value="Doors Motoru {0}"/>
+        <gameVersionShit value="FNF : Doors {0}"/>
+        <ez value="Kolay"/>
+        <normal value="Standart"/>
+        <hard value="Usta"/>
+        <hell value="Cehennem"/>
+        <heaven value="Cennet"/>
+        <wip value="Yapım Sürecinde"/>
+        <diffDescriptions>
+            <Easy value="Oyuna yeni olanlar için düşürülmüş zorluk.\nHerşey daha kolay ama oynamaktan utanma!"/>
+            <Normal value="Tavsiye edilen zorluk.\nGayet dengeli, olması gerektiği gibi."/>
+            <Hard value="Gaziler ve Ustalar için.\nHer karşılaşma ölümüne bir mücadele olacak."/>
+            <Hell value="Ölüm bir merhamet gibi gelecek."/>
+            <Wip value="Yapım Sürecinde, lütfen sabırlı olunuz.\nBiz bunu size getirmek için çok uğraşıyoruz!"/>
+        </diffDescriptions>
+        <ratings>
+            <yousuck value="Berbatsın!!"/>
+            <shit value="Lanet Olası!"/>
+            <bad value="Kötü"/>
+            <bruh value="Bruh"/>
+            <meh value="Meh"/>
+            <nice value="Hoş"/>
+            <good value="İyi"/>
+            <great value="Güzel"/>
+            <sick value="Harika!"/>
+            <perfect value="Mükemmel!!"/>
+            <ratingsFC>
+                <sfc value="Mükemmel TK"/>
+                <gfc value="İyi TK"/>
+                <fc value="TK"/>
+                <clear value="Temiz"/>
+            </ratingsFC>
+        </ratings>
+        <score value="Puan"/>
+        <misses value="Iskalar"/>
+        <rating value="Derecelendirme"/>
+        <botplayText value="BECERİKSİZİM"/>
+    </generalshit>
+    <newUI>
+        <!-- Menu names -->
+        <stats value="İSTATİSTİKLER"/>
+        <chooseMods value="DEĞİŞTİRİCİLERİNİ SEÇ"/>
+        <pause value="DURDUR"/>
+        <prerun value="OYUN ÖNCESİ MAĞAZASI"/>
+        <tutorial value="ÖĞRETİCİ"/>
+        <glasshatOnline value="GLASSHAT ONLINE"/>
+        <death value="ÖLDÜN!"/>
+        <specialThanks value="ÖZEL TEŞEKKÜRLER"/>
+        <socials value="SOSYAL MEDYALAR"/>
+        <donateMenu value="BAĞIŞLAR"/>
+
+        <!-- Button names -->
+        <quit value="AYRIL"/>
+        <showMod value="DEĞİŞTİRİCİLERİNİ GÖSTER"/>
+        <reset value="SIFIRLA"/>
+        <cancel value="İPTAL"/>
+        <restart value="YENİDEN BAŞLAT"/>
+        <options value="AYARLAR"/>
+        <resume value="OYUNA DEVAM ET"/>
+        <play value="OYNA"/>
+        <mainmenu value="ANA MENU"/>
+        <newrun value="YENİ OYUN"/>
+        <register value="KAYDOL"/>
+        <login value="GİRİŞ YAP"/>
+        <modifyAcc value="ŞİFREYİMİ UNUTTUN?"/>
+        <revive value="Yeniden Canlan"/>
+        <donateKofi value="KOFI'DEN BAĞIŞ YAP"/>
+        
+        <clickOff value="Ayrılmak için herhangi bir yere tıkla."/>
+        <pressOff value="Devam etmek için {0} basın."/>
+        <pressOffMult value="Devam etmek için {0} veya {1} basın."/>
+        
+        <donateMenuText value="Hey, ekip olarak bu mod üzerinde yaklaşık 3 yıldır çalışıyoruz, bu yüzden biraz para bağışlamanız bizim için çok şey ifade eder. Karşılık olarak çok fazla şey sunamayız, ama liderlik tablolarını güncel tutmak için sunuculara ödeme yapmamıza yardımcı olur ve belki de gelecekteki güncellemelerde başka şeyler yaparız! Desteğiniz için teşekkürler."/>
+    </newUI>
+    <glasshat>
+        <email value="E-MAIL"/>
+        <username value="KULLANICI ADI"/>
+        <password value="ŞİFRE"/>
+        <passwordInfo value="ŞİFRE EN AZ 8, EN FAZLA 32 KARAKTER OLMALIDIR, EN AZ 1 NUMARA, 1 BÜYÜK KARAKTER VE 1 KÜÇÜK KARAKTER İÇERMELİDİR."/>
+        <info value="Glasshat Online, FNF : Doors’ un kendi online çözümü!\nHiçbir kişisel veri depolanmıyor.\nBir hesap ile liderlik tablolarına erişebilirsin, puanlarını paylaşabilirsin...\nBaşarılar da hesaplar aracılığıyla senkronize edilir!"/>
+        
+        <allFields value="Lütfen bütün alanları doldurunuz."/>
+        <invalidMail value="Email geçersiz."/>
+        <insecurePass value="Şifreniz yeterince güvenli değil. Şifreniz, en az 8, en fazla 32 karakter uzunluğunda olmalı, büyük karakter ve küçük karakter içermelidir."/>
+
+        <noScores value="Hiçbir puan bulunamadı."/>
+        <notLoggedIn value="Giriş yapılmamış.\nGlasshat girişine ayarlardan ulaşabilirsiniz."/>
+        <error value="Puanları gönderirken hata oluştu.\nLütfen bunu discord serverine raporlayın."/>
+    </glasshat>
+    <death>
+        <revivesLeft value="KALAN DİRİLMELER : {0}"/>
+        <freeplayRevives value="KALAN DİRİLMELER : SONSUZ"/>
+        <modsUsed value="Kullanılan Değiştiriciler:{0}"/>
+        <reviveWarning value="{0} canın kaldı."/>
+        <tips>
+            <!-- Don't translate the type="tip"-->
+            <a60 type="tip">
+                <tip1 _0="Oh... Kırmızı olan.\nOna ne diceğimi bilemiyorum..." _1="Yani, O genellikle A-60 Odasında saldırıyor, yani..." _2="Sen ona A-60 diyebilirsin. Ne bileyim ben."/>
+                <tip2 _0="Yine A-60..." _1="Bunu anlaması o kadarda zor olduğunu sanmıyorum." _2="Tamam, acele et. İşimiz hâlen bitmedi."/>
+                <tip3 _0="Yine A-60..." _1="Yapabilirsin. Sana İnanıyorum." _2="Sonra görüşürüz. Demi?"/>
+            </a60>
+            <ambush type="tip">
+                <tip1 _0="Ambush dediğin şeye öldün..." _1="Bu zor bir şey." _2="Rush'tan öğrendiklerini kullan!"/>
+                <tip2 _0="Yine Ambush'a öldün..." _1="Seni en az şüphelendiğin anda kapıyor!" _2="Onun kendisine has bir çığlığı var. Duydunmu bir kere, hazır ol!"/>
+                <tip3 _0="Ambush'a öldün." _1="Gizlenme yerine birkaç kez gir çık yapman gerekebilir." _2="Bunu yapabilirsin!"/>
+            </ambush>
+            <elevator type="tip">
+                <tip1 _0="Görünüşe göre kaçamadın..." _1="Takip etmek için zor bir ritim!" _2="Kalp atışına odanlandığından emin ol."/>
+                <tip2 _0="Görünüşe göre kaçamadın..." _1="Ritmini kontrol et!" _2="Bir kalp atışı bile zamanında olmazsa, işin biter!"/>
+                <tip3 _0="Görünüşe göre kaçamadın..." _1="Sana yardımcı notlarla yardım etmeye çalışacağım." _2="Bunu yapabilirsin!"/>
+            </elevator>
+            <eyes type="tip">
+                <tip1 _0="Eyes'e öldün..." _1="Onlar kendilerine bakılmasını sevmiyorlar." _2="Gözlerini kapat, ve ritme güven."/>
+                <tip2 _0="Yine Eyes'e öldün..." _1="Gözlerinin olabildiğince uzun süre kapalı tutmaya çalış." _2="Bakmazken nefesini daha rahat alabilirsin."/>
+                <tip3 _0="Görünüşe göre Eyes ile sıkıntılar yaşıyorsun..." _1="Gözlerini kapalı tuttuğundan emin ol." _2="Gözlerini hızlıca açık kapatmakta işe yarıyor."/>
+            </eyes>
+            <figure type="tip">
+                <tip1 _0="Figür dediğin şeye öldün..." _1="O göremez, ama sesleri ve titreşimleri kendi yararına kullanır." _2="Kalp atışına odaklandığına emin ol."/>
+                <tip2 _0="Yine Figür'e öldün..." _1="Kör olabilir, ama diğer her duyusu seninkine taş çıkarır." _2="Bir kalp atışı bile zamanında olmazsa, işin biter!"/>
+                <tip3 _0="Ve yine Figür'e öldün." _1="Sana yardımcı notlarla yardım etmeye çalışacağım." _2="Kalp atışını kontrol etmek aşırı önemli, müzik ritmini devam ettirmekten bile."/>
+            </figure>
+            <glitch type="tip">
+                <tip1 _0="Bu garip. Kime öldüğünü anlayamadım." _1="Ancak sevdiğinizin gerisinde kaldığını fark ettim." _2="Birbirinize yakın kalın!"/>
+                <tip2 _0="Bu garip. Kime öldüğünü anlayamadım." _1="Ancak sevdiğinizin gerisinde kaldığını fark ettim." _2="Bu lobiden çıkmanın başka bir yolu olmalı."/>
+                <tip3 _0="Bu garip. Kime öldüğünü anlayamadım." _1="Ancak sevdiğinizin gerisinde kaldığını fark ettim." _2="Kaçmak için dışarıdaki arka kapıyı deneyin!"/>
+            </glitch>
+            <halt type="tip">
+                <tip1 _0="Halt diye hitap ettiğin şeye öldün..." _1="Ondan koşarak uzaklaşmalısın!" _2="Ancak. bir anda önünde belirebilir..."/>
+                <tip2 _0="Yine Halt'a öldün..." _1="Koşarken, önünde her an belirebilir." _2="Belirdiğinde, arkanı dön ve koşmaya devam et!"/>
+                <tip3 _0="Görünüşe göre Halt ile sıkıntılar yaşıyorsun..." _1="O ışınlandığında, görüşünü bozar." _2="Işınlanmasını tahmin etmeye çalış!"/>
+            </halt>
+            <rush type="tip">
+                <tip1 _0="Rush'a öldün..." _1="O gelirken senin etrafında oluşturduğu ipuculara dikkat et." _2="He bide gelirken seste çıkarıyor."/>
+                <tip2 _0="Yine Rush'a öldün..." _1="Işıklara dikkat et." _2="Onlar, onun gelişine bir ipucu."/>
+                <tip3 _0="Görünüşe göre Rush ile sıkıntılar yaşıyorsun..." _1="O yakın iken ışıklar yanıp söner." _2="Yaşandığı zaman, saklanacak bir alan bul!"/>
+            </rush>
+            <screech type="tip">
+                <tip1 _0="Screech'e öldün..." _1="O karanlık odalarda gizlenmeyi sever." _2="Eğer yakınında hissedersen, gözlerini açık tut."/>
+                <tip2 _0="Yine Screech'e öldün..." _1="O karanlık odalarda saklanır." _2="Eğer bir ışık kaynağı tutuyorsan neredeyse sana hiç bulaşmaz."/>
+                <tip3 _0="Görünüşe göre Screech ile sıkıntılar yaşıyorsun..." _1="Ona karşı şarkı söylerken, görüşün kararır." _2="Bunu engellemek için, bir ışık kaynağı bulmaya çalış!"/>
+            </screech>
+            <seek type="tip">
+                <tip1 _0="Görünüşe göre kayboldun, ve Seek'e öldün..." _1="Ritme odaklı kal." _2="Koşarken ritmi takip etmek zor olabilir, ama bunu yapabilirsin!"/>
+                <tip2 _0="Yine Seek'e öldün..." _1="Çığlık attığında, dengeni bozabilir." _2="Senin üzerinde avantaj elde etmesine izin verme."/>
+                <tip3 _0="Neredeyse başardın!" _1="Hiç zaman kaybetme." _2="Hepsine ihtiyacın olacak!"/>
+            </seek>
+            <dupe type="">
+                <tip1 _0="Dupe tarafından öldüründün..." _1="O sahte kapılar oluşturuyor." _2="Doğru kapıları seçtiğinden emin ol."/>
+                <tip2 _0="Yine Dupe tarafından öldüründün..." _1="O sahte kapılar oluşturuyor, ama bu işte pek iyi değil." _2="Asla ters yöne gidemeyeceğini hatırla."/>
+                <tip3 _0="Görünüşe göre Dupe ile sıkıntılar yaşıyorsun..." _1="2 kapı ile karşılaştığında, doğru olanı seçtiğinden emin ol." _2="Eğer bir kapı seni geriye atıyorsa, büyük ihtimalle arkasında Dupe var."/>
+            </dupe>
+            <shadow type="tip">
+                <tip1 _0="Shadow diye hitap ettiğin şeye öldün..." _1="O senin hemen karşında çıkar ve hayat enerjini sömürür." _2="Kaçmasını sağlayabileceğine inanıyorum."/>
+                <tip2 _0="Yine Shadow'a öldün..." _1="O uzun süre kalırsa senin hayat enerjini yavaşça sömürür." _2="Belki gitmesini söyle? Belki de onu gidene kadar dürt?"/>
+                <tip3 _0="Görünüşe göre Shadow ile sıkıntılar yaşıyorsun..." _1="O gidene kadar ona tıklamayı dene." _2="Unutma, o yok olana kadar tıklayabildiğin kadar tıkla."/>
+            </shadow>
+            <hide type="tip">
+                <tip1 _0="Hide diye hitap ettiğin şeye öldün..." _1="Görünüşe kadar sen dolabın içinde kalınca ortaya çıkıyor." _2="Dolaptan çıkmanın sana yardımcı olacağına inanıyorum."/>
+                <tip2 _0="Yine Hide'a öldün..." _1="Görünüşe göre dolabın içinde durmaya devam edince ortaya çıkıyor." _2="Dolabın içinde uzun süre durmaktan kaçın."/>
+                <tip3 _0="Görünüşe göre Hide ile sıkıntılar yaşıyorsun..." _1="Fısıltıları duyunca dolaptan çıkmayı dene." _2="Belki dolaplara tekrar çıkıp girmen gerekecek."/>
+            </hide>
+            <void type="tip">
+                <tip1 _0="Void diye hitap ettiğin şeye öldün..." _1="O her zaman hafifçe arkanızdan yaklaşır." _2="Onun seni yakalamasına izin verme!"/>
+                <tip2 _0="Yine Void'e öldün..." _1="Görünüşe göre uzun süre hareketsiz durunca ortaya çıkıyor." _2="Onun yakalamasına izin verme!."/>
+                <tip3 _0="Görünüşe göre Void ile sıkıntılar yaşıyorsun..." _1="Bilincini kaybetmeye başladığında odadan ayrılmayı dene." _2="Eğer hareket edersen seni yalnız bırakır."/>
+            </void>
+            <generalTip _0="Görünüşe göre ritmi takip edemiyorsun..." _1="Notalara doğru zamanda basmaya dikkat et!" _2="Sana yardımcı notlarla yardım etmeye çalışacağım."/>
+            <lastLife _0="Hımm..." _1="Görünüşe göre bir tane daha düştü..." _2="Bob'a benden selam söyle, olur mu?"/>
+        </tips>
+        <reviveWarning value="{0} yeniden canlandırman kaldı."/>
+    </death>
+    <placeholder value="Yer tutucu"/>
+    <credit>
+        <artist value="Çizer"/>
+        <artists value="Çizerler"/>
+        <musician value="Müzisyen"/>
+        <musicians value="Müzisyenler"/>
+        <chart value="Çizelge"/>
+        <ez value="Kolay"/>
+        <normal value="Standart"/>
+        <hard value="Usta"/>
+        <hell value="Cehennem"/>
+    </credit>
+    <newCredit>
+        <art value="Çizim"/>
+        <music value="Müzik"/>
+        <chart value="Çizelge"/>
+    </newCredit>
+    <options>
+        <disabled value="DEVRE DIŞI"/>
+        <enabled value="AKTİF"/>
+        <main>
+            <!-- Try to keep these short -->
+            <language value="Dil"/>
+            <glasshat value="Glasshat"/> <!-- Don't translate this one -->
+            <controls value="Kontroller"/>
+            <graphics value="Grafikler"/>
+            <visuals value="Görseller"/>
+            <gameplay value="Oynanış"/>
+        </main>
+        <visuals>
+            <notesplash name="Nota Sıçramaları" desc="Devre dışı bırakılırsa, &quot;Sick!&quot; basmak partikül çıkarmaz."/>
+            <notesplashAlpha name="Sıçrama Opaklığı" desc="Yüksek numaralar daha görünür olacağı anlamına gelir."/>
+            <hidehud name="HUD'u gizle" desc="Aktifleştirilirse, HUD elemanlarının çoğu gizlenir."/>
+            <timebar name="Zaman Barı:" desc="Zaman barı ne göstermeli?"/>
+            <flashinglights name="Yanıp Sönen Işıklar" desc="Yanıp sönen ışıkları duyarlılığın varsa kapat!"/>
+            <camerazooms name="Kamera Yakınlaştırmaları" desc="Devre dışı bırakılırsa kamera ritimle yakınlaşma yapmaz."/>
+            <camerafollow name="Kamera Takibi" desc="Devre dışı bırakılırsa kamera nota basımında takip etmez."/>
+            <cameraangle name="Kamera Eğimi" desc="Devre dışı bırakılırsa sağ veya sola bastığında kamera oynamaz."/>
+            <healthslide name="Can Barı Kayması" desc="Aktif edilirse can barı full olduğunda gizlenecek\nve can kaybedince geri gelcek."/>
+            <healthicons name="Can Barındaki İkonlar" desc="Aktif edilirse ikonları yana koymaktansa can barına yerleştirir\n(&quot;Vanilla&quot; veya &quot;Ourple Guy Stili&quot;)."/>
+            <scoretxtzoom name="Vuruşta Yazı Sıçraması" desc="Devre dışı bırakılırsa her notaya bastığında\nPuan yazısı sıçramaz."/>
+            <fpscounter name="FPS Göstergeci" desc="Devre dışı bırakılırsa FPS göstergecini gizler."/>
+            <specificOptions>
+                <timebar _0="Kalan Zaman" _1="Geçen Zaman" _2="Şarkı Adı" _3="Devre Dışı" _4="Devre Dışı"/>
+            </specificOptions>
+        </visuals>
+        <language>
+            <language name="Dil" desc="Oyunun dilini değiştirir!"/>
+            <helpOut name="Bize katıl!" desc="FNF Doors Çeviri Ekibi ile iletişime geçerek çeviriye ücretsiz olarak yardımcı olabilirsiniz."/>
+            <finished value="Tamamlandı"/>
+            <proofread value="Onaylandı"/>
+            <help value="Yukarıdaki tuşa basarak bize yardımcı olabilirsin."/>
+            <infoText value="{0} çevirisi:\n {1}% Tamamlandı\n{2}% Onaylandı\nYukarıdaki tuşa basarak bize yardımcı olabilirsin."/>
+        </language>
+        <graphics>
+            <lowquality name="Düşük Kalite" desc="Aktifleştirilirse, bazı arkaplan detaylarını gizler,\nperformansı ve yükleme hızını arttırır."/>
+            <antialiasing name="Kenar Yumuşatma" desc="Devre dışı bırakılırsa, kenar yumuşatmayı devre dışı bırakır, görünüşten ödün vererek performansı arttırır."/>
+            <shaders name="Shaderlar" desc="Devre dışı bırakılırsa, shaderları kapatır.\nBazı görsel efekler için kullanılır, zayıf bilgisayarlara daha fazla yük biner."/>
+            <framerate name="Kare Hızı" desc="Gayet kendini açıklıyor, dimi?"/>
+            <colorblind name="Renk Körlüğü Filtresi" desc="Renk Körlüğü Filtresini ayarlayabilirsin (Ren körü insanlar için oyunu daha oynanabilir yapar)"/>
+            <filmgrain name="Film Greni" desc="Hikaye moduna Film greni ekler"/>
+            <gpucache name="GPU Önbelleğe Alma" desc="Aktifleştirilirse, GPU'nun görselleri önbelleğe almak için kullanılmasına izin verir, RAM kullanımını azaltır."/>
+            <specificOptions>
+                <colorblind _0="Hiçbiri" _1="Döteranopi" _2="Protanopi" _3="Tritanopi"/>
+            </specificOptions>
+        </graphics>
+        <gameplay>
+            <controller name="Oyun kolu Modu" desc="Klavyeni kullanmak yerine bir oyun kolu ile oynuyacaksan bunu aktif et."/>
+            <midscroll name="Orta Kaydırma" desc="Aktifleştirilirse, notaların ortalanır."/>
+            <downscroll name="Aşağı Kaydırma" desc="Aktifleştirilirse, notalar yukarı gitmek yerine aşağı gider, yeterince basit."/>
+            <oppnotes name="Rakip Notaları" desc="Devre dışı bırakılırsa, rakibin notaları gizlenir."/>
+            <ghosttap name="Hayalet Tıklama" desc="Aktifleştirilirse, notalar yok iken\ntıklamaktan ıska almazsın."/>
+            <disablereset name="Sıfırlama Düğmesini Devre Dışı Bırak" desc="Aktifleştirilirse, Sıfırlama Tuşunu devre dışı bırakır."/>
+            <strumlineBackgroundOpacity name="Nota Arkaplanı" desc="Notalarının arkasına siyah arkaplan ekler, buda senin daha iyi görmene yardımcı olur."/>
+            <hitsound name="Vuruş Sesi Düzeyi" desc="Notalara bastığınızda &quot;Tık&quot; sesi çıkarır."/>
+            <ratingoffset name="Derecelendirme Dengesi" desc="&quot;Sick&quot; vurmak için ne kadar erken/geç olacağını değiştirir\nYüksek değerler ne kadar geç basacağını gösterir."/>
+        </gameplay>
+        <controls>
+            <default value="Varsayılan Tuşlara Sıfırla"/>
+            <notes>
+                <globalname value="--- NOTALAR ---"/>
+                <note_left value="Sol"/>
+                <note_down value="Aşağı"/>
+                <note_up value="Yukarı"/>
+                <note_right value="Sağ"/>
+            </notes>
+            <heartbeat>
+                <globalname value="--- KALP ATIŞI ---"/>
+                <heartbeat_left value="Sol"/>
+                <heartbeat_right value="Sağ"/>
+            </heartbeat>
+            <items>
+                <globalname value="--- Eşyalar ---"/>
+                <item1 value="Eşya 1"/>
+                <item2 value="Eşya 2"/>
+                <item3 value="Eşya 3"/>
+                <item4 value="Eşya 4"/>
+                <item5 value="Eşya 5"/>
+                <item6 value="Eşya 6"/>
+            </items>
+            <ui>
+                <globalname value="--- Kullanıcı Arayüzü ---"/>
+                <reset value="Sıfırla"/>
+                <accept value="Onaylama"/>
+                <back value="Geri"/>
+                <pause value="Durdurma"/>
+            </ui>
+            <volume>
+                <globalname value="--- SES ---"/>
+                <volume_mute value="Sesi Kapama"/>
+                <volume_up value="Sesi Arttırmak"/>
+                <volume_down value="Sesi Azaltma"/>
+            </volume>
+            <debug>
+                <globalname value="--- HATA AYIKLAMA ---"/>
+                <debug_1 value="Tuş 1"/>
+                <debug_2 value="Tuş 2"/>
+            </debug>
+        </controls>
+    </options>
+    <items>
+        <test name="Test Nesnesi" desc="Bunu nasıl elde ettin?" plural="F"/>
+        <lighter name="Çakmak" desc="Karanlık bölgelerde daha rahat görmeni sağlar. Hatta başka yolları görmeni de sağlayabilir." plural="F"/>
+        <flashlight name="El Feneri" desc="Karanlık bir odayı aydınlık bir odaya çevirir!" plural="F"/>
+        <crucifix name="Haç" desc="Ölümün eşiğinde buna bir kullanım amacı bulabilirsiniz." plural="F"/>
+        <vitamins name="Vitaminler" desc="Etikette: &quot;Daha Az Kaybet, Daha Fazla Kazan!&quot; yazıyor." plural="T"/>
+        <candle name="Mum" desc="Bu mumu yakmak daha iyi şarkı söylemene yardımcı olabilir." plural="F"/>
+        <bandages name="Yara Bandı" desc="Her tür hasardan korur, taki çıkana kadar." plural="F"/>
+        <error name="item.notFound.Glitch.NaN" desc="Sana sevgili birini hatırlatıyor..." plural="F"/>
+        <skeleKey name="İskelet Anahtarı" desc="Kapı açabilir... Anahtar bunun içindir, dimi?" plural="F"/>
+        <soldout value="Satıldı!"/>
+
+        <messages>
+            <storyVitamins value="Bu sadece tehlike anında işe yarar..."/>
+        </messages>
+    </items>
+    <mechanics>
+        <halt>
+            <bg value="ARKANI DÖN"/>
+            <title value="HALT'IN MEKANİĞİ"/>
+            <major value="Halt'ın ikonuna dokunma."/>
+            <minor value="[{0}]'a basmak seni sağa kaydırır.\nNotalara basmak seni sola kaydırır."/>
+        </halt>
+        <eyes>
+            <bg value="SAKIN BAKMA"/>
+            <title value="EYES'IN MEKANİĞİ"/>
+            <major value="BAKMA."/>
+            <minor value="[{0}]'a basmak hasarı önlemek için boyfriend'in gözlerini kapatır.\nGözlerin uzun zaman süre kapalı kalırsa notaları görmen zorlaşır."/>
+        </eyes>
+        <figure>
+            <bg value="SAKIN SES ÇIKARMA"/>
+            <title value="FİGÜR'ün MEKANİĞİ"/>
+            <major value="KALP ATIŞINA DİKKAT ET."/>
+            <minor value="[{0}] ve [{1}]'a basarak kalp atışını ekranda çıka KALP NOTALARINA göre ayarla.\nKaçırman ağır cezalanmana neden olur."/>
+        </figure>
+        <popups>
+            <snare>
+                <major value="+ TUZAK"/>
+                <minor value="Canına dikkat et!"/>
+            </snare>
+        </popups>
+    </mechanics>
+    <states>
+        <pause>
+            <warning value="Bunu yapmak yeniden canlanma hakkını harcar!\nDevam etmek istediğinden emin misin?"/>
+            <warningtwo value="Başka yeniden canlanma hakkın kalmadı!\nBunu yapmak ilerlemenin silinmesine neden olur.\nBunu yapmak ister misin?"/>
+            <yes value="Evet"/>
+            <no value="Hayır"/>
+        </pause>
+        <mainmenu>
+            <sm value="HİKAYE MODU"/>
+            <gal value="GALERİ"/>
+            <cred value="KATKIDA BULUNANLAR"/>
+            <free value="SERBEST OYUN"/>
+            <ach value="BAŞARIMLAR"/>
+            <sett value="AYARLAR"/>
+            <tip value="BAĞIŞLAR"/>
+        </mainmenu>
+        <credits>
+            <owner value="Kurucu"/>
+            <director value="Yönetmen"/>
+            <lead value="Başkan"/>
+            <artist value="Çizer"/>
+            <animator value="Animatör"/>
+            <chrom value="Kromatik Yapanlar"/>
+            <music value="Müzisyen"/>
+            <chart value="Çizelgeleri Yapan"/>
+            <code value="Programcı"/>
+            <guest value="Konuk"/>
+            <former value="Eski"/>
+        </credits>
+        <flashing>
+            <warn value="Hey, dikkat et!\nBu Mod Yanan Sönen Işıklar içerir!\nŞuan onları kaldırmanın hiç bir yolu yok!!!\nOynarken dikkatli ol !!!!\nBu ekran bir kere gösterilecek.\nUyarıldın!"/>
+        </flashing>
+        <freeplay>
+            <unlock value="&quot;{0}&quot;\nBAŞARIMINI AÇ"/>
+            <or value="YA DA"/>
+            <instructions value="Kategori değiştirmek için SAĞA veya SOLA basın | Şarkı seçmek için ENTER'e basın."/>
+            <subinstructions value="'Devam etmek için {0}'a veya {1}'e basın.\nAyrılmak için {2}'ye veya {3}'e basın.'"/>
+            <categories>
+                <start value="İlk adımlar - Boyfriend &amp; Yardımcı Işık"/>
+                <rush value="Serbest Bırakılmış Damga - Rush"/>
+                <screech value="Gölgelerde Tıslama - Screech"/>
+                <ambush value="Huzursuz Yankı - Ambush"/>
+                <eyes value="Deliliğe Bakış - Eyes"/>
+                <halt value="Koridor Hayaleti - Halt"/>
+                <timothy value="Sekiz-bacaklı Sürpriz - Timothy"/>
+                <jack value="Dolap Gardiyanı - Jack"/>
+                <shop value="Shop Düdz - Bob, Jeff &amp; Goblino"/>
+                <seek value="Şeytanın Takibi - Seek"/>
+                <figure value="Kör Av - Figür"/>
+                <glitch value="Bozuk Gerçeklik - Glitch"/>
+                <freeplay value="Ekstralar"/>
+
+                <!-- WIP CATEGORIES -->
+                <dupe value="Hafıza Oyunu - Dupe"/>
+            </categories>
+        </freeplay>
+        <newFreeplay>
+            <length value="Şarkı Uzunluğu"/>
+            <diff value="Zorluk"/>
+            <mdiff value="M. Zorluğu"/> <!-- This corresponds to the mechanic difficulty -->
+        </newFreeplay>
+        <gallery>
+            <!-- Heavily unfinished, we'll have to finish up the gallery before you can translate it -->
+        </gallery>
+        <title>
+            <glasshatTxt value="SEVGİLERLE, GLASSHAT STÜDYOSU &amp; ARKADAŞLARI"/>
+            <haxeflixelTxt value="HAXEFLIXEL İLE YAPILDI"/>
+            <love value="DOORS\nVE\nFRIDAY NIGHT FUNKIN'E\nBİR AŞK MEKTUBU"/>
+        </title>
+    </states>
+    <leaderboards>
+        <glasshat value="GLASSHAT İSMİN"/>
+        <score value="PUAN"/>
+        <acc value="DOĞRULUK"/>
+        <miss value="ISKALAR"/>
+        <modf value="MODLAR"/>
+    </leaderboards>
+    <story>
+        <reset value="R'ye basarak şu an bulunduğun kapı'nın ilerleme kaydını silebilirsin ."/>
+        <results>
+            <tbc value="Sonunda Bitti...?"/>
+            <died value="Oyun Bitti"/>
+            <runScore value="Puan : "/>
+            <runRating value="Doğruluk : "/>
+            <runMiss value="Iskalar : "/>
+            <runMods value="Kullanılan Değiştiriciler : "/>
+            <runTime value="Oynanan Süre : "/>
+            <runSongs value="Karşılaşılan Düşman Varlıklar: "/>
+            <newBest value="Yeni Rekor!"/>
+        </results>
+        <itemget>
+            <singular value="Bir {0} Aldın!"/>
+            <multiple value="{0} Aldın !"/>
+            <warn value="Aynı anda 6'dan fazla eşyaya sahip olamayacağını aklının bir köşesine yaz!"/>
+        </itemget>
+        <runstats>
+            <diff value="Zorluk"/>
+            <timePlayed value="Oynanan Zaman"/>
+            <currentDoor value="Bulunduğun Kapı"/>
+            <noSongs value="Şu anlık hiçbir şarkı oynamadın!"/>
+        </runstats>
+        <paintings>
+            <left>
+                <Icydrip value="Cirno???"/>
+                <Kal value="Bir &quot;soğukkanlı&quot; uzaylı."/>
+                <Yosi value="Keşke bende onun gibi havalı olsam."/>
+                <Murder value="Bir şarkıda işbirliği yapmayı denediler."/>
+                <Tibu value="Vahşi alanda bir programcı tespit edildi."/>
+                <Halt value="Bu tablonun adı &quot;Hayalet kalıntısı&quot;."/>
+                <Morph value="Bu tablonun bir ismi yok gibi duruyor..."/>
+                <Overhead value="Bu tablonun ismi &quot;Yukarıdan Bakış&quot;."/>
+
+                <Plant value="Bu tablonun ismi &quot;Orkidegiller&quot;."/>
+                <Troll value="Bu tablonun ismi &quot;Duygulu Adam&quot;."/>
+                <YellowCreature value="Bu tablonun ismi &quot;Elektrik&quot;."/>
+
+            </left>
+            <right>
+                <Catimbas value="Bu tablonun ismi &quot;Catimbas otoportresi&quot;."/>
+                <Leetram value="Bu şapkayı hatırlıyorum!"/>
+                <Rochi value="Bu tablonun adı &quot;Rochi&quot;."/>
+                <Peak value="Mutlu bir müzisyen aile."/>
+                <Waleter value="Bana Picoyu hatırlatıyor."/>
+                <Quarters value="Bu tablonun ismi &quot;Quarters&quot;."/>
+                <Ribbons value="Bu tablonun ismi &quot;Ribbons&quot;."/>
+                <RushingOld value="Bu tablonun ismi &quot;Smile Remnant&quot;."/>
+                <SmallSpider value="Bu tablonun ismi &quot;Web Remnant&quot;."/>
+
+                <BrownImpostor value="Bu tablonun ismi &quot;Son Karşılaşma&quot;."/>
+                <Door value="Bu tablonun ismi &quot;Kapı&quot;."/>
+                <Hole value="Bu tablonun ismi &quot;Kusur&quot;."/>
+                <TheNether value="Bu tablonun ismi &quot;Tanık&quot;."/>
+            </right>
+            <ML>
+                <DeepEnd value="Bu tablonun ismi &quot;Deep End&quot;."/>
+                <Stargazer value="Bu tablonun ismi &quot;Stargazer&quot;."/>
+                <ChemicalAndMerritz value="Resimleri yapan kişi sanki artık aramızda olmayanları onurlandırmış gibi görünüyor."/>
+                <WeirdScreechThingy value="Bu tablonun ismi &quot;Taklit&quot;."/> 
+            </ML>
+            <MR>
+                <Marshmallows value="Bu tablonun ismi &quot;Marshmallows&quot;."/>
+                <SpookyScary value="Bu tablonun ismi &quot;Spooky, Scary&quot;."/>
+                <BlueandPuritzle value="Bu tablonun ismi &quot;Tablonun Tablosunun Tablosu&quot;."/> 
+                <FlintAndSteel value="Bu tablonun ismi &quot;Kar fırtınasında Taş ve Çelik&quot;."/> 
+            </MR>
+            <SL>
+                <Psst value="Bu tablonun ismi &quot;Psst...&quot;."/>
+                <Baller value="Bu tablonun ismi &quot;Baller&quot;."/>
+                <haircut value="Bu tablonun ismi &quot;Saç Kesimi&quot;."/> 
+                <PurpleandCallu value="Bu tablonun ismi &quot;Uzlaşma&quot;."/> 
+            </SL>
+            <SR>
+                <Loser value="Bu tablonun ismi &quot;Kaybeden&quot;."/>
+                <Friend value="Bu tablonun adı &quot;47. Arkadaş&quot;."/>
+                <HotLemon value="Bu tablonun ismi &quot;Sosisli ekmeğinde Limon&quot;."/> 
+                <RipsyAndZestik value="Bu tablonun ismi &quot;Perili olan&quot;."/> 
+            </SR>
+        </paintings>
+        <tutorial value="Merhaba Ziyaretçi! İlerleme, bulacağınız birçok kapıdan geçerek yapılır. Çevrenizi keşfetmek, mobilyalarla ve nesnelerle etkileşimde bulunmak için farenizi kullanmayı deneyebilirsiniz. Bu size para veya kullanılabilir eşyalar vererek bu otelde hayatta kalmanıza yardımcı olabilir. Amacın 100. kapıya canlı olarak ulaşmak."/>
+        <interactions>
+            <books value="{0} hakkında bazı eski kitaplar"/>
+            <closetClosed value="Bu dolap açılamaz..."/>
+            <guidancePlayed value="Aynı şeyi iki kere söylemek ilginç gelmeyebilir."/>
+            <darkSight value="Karanlıkta görmek zordur."/>
+            <doorClosed value="Bu kapıya ulaşılamaz."/>
+            <entityClosed value="Bir şey seni bu kapıdan geçmeni engelliyor."/>
+            <entityLongClosed value="Bir şey senin ilerlemeni engelliyor."/>
+            <entityFurClosed value="Bir şey seni bunla etkileşime girmeni engelliyor."/>
+        </interactions>
+    </story>
+    <achievements>
+        <menu value="BAŞARIMLAR"/>
+        <anyoneHome name="Kimse Var mı?" desc="Lobideki zili çal."/>
+        <rushFind name="Yanıp Sönme" desc="Rush'a rastla."/>
+        <screechFind name="Işıklar gitti" desc="Screech'e rastla."/>
+        <eyesFind name="Her zaman izliyor" desc="Eyes'e rastla."/>
+        <ambushFind name="Yanıp Sönme... Tekrardan?" desc="Ambush'a rastla."/>
+        <timothyFind name="Minik Saldırgan Örümcek!" desc="Timothy'e rastla."/>
+        <glitchFind name="Geride Bırakılmış" desc="Lobide kimi bıraktığını hatırla."/>
+        <jackFind name="Lanet olası dolapların içinde!" desc="Jack'e rastla."/>
+        <haltFind name="İleri ve Geri" desc="Halt'a rastla."/>
+        <figureFind name="Şşşşş..." desc="Figür'e rastla."/>
+        <seekFind name="Şeytanın Kovalamacası" desc="Seek'e rastla."/>
+        <absoluteFailure name="Tamamiyle Başarısızlık" desc="Envanterini doldur ve yine de Öl."/>
+        <fuckScreech name="Güneş Tarafından Kör Edildi" desc="Bir odayı ışıklandır."/>
+        <burnTheHotel name="Oteli Yak" desc="Aynı odada iki kere çakmak Kullan."/>
+        <seeingDouble name="Çift Görmek" desc="Hikaye modunda aynı odada 2 tane varlığa rastla."/>
+        <comboNotFound name="Kombo Bulunamadı!" desc="&quot;404&quot;ü en az 404 kombo ile bitir."/>
+        <youreSlow name="Adım adım" desc="Her zaman 2 kapıdan küçük olanı seçin."/>
+        <youreFast name="Hayallerinin peşinden koşmak" desc="Her zaman 2 kapıdan büyük olanı seçin."/>
+        <youWin name="Sonunda Çıkış...?" desc="Oyunu bitir."/>
+        <youWinHard name="Kaya Dibi" desc="Oyunu &quot;Zor&quot; zorluğunda bitirin."/>
+        <thatsEasy name="Bu Kolaydı." desc="Hiçbir nota ıskalamadan oyunu bitir."/>
+        <onTheEdge name="Sınırda" desc="20 saniye boyunca Halt'a yakın dur"/>
+        <neverTripped name="Hiç Takılmadım" desc="Seek'in tüm şarkılarını 95% doğruluğundan fazla bitir"/>
+        <cardiacArrest name="Kalp Pili" desc="Asla bir kalp atışını ıskalama."/>
+        <drippedOut name="Driplendi" desc="Drip ve Drip Hell'i tam kombo ile bitir."/>
+        <RNJesus name="RNGesus Tarafından Tercih Edildi" desc="Jack'e 2 kere rastla, hemde tek oynanışta."/>
+        <tissButAScratch name="Ufak Bir Sıyrık!" desc="Oyunu hiç ıska yapmadan ve %99.9'dan fazla doğrulukta bitir."/>
+        <completionist name="Tamamlayıcı" desc="Bütün şarkıları tam kombo ile tamamlayın."/>
+        <hotelHell name="Otel Cehennemi" desc="Oyunu +150% Kapı kulbu değiştiricisi (veya daha fazlası) ile bitir."/>
+        <donation name="Bağış Hedefi!" desc="Hikaye Modunda tek seferde Jeff'e 5 kere bağış yap."/>
+        <voidFind name="Geriye Bakıyor" desc="Void ile karşılaş."/>
+        <rip name="Geçmiş Olsun" desc="Bütün canlandırmalarını kaybet."/>
+        <smallBusiness name="Küçük Şirketleri Desteklemek" desc="Jeff'ten bir eşya al."/>
+        <crucifix name="Neden Ölmüyorsun?" desc="Bir Haç kullan."/>
+        <welcomeBack name="Tekrardan Hoş Geldin" desc="Kazandıktan sonra ikici bir kez hikaye modunu oynayın."/>
+    </achievements>
+    <modifiers>
+        <easy name="Kolay Mod" value="Daha Az Nota, Daha Kolay Mekanikler."/>
+        <hard name="Zor Mod" value="Daha Fazla Nota, Daha Zor Mekanikler."/>
+        <lessdark name="Işıklar Açık" value="Daha az Işığı Sönük Odalar."/>
+        <noflicker name="Elektriksel Çalışma" value="Işıklar Asla Titremez veya Sönmez."/>
+        <moredark name="Kötü Elektriksel Çalışma" value="Daha Fazla Karanlık Oda ve Işıklar Daha fazla Sönüp Titrer."/>
+        <alldark name="Işıklar Gitti" value="Şarkısız Her Kapı Karanlıktır"/>
+        <moremoney name="El Goblino Tatilde" value="Oynanışında Daha Fazla Altın Bulursun."/>
+        <lessmoney name="El Goblino Buradaydı" value="Oynanışında Daha Az Altın Bulursun."/>
+        <nomoney name="El Goblino'nun Maaş Günü" value="Oynanışında Hiçbir Altın Bulamazsın."/>
+        <moreitems name="Daha Fazla Eşya" value="Oynanışında Daha Fazla Eşya Bulursun."/>
+        <lessitems name="Daha Az Eşya" value="Oynanışında Daha Az Eşya Bulursun."/>
+        <noitems name="Eşya Kalmadı" value="Oynanışında Hiçbir Eşya Bulamazsın."/>
+        <SPAMTON_G_SPAMTON name="Anlaşma Yapar" value="Market ürün fiyatları RASTGELEDİR!"/>
+        <doublemaxhealth name="Oynamaz Parça" value="Maksimum canın 2 katına çıkar."/>
+        <aegis name="Kalkan" value="En fazla 200% can ile fazladan iyileşebilirsin. Fazladan İyileşme zamanla Azalır."/>
+        <killer name="Katil İçgüdüsü" value="Iskaladığında, 5 saniyeliğine geçici ekstra can kazanımı elde edersin."/>
+        <halfmaxhealth name="Camdan Top" value="Maksimum Canın Yarı Yarıya Bölünür."/>
+        <halfhealth name="Takıldı" value="Başladığın çoğu şarkıya 50% veya aşağı bir can ile başlarsın."/>
+        <quarterhealth name="Takılıp Düştü" value="Başladığın çoğu şarkıya 25% veya aşağı bir can ile başlarsın."/>
+        <oneshot name="Son Nefes" value="Nota Kaçırdığın Anda Hemen Ölürsün"/>
+        <perfect name="Mükemmellik" value="Her Sick vurduğunda canın 2 kat yenilenir lakin vurduğun notalar Sick değilse can kazanamazsın."/>
+        <sweettooth name="Tatlıya Düşkün" value="Iska yaptığında kombon ne kadar fazla ise o kadar canın gider."/>
+        <lesssongs name="Güzel Zaman" value="Çoğu varlıklar daha az sıklıkla saldırır."/>
+        <moresongs name="Kötü Zaman" value="Çoğu varlıklar daha fazla sıklıkla saldırır."/>
+        <repeat name="Tekrarla!" value="Aynı şarkı birden fazla kere oynatılabilir."/>
+        <hide name="Dolabın İçinde" value="Dolap için yeni bir mekanik ekler. Dolap içindeyken Hide tarafından dışarı fırlatılmamak (ve öldürülmemek) için boşluk tuşuna sürekli bas."/>
+        <screech_faster name="Hızlı Düşün" value="Screech senin canını faha hızlı acıtır."/>
+        <timothy_less name="Böcek Spreyi" value="Timothy çekmecelerde bulunmaz :("/>
+        <timothy_more name="Örümcek Yemi" value="Timothy daha çok karşına çıkar :D"/>
+        <eyes_drainslower name="Tembel Gözlü" value="Eyes canını daha yavaş götürür."/>
+        <eyes_darkslow name="Cin Gözlü" value="Gözlerini kapattığın zaman görüşün daha yavaş kararır."/>
+        <eyes_drainfaster name="Israrcı" value="Eyes canını daha hızlı götürür."/>
+        <eyes_darkfast name="Karanlığa Doğru" value="Gözlerini kapattığın zaman görüşün daha hızlı kararır."/>
+        <eyes_fadingout name="Yok Olmak" value="Ekran siyaha ne kadar yakınsa, o kadar canın fazla artar."/>
+        <figure_easy name="Altın Kalpli" value="Kalp atışlarından birini ıskalamak, normal notalar kadar acıtır."/>
+        <figure_oneshot name="Şiddetli Kalp Krizi" value="Kalp atışlarından birini ıskalamak seni direkt öldürür."/>
+        <seek_slower name="Yavaş Koşu" value="Seek canını daha yavaş azaltır."/>
+        <seek_faster name="Hızlı Koşu" value="Seek canını daha hızlı azaltır."/>
+        <seek_constant name="Kötü Kardio" value="Seek'ten kaçarken canın yavaş yavaş azalır."/>
+        <halt_early name="Kitabe" value="Halt yer değiştirirken uyarı daha erken alırsın, ve canını daha yavaş azaltır."/>
+        <halt_more name="Dolambaç" value="Halt daha çok belirir, ve canını daha hızlı azaltır."/>
+        <halt_mirror name="Aynadaki Kişi" value="Yer değiştirince notalarının yeride değişir."/>
+        <halt_slide name="Beyaz Albüm" value="Halt artık yer değiştirmek için ışınlamıyo, onun yerine kayarak yer değiştiriyor. Kaydığı zaman sana hasar veriyor."/>
+        <jack_restart name="Tekrardan?" value="Jack saklandığında canın şarkının başındakiyle aynı olur."/>
+        <glitch_segmentation name="Segmentasyon Hatası" value="Can Barı arızalanmaya başlayacak, bu yüzden ona güvenemezsin. Zaman Barı metni için de geçerli."/>
+        <glitch_corruption name="Arızalanma" value="Kullanıcı Arayüzü ara sıra birkaç milisaniye boyunca arızalanabilir"/>
+        <shadow_remove name="Açık Fikirli" value="Shadow ortaya çıkmaz."/>
+        <shadow_harder name="Daha Hızlı Tıkla!" value="Shadow'dan kurtulmak daha zor olacak."/>
+        <shadow_more name="Şizofreni" value="Shadow daha fazla ortaya çıkacak."/>
+        <void_remove name="Ağırkanlı" value="Void ortaya çıkamaz."/>
+        <void_more name="Speedrun'cı'" value="Void ortaya iki kat daha hızlı ortaya çıkacak."/>
+        <fading name="Solma" value="Notalar yavaşça gidip gelecek."/>
+        <overdrive name="Aşırı hız" value="Canını ve Kaydırma hızını şarkı boyunca rastgele olarak değiştirir."/>
+        <screech_darkness name="Gerçek Karanlık" value="Oda daha da karanlık olur, ve notalarının üst yarısını saklar."/>
+        <superperfect name="Her şey ya da Hiçbir şey" value="Sadece sick vurmak can kazandırır, gerisi can kaybına neden olur."/>
+        <modcharting name="NotFNF - Önerilir" value="Notalar coşacak!"/>
+        <snare_everywhere name="Adımına Dikkat Et" value="Snare bütün şarkılarda ortaya çıkar, sanki seradaymışsınız gibi."/>
+        <botplay name="Vitrin" value="Botu Etkinleştirir."/>
+        <practice name="Ölümsüz" value="Pratik Modunu Etkinleştirir."/>
+        <categories>
+            <easier value="Daha Kolay Değiştiriciler"/>
+            <harder value="Daha Zor Değiştiriciler"/>
+            <story_mode value="Hikaye Modu Değiştiricileri"/>
+            <health value="Can Değiştiricileri"/>
+            <notes value="Nota Değiştiricileri"/>
+            <rush value="Rush Değiştiricileri"/>
+            <screech value="Screech Değiştiricileri"/>
+            <timothy value="Timothy Değiştiricileri"/>
+            <eyes value="Eyes Değiştiricileri"/>
+            <figure value="Figür Değiştiricileri"/>
+            <seek value="Seek Değiştiricileri"/>
+            <halt value="Halt Değiştiricileri"/>
+            <jack value="Jack Değiştiricileri"/>
+            <glitch value="Glitch Değiştiricileri"/>
+            <misc value="Diğer Değiştiriciler"/>
+        </categories>
+    </modifiers>
+
+    <lyrics>
+        <angry-spider>
+            <im_a_giant value="Ben bir devim"/>
+            <ungoliant value="İnatçı"/>
+            <a_shelob value="Bir Shelob"/>
+            <an_aragog value="Bir Aragog"/>
+            <an_arukenimon value="Bir Arukenimon"/>
+            <and_i_wreck_anyone_i_can value="Ve Karşımdaki Herkesi Ezebilirim"/>
+            <im_pog value="Ben Pog"/>
+            <a_self_propelling_hairy_hand value="Kendi kendine yürüyen kıllı bir el"/>
+            <with_eight_fingers value="Sekiz Parmak İle"/>
+            <wrapped_around_a_pair_of_scary_fangs value="Bir çift korkunç dişin etrafına sarılmış"/>
+            <ornate_pincers value="Süslü Kerpeten"/>
+        </angry-spider>
+    </lyrics>
+
+    <bobsBook>
+        <intro value="Merhaba, ben Bob. Zamanımı kendim ve kendimi burada nasıl bulduğum hakkında yazmaya harcamayacağım çünkü şu anda bu önemli değil, ama belki bu kitabı bitirince ekleyebilirim. Bunu başka bir şey hakkında yazıyorum. Bu &quot;Otel&quot; hakkında, eğer buna otel denebilirse. En azından bu yer hakkında keşfettiğim her şeyi belgeleyeceğim. Belki başka birine yardımcı olur veya bu kitabı sattığımda bana çok para kazandırabilir! Umarım yardımcı olur. Hâlâ fırsatınız varken geri dönün."/>
+
+        <hotel value="Bu Otel'de bazı şeyler ters gidiyor. Burda karşıma çıkan şeyler hakkında ileriki sayfalarda bilgiler vericem. Güncelleme - 3.Kapı: Her geçişte 2 kapı var, tüm odalar tuhaf koridorlara benziyor. Bazı tuhaf sesler duyuyorum ama orada kimse yok, sanırım yalnızım. En azından umarım. Güncelleme - 9.Kapı: Yanlız Değilim. Güncelleme - 27.Kapı: Duvarlarda bazı gözler var, Aynı zamanda tablolarda garip duruyor . Güncelleme - 49.Kapı: Diğer oda bir kütüphaneye benziyor. O lanetli kapının arkasından kükremeler duyuyorum."/>
+
+        <entities value="Şu &quot;Varlıklar&quot;... Daha önce gördüğüm hiçbir şeye benzemiyorlar, ne hayvanlara ne de insanlara. Gerçek mi yoksa kafamın içinde mi olduklarını bile bilmiyorum. Keşiflerimi bu kitapta belgelemeye devam edeceğim. Okuyucu, ileride neler ile karşılaştığımı sana da bildireceğim.."/>
+
+        <guidingLight value="Çok Canayakın bir canlı. O konuşabiliyor ve yolumh bulmamda yardımcı olduğu görülüyor, ve bazı şeyleri daha kolay anladım. Aynı zamanda 'varlıkların ismi ile yardım etti, görünüşe göre buraya ilk gelen ben değilim."/>
+
+        <hide value="Bu varlık, dolaplarda fark ettiğim tuhaf bir şeydi. Kötü niyetli, bilinçli bir varlık olduğunu düşünmüyorum ama kesinlikle tuhaf. Bu kitabı yazarken dolaplardan birine saklanmaya karar verdim ama gözlerim ağrımaya başladı ve şiddetli bir baş ağrısı çektim, ta ki dolaptan çıkana kadar.  Güncelleme: Bir çekmecede bir haç buldum ve bir dolabı açmaya karar verdim, anında kapandı. Bunun ne olduğunu bilmiyorum."/>
+
+        <rush value="Aman Tanrım, bu bilinçli ve kötü niyetli bir yaratık. Üzerinden koyu dumanlar çıkan büyük, uçan bir kafaya benziyor. En azından benim görebildiğim kadarıyla, sürekli gülümsüyor gibi. Çok hızlı hareket ettiği için görünüşünü tarif etmek zor, elimden geldiğince çizmeye çalıştım. Kapılardan bile geçebilir. Yani birinin arkasına saklanmanın bir faydası olmaz. Bence sadece tüm odalarda devriye geziyor, her yerde av aramıyor. Kesinlikle düşmanca, dolapları saklanmak için kullanmak hayatta kalmamı sağladı."/>
+
+        <screech value="Küçük yapış yapış birşey. Kendisinde dokungaçları veya dikenleri olduğu görülüyo. Kendisi sıklıkla karanlıkta bulunduğu görülüyo, ve her zaman &quot;Psst&quot; diye saldırmadan ses çıkarıyo. O kör noktanda sana saldırıcak, ve derinden bir parça ısırık alacak. Ben kendisini daha çok &quot;Psst&quot; derken buluyorum ve sol ayağımda ağır bir ağrı hissediyorum, Tanrıya şükür önceden bandaj bulmuştum. Kendisiyle daha çok karşılaştımmı resmini çizeceğim."/>
+
+        <ambush value="Rush'a çok benziyor. Ayrıca büyük, uçan bir kafa, ancak koyu duman yerine parlak yeşil bir ışık yayıyor. Ambush'tan kaçınmanın daha kolay olduğunu söylerdim çünkü yeşil ışığı tepki vermek için size çok daha fazla zaman tanıyor, ancak bir kez ileri atılmak yerine ileri geri yaptığını fark ettim. Yakınlardayken sürekli tiz bir ses çıkarıyor, bu yüzden ses durduğunda saklandığınız yerden çıkmanın güvenli olduğunu anlayabilirsiniz."/>
+
+        <timothy value="Kendisinin diğer varlıklar kadar zarar verdiğini sanmıyorum, O normal bir örümcek. Sanırım kendisine Timothy diyeceğim, Kendisini çoğu kez gördüğümden ona bir yaprakta yer vericeğim. Kendisi üzerime çekmeceden suratıma fırladığı zaman korkuyorum. Bazen ısıeıyo, ama her zaman örümceklerle bir şeyim vardır."/>
+
+        <seek value="Bunu hayatımda yaptığım en uzun koşudan sonra yazıyorum. Arkamı döndüm ve bir varlığın beni kovaladığını gördüm. Ve bu kesin bilinçli, ve zeki. O otelin kendisini manipüle edebiliyor, bir nedenden avizelerin düşmesini sağlayabiliyor. Onu gördünmü, Yüksek seste adımları duymayasıya kadar koş. Herhangi durumda seni yakalamasına izin verme, Senin için iyi olucağını sanmıyorum."/>
+
+        <eyes value="Bu varlığı çizmek gerçekten zordu çünkü doğrudan bakamıyordum. Gözler, merkezinde bir sürü göz bulunan büyük, mor bir ışık, belki 20 kadar göz? Ona bakınca tüm organlarımın kapandığını hissediyorum ve şiddetli bir baş ağrısıyla birlikte. Yapabileceğiniz en iyi şey gözlerinizi kapatmak veya tam tersi yöne bakmak. Ama her zaman dediğim gibi, &quot;Kalp, Karaciğer, Akciğerler&quot; kendinize odaklanın ve birkaç saniye daha direnebilmelisiniz."/>
+
+        <figure value="O Kütüphanede!."/>
+    </bobsBook>
+
+    <loadingTips>
+        <title>
+            <lby value="Arkana bak"/>
+            <warn value="Uyarı!"/>
+            <dyu value="Sen eeeee"/>
+            <dyk value="Biliyor muydun?"/>
+            <ff value="Eğlenceli Gerçek :"/>
+            <kyd value="Muydun biliyor?"/>
+            <ho value="Dürüst Fikir"/>
+            <pt value="İpucu:"/>
+        </title>
+        <text>
+            <lby value="Arkana bak"/>
+            <healthZero value="Eğer canın sıfıra ulaşırsa, ölürsün!"/>
+            <fig value="Figür bir figürdür."/>
+            <shart value="Sıçtım.\nHemde sıvaya sıvaya"/>
+            <balls value="Bf'in taşakları onun taşakları olarak iş görüyor"/>
+            <skibidi value="Screech'te skibidi karizması var"/>
+            <locker value="Figür götüne bir okul dolabı sığdırabilir"/>
+            <no value="Hayır, yapmadım."/>
+            <didu value="Şey eeeeeeee"/>
+            <dark value="Karanlığa ne kadar bakarsan,\n oda sana o kadar bakar."/>
+            <bf value="FNF : Doors Modu içinde bir oyun var adıda FNF : Doors, Bf yani bir Bf, çünkü o bf"/>
+            <ah value="Screech Göt herifin tekidir"/>
+            <gun value="Seek'in aslında catnip'te bir silahı olacaktı"/>
+            <maid value="Zamanında herşeyi görmüş bir hizmetçi vardı.\nIşık onlara güvenli alana doğru yol gösterdi."/>
+            <burned value="Görünüşe göre Seek canlı canlı yanmayı sevmedi.\n Tüh"/>
+            <the value="()"/>
+            <shit value="Figure seni sıçarken izliyor"/>
+            <dik value="Biliyor muydum? Birisi biliyor mu?"/>
+            <hymn value="Drip Avusturalya'nın Resmi ilahisidir."/>
+            <none value=""/>
+            <mitosis value="Seek'in gözleri mitoz bölünebilir.\nAma bu resmen doğrulanmadığından Allah belanı versin."/>
+            <insane value="Bu projenin geliştiricilerinin %90'ı deli ve zihinsel olarak toplumda yaşamaya hazır değiller"/>
+            <behind value="Arkanda..."/>
+            <nini value="Puppet Master diye anılan NiNi Doors Başarımlarının hepsini kazanmıştır."/>
+            <ido value="Evet."/>
+            <yosibu value="FNF : Doors Kitle Sunucusundaki Kullanıcıların hepsinin ismi Demo yayınlandığı zaman &quot;Yosibu&quot; diye değiştirildi."/>
+            <yesterday value="Dün naptığını biliyorum"/>
+            <vaporeon value="Erkek insan ve dişi Pokémon üremesi açısından\nVaporeon en uyumlu Pokémon'dur"/>
+            <reset value="Eğer 50'den fazla kombon varsa R'ye basarak bedava eşya edinebilirsin!"/>
+            <fatrush value="Şişko Rush gerçek değil."/>
+            <procrastinating value="Ertelemeyi severim"/>
+            <plt value="Filistini Özgür bırakın"/>
+            <eyes value="Eyes'e karşı gözlerini sonsuza kadar kapalı tutamazsın!"/>
+            <halt value="Daima Halt'la aranıza mesafe koyun."/>
+            <heartbeat value="Figür'e karşı her zaman kalp atışınıza dikkat edin."/>
+            <run value="Koş Koş!"/>
+            <idle value="Çok uzun süre durma!"/>
+            <lilguy value="Sanırım bir minnak adam sana birşey göstermek istiyor.\nBelki de durdurma menüsündedir?"/>
+            <crashout value="sinir krizi"/>
+            <findTim value="Kapılar yerine çekmeceleri karştırarak Timothy'i bul."/>
+            <findJack value="Dolap başına 1/200 şansla dolapları karıştırırken Jack'i bul."/>
+            <stareRemake value="Stare 8 kere tekrardan yapıldı."/>
+            <demo2release value="2. demo aslında 2024 için 1 Nisan şakasıydı."/>
+            <rushscreechcommon value="Rush ve Screech hikaye modunda en sık rastlanan varlıklardır."/>
+            <f1update value="Kat 1 son güncelleme değil!"/>
+            <searchDrawers value="Jeff'in Dükkanında eşya almaya para bulmak için çekmeceleri karıştırmayı unutma."/>
+            <threeYears value="FNF Doors, Kat 1'in yayınlanmasından itibaren 3 yıldır yapım aşamasında."/>
+        </text>
+    </loadingTips>
+
+    <popups>
+        <titles>
+            <expertDiff value="Tanıdık birinden bir mesaj"/>
+        </titles>
+        <messages>
+            <expertDiff value="Hey! Usta zorluğunu seçerek beklediğinden daha fazla zorlanabilirsin.\n\nDaha zor zorluklara geçmeden önce Normal zorluğu bitirmeyi deneyin."/>
+        </messages>
+        <leavePopup value="Devam etmek için bir tuşa basın veya tıklayın."/>
+    </popups>
+</root>

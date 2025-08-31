@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScreechJumpscare.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Stopped0000" x="0" y="0" width="1160" height="1083"/>
+	<SubTexture name="Stopped0001" x="1200" y="0" width="1160" height="1083"/>
+	<SubTexture name="Stopped0002" x="2400" y="0" width="1160" height="1083"/>
+	<SubTexture name="Stopped0003" x="3600" y="0" width="1160" height="1083"/>
+	<SubTexture name="Stopped0004" x="4800" y="0" width="1160" height="1083"/>
+	<SubTexture name="Stopped0005" x="6000" y="0" width="1160" height="1083"/>
+	<SubTexture name="Stopped0006" x="0" y="1123" width="1160" height="1083"/>
+	<SubTexture name="Stopped0007" x="1200" y="1123" width="1160" height="1083"/>
+	<SubTexture name="Stopped0008" x="2400" y="1123" width="1160" height="1083"/>
+	<SubTexture name="Stopped0009" x="3600" y="1123" width="1160" height="1083"/>
+	<SubTexture name="Stopped0010" x="4800" y="1123" width="1160" height="1083"/>
+	<SubTexture name="Stopped0011" x="6000" y="1123" width="1160" height="1083"/>
+	<SubTexture name="Stopped0012" x="0" y="2246" width="1160" height="1083"/>
+	<SubTexture name="Stopped0013" x="1200" y="2246" width="1160" height="1083"/>
+</TextureAtlas>

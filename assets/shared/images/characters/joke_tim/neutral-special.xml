@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="neutral-special.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gun-idle instance 10000" x="20" y="20" width="1178" height="673" frameX="0" frameY="-84" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10001" x="20" y="20" width="1178" height="673" frameX="0" frameY="-84" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10002" x="1218" y="20" width="1174" height="660" frameX="-3" frameY="-97" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10003" x="1218" y="20" width="1174" height="660" frameX="-3" frameY="-97" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10004" x="2412" y="20" width="1161" height="680" frameX="-7" frameY="-77" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10005" x="2412" y="20" width="1161" height="680" frameX="-7" frameY="-77" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10006" x="3593" y="20" width="1140" height="703" frameX="-26" frameY="-54" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10007" x="3593" y="20" width="1140" height="703" frameX="-26" frameY="-54" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10008" x="4753" y="20" width="1137" height="706" frameX="-28" frameY="-51" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10009" x="4753" y="20" width="1137" height="706" frameX="-28" frameY="-51" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10010" x="4753" y="20" width="1137" height="706" frameX="-28" frameY="-51" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10011" x="4753" y="20" width="1137" height="706" frameX="-28" frameY="-51" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10012" x="4753" y="20" width="1137" height="706" frameX="-28" frameY="-51" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10013" x="4753" y="20" width="1137" height="706" frameX="-28" frameY="-51" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10014" x="5910" y="20" width="1089" height="749" frameX="-105" frameY="-8" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10015" x="5910" y="20" width="1089" height="749" frameX="-105" frameY="-8" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10016" x="7019" y="20" width="1086" height="757" frameX="-105" frameY="0" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10017" x="7019" y="20" width="1086" height="757" frameX="-105" frameY="0" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10018" x="20" y="797" width="1080" height="752" frameX="-90" frameY="-4" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10019" x="20" y="797" width="1080" height="752" frameX="-90" frameY="-4" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10020" x="1120" y="797" width="1096" height="741" frameX="-70" frameY="-15" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10021" x="1120" y="797" width="1096" height="741" frameX="-70" frameY="-15" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10022" x="2236" y="797" width="1100" height="739" frameX="-65" frameY="-18" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10023" x="2236" y="797" width="1100" height="739" frameX="-65" frameY="-18" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10024" x="2236" y="797" width="1100" height="739" frameX="-65" frameY="-18" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10025" x="2236" y="797" width="1100" height="739" frameX="-65" frameY="-18" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10026" x="2236" y="797" width="1100" height="739" frameX="-65" frameY="-18" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun-idle instance 10027" x="2236" y="797" width="1100" height="739" frameX="-65" frameY="-18" frameWidth="1194" frameHeight="757"/>
+	<SubTexture name="gun tim instance 10000" x="3356" y="797" width="1053" height="663" frameX="-143" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10001" x="3356" y="797" width="1053" height="663" frameX="-143" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10002" x="4429" y="797" width="1055" height="663" frameX="-141" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10003" x="4429" y="797" width="1055" height="663" frameX="-141" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10004" x="5504" y="797" width="1074" height="663" frameX="-122" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10005" x="5504" y="797" width="1074" height="663" frameX="-122" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10006" x="6598" y="797" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10007" x="6598" y="797" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10008" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10009" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10010" x="1151" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10011" x="1151" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10012" x="2282" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10013" x="2282" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10014" x="3413" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10015" x="3413" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10016" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10017" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10018" x="4544" y="1569" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10019" x="4544" y="1569" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10020" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10021" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10022" x="5676" y="1569" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10023" x="5676" y="1569" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10024" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10025" x="20" y="1569" width="1111" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10026" x="6808" y="1569" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10027" x="6808" y="1569" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10028" x="20" y="2252" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10029" x="20" y="2252" width="1112" height="663" frameX="-86" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10030" x="1152" y="2252" width="1118" height="663" frameX="-80" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10031" x="1152" y="2252" width="1118" height="663" frameX="-80" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10032" x="2290" y="2252" width="1102" height="663" frameX="-96" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10033" x="2290" y="2252" width="1102" height="663" frameX="-96" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10034" x="3412" y="2252" width="1101" height="663" frameX="-111" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10035" x="3412" y="2252" width="1101" height="663" frameX="-111" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10036" x="4533" y="2252" width="1185" height="673" frameX="-37" frameY="-266" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10037" x="4533" y="2252" width="1185" height="673" frameX="-37" frameY="-266" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10038" x="5738" y="2252" width="1115" height="893" frameX="-112" frameY="-46" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10039" x="5738" y="2252" width="1115" height="893" frameX="-112" frameY="-46" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10040" x="6873" y="2252" width="1114" height="935" frameX="-113" frameY="-4" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10041" x="6873" y="2252" width="1114" height="935" frameX="-113" frameY="-4" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10042" x="20" y="3207" width="1114" height="939" frameX="-113" frameY="0" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10043" x="20" y="3207" width="1114" height="939" frameX="-113" frameY="0" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10044" x="1154" y="3207" width="1206" height="663" frameX="0" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10045" x="1154" y="3207" width="1206" height="663" frameX="0" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10046" x="2380" y="3207" width="1214" height="663" frameX="0" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10047" x="2380" y="3207" width="1214" height="663" frameX="0" frameY="-276" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10048" x="3614" y="3207" width="1179" height="668" frameX="-35" frameY="-271" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10049" x="3614" y="3207" width="1179" height="668" frameX="-35" frameY="-271" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10050" x="3614" y="3207" width="1179" height="668" frameX="-35" frameY="-271" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10051" x="3614" y="3207" width="1179" height="668" frameX="-35" frameY="-271" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10052" x="3614" y="3207" width="1179" height="668" frameX="-35" frameY="-271" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10053" x="3614" y="3207" width="1179" height="668" frameX="-35" frameY="-271" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10054" x="4813" y="3207" width="1152" height="701" frameX="-56" frameY="-238" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10055" x="4813" y="3207" width="1152" height="701" frameX="-56" frameY="-238" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10056" x="5985" y="3207" width="1140" height="706" frameX="-59" frameY="-233" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="gun tim instance 10057" x="5985" y="3207" width="1140" height="706" frameX="-59" frameY="-233" frameWidth="1227" frameHeight="939"/>
+	<SubTexture name="shoot instance 10000" x="20" y="4166" width="1300" height="694" frameX="-239" frameY="-474" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10001" x="20" y="4166" width="1300" height="694" frameX="-239" frameY="-474" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10002" x="1340" y="4166" width="1610" height="1143" frameX="-1" frameY="-21" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10003" x="1340" y="4166" width="1610" height="1143" frameX="-1" frameY="-21" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10004" x="2970" y="4166" width="1623" height="1164" frameX="0" frameY="0" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10005" x="2970" y="4166" width="1623" height="1164" frameX="0" frameY="0" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10006" x="4613" y="4166" width="1613" height="1142" frameX="-3" frameY="-22" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10007" x="4613" y="4166" width="1613" height="1142" frameX="-3" frameY="-22" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10008" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10009" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10010" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10011" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10012" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10013" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10014" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10015" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10016" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10017" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10018" x="6246" y="4166" width="1609" height="1134" frameX="-4" frameY="-30" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10019" x="20" y="5350" width="1587" height="1117" frameX="-8" frameY="-47" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10020" x="20" y="5350" width="1587" height="1117" frameX="-8" frameY="-47" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10021" x="1627" y="5350" width="1561" height="1105" frameX="-11" frameY="-59" frameWidth="1623" frameHeight="1168"/>
+	<SubTexture name="shoot instance 10022" x="1627" y="5350" width="1561" height="1105" frameX="-11" frameY="-59" frameWidth="1623" frameHeight="1168"/>
+</TextureAtlas>

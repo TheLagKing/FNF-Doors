@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.2 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="TaikoHeart.png" width="185" height="1668">
+	<SubTexture name="Heartbeat0000" x="1" y="188" width="180" height="180" frameX="-1" frameY="-2" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0001" x="1" y="1" width="183" height="184" frameX="-0" frameY="-1" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0002" x="1" y="371" width="174" height="174" frameX="-4" frameY="-6" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0003" x="1" y="548" width="166" height="166" frameX="-8" frameY="-10" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0004" x="1" y="717" width="160" height="160" frameX="-11" frameY="-13" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0005" x="1" y="880" width="158" height="158" frameX="-12" frameY="-14" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0006" x="1" y="1041" width="156" height="156" frameX="-13" frameY="-15" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0007" x="1" y="1200" width="154" height="154" frameX="-14" frameY="-16" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0008" x="1" y="1357" width="154" height="154" frameX="-14" frameY="-16" frameWidth="183" frameHeight="187"/>
+	<SubTexture name="Heartbeat0009" x="1" y="1514" width="153" height="153" frameX="-14" frameY="-16" frameWidth="183" frameHeight="187"/>
+</TextureAtlas>

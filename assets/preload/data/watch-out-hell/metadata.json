@@ -1,0 +1,48 @@
+{
+    "artists": [
+        "PurpleDerple",
+        "Callu",
+        "BlueRJ",
+        "Yosibu"
+    ],
+    "category": "eyes",
+    "coders": [],
+    "cost": 70,
+    "deathMetadata": {
+        "deathTipCategory": "eyes"
+    },
+    "difficulties": {
+        "easy": 4,
+        "hard": 8,
+        "hell": 10,
+        "normal": 6
+    },
+    "displayName": "Watch Out (Hell Mix)",
+    "easyCharters": [
+    ],
+    "forceUnlock": false,
+    "hardCharters": [
+    ],
+    "hasHellDiff": true,
+    "internalName": "watch-out-hell",
+    "mechanicDifficulties": {
+        "easy": 3,
+        "hard": 5,
+        "hell": 8,
+        "normal": 4
+    },
+    "music": [
+        "Puppet Master"
+    ],
+    "normalCharters": [
+        "Ens4lada"
+    ],
+    "ostArtPath": "eyes",
+    "songLengths": {
+        "easy": null,
+        "hard": null,
+        "hell": 244,
+        "normal": 158
+    },
+    "unlockMethod": "STORY_MODE"
+}

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rush_rea.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="v1 rush down siz upd0000" x="6744" y="5168" width="951" height="935" frameX="0" frameY="-84" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0001" x="6744" y="5168" width="951" height="935" frameX="0" frameY="-84" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0002" x="2944" y="7249" width="949" height="937" frameX="-1" frameY="-73" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0003" x="2944" y="7249" width="949" height="937" frameX="-1" frameY="-73" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0004" x="5759" y="7156" width="933" height="959" frameX="-9" frameY="-10" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0005" x="5759" y="7156" width="933" height="959" frameX="-9" frameY="-10" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0006" x="3899" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0007" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0008" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0009" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0010" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0011" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0012" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0013" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush down siz upd0014" x="4829" y="7188" width="930" height="966" frameX="-10" frameY="0" frameWidth="951" frameHeight="1019"/>
+	<SubTexture name="v1 rush rightsize upd0000" x="986" y="1108" width="989" height="1034" frameX="-16" frameY="-26" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0001" x="986" y="1108" width="989" height="1034" frameX="-16" frameY="-26" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0002" x="4868" y="1090" width="982" height="1027" frameX="-14" frameY="-23" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0003" x="4868" y="1090" width="982" height="1027" frameX="-14" frameY="-23" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0004" x="4834" y="5193" width="950" height="985" frameX="-1" frameY="-3" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0005" x="4834" y="5193" width="950" height="985" frameX="-1" frameY="-3" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0006" x="3899" y="6209" width="950" height="979" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0007" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0008" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0009" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0010" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0011" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0012" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0013" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1 rush rightsize upd0014" x="4849" y="6178" width="950" height="978" frameX="0" frameY="0" frameWidth="1005" frameHeight="1060"/>
+	<SubTexture name="v1rushidle.psd0000" x="3883" y="5192" width="951" height="1017" frameX="-34" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0001" x="3883" y="5192" width="951" height="1017" frameX="-34" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0002" x="3883" y="5192" width="951" height="1017" frameX="-33" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0003" x="4840" y="3148" width="953" height="1018" frameX="-33" frameY="-1" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0004" x="5793" y="3133" width="953" height="1018" frameX="-33" frameY="-2" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0005" x="5793" y="3133" width="953" height="1018" frameX="-33" frameY="-4" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0006" x="4838" y="4176" width="953" height="1017" frameX="-33" frameY="-7" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0007" x="2944" y="6233" width="955" height="1016" frameX="-32" frameY="-11" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0008" x="2930" y="3160" width="955" height="1016" frameX="-32" frameY="-16" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0009" x="5832" y="2117" width="957" height="1016" frameX="-31" frameY="-23" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0010" x="1966" y="4204" width="959" height="1014" frameX="-30" frameY="-35" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0011" x="4869" y="2117" width="963" height="1012" frameX="-31" frameY="-50" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0012" x="5850" y="1085" width="968" height="1026" frameX="-22" frameY="-69" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0013" x="3894" y="1097" width="974" height="1036" frameX="-16" frameY="-73" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0014" x="1967" y="6538" width="977" height="1061" frameX="-27" frameY="-76" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0015" x="983" y="4406" width="979" height="1070" frameX="-17" frameY="-77" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0016" x="1944" y="5476" width="980" height="1062" frameX="-26" frameY="-79" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0017" x="984" y="3317" width="982" height="1067" frameX="-9" frameY="-80" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0018" x="0" y="4406" width="983" height="1086" frameX="-9" frameY="-81" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0019" x="0" y="6571" width="983" height="1081" frameX="-18" frameY="-81" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0020" x="0" y="3317" width="984" height="1089" frameX="-30" frameY="-82" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0021" x="0" y="5492" width="985" height="1079" frameX="-30" frameY="-82" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0022" x="0" y="2215" width="985" height="1102" frameX="-1" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0023" x="6905" y="0" width="986" height="1078" frameX="-32" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0024" x="6905" y="0" width="986" height="1078" frameX="-1" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0025" x="3947" y="0" width="987" height="1090" frameX="-16" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0026" x="987" y="0" width="987" height="1103" frameX="-32" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0027" x="2960" y="0" width="987" height="1097" frameX="0" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0028" x="0" y="1108" width="986" height="1107" frameX="-26" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0029" x="5919" y="0" width="986" height="1083" frameX="-4" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0030" x="0" y="0" width="987" height="1108" frameX="-13" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0031" x="5919" y="0" width="986" height="1083" frameX="-26" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0032" x="5919" y="0" width="986" height="1083" frameX="-4" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0033" x="5919" y="0" width="986" height="1083" frameX="-29" frameY="-84" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0034" x="987" y="0" width="987" height="1103" frameX="-7" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0035" x="3947" y="0" width="987" height="1090" frameX="-17" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0036" x="1974" y="0" width="986" height="1100" frameX="-4" frameY="-83" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0037" x="4934" y="0" width="985" height="1085" frameX="-17" frameY="-82" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0038" x="983" y="6571" width="984" height="1077" frameX="-27" frameY="-81" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0039" x="984" y="3317" width="982" height="1067" frameX="-6" frameY="-80" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0040" x="983" y="4406" width="979" height="1070" frameX="-26" frameY="-77" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0041" x="2920" y="1100" width="974" height="1043" frameX="-16" frameY="-73" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0042" x="3902" y="2133" width="967" height="1015" frameX="-29" frameY="-68" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0043" x="1966" y="3193" width="963" height="1011" frameX="-28" frameY="-55" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0044" x="6789" y="2111" width="959" height="1013" frameX="-30" frameY="-41" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0045" x="2925" y="4204" width="958" height="1014" frameX="-34" frameY="-28" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0046" x="2924" y="5218" width="957" height="1015" frameX="-28" frameY="-27" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0047" x="3885" y="3160" width="955" height="1016" frameX="-32" frameY="-18" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0048" x="3883" y="4176" width="955" height="1016" frameX="-32" frameY="-14" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0049" x="2944" y="6233" width="955" height="1016" frameX="-32" frameY="-10" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0050" x="5791" y="4166" width="953" height="1017" frameX="-33" frameY="-8" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0051" x="6746" y="3133" width="953" height="1018" frameX="-33" frameY="-5" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0052" x="6744" y="4151" width="953" height="1017" frameX="-33" frameY="-4" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0053" x="5793" y="3133" width="953" height="1018" frameX="-33" frameY="-2" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0054" x="3883" y="5192" width="951" height="1017" frameX="-33" frameY="-1" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0055" x="3883" y="5192" width="951" height="1017" frameX="-33" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0056" x="3883" y="5192" width="951" height="1017" frameX="-34" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0057" x="3883" y="5192" width="951" height="1017" frameX="-34" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushidle.psd0058" x="3883" y="5192" width="951" height="1017" frameX="-34" frameY="0" frameWidth="1019" frameHeight="1192"/>
+	<SubTexture name="v1rushleft.psd0000" x="985" y="5476" width="959" height="1088" frameX="0" frameY="-38" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0001" x="985" y="5476" width="959" height="1088" frameX="0" frameY="-38" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0002" x="1975" y="1100" width="945" height="1076" frameX="-20" frameY="-33" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0003" x="1975" y="1100" width="945" height="1076" frameX="-20" frameY="-33" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0004" x="5799" y="6103" width="864" height="1008" frameX="-136" frameY="-3" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0005" x="5799" y="6103" width="864" height="1008" frameX="-136" frameY="-3" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0006" x="6663" y="6103" width="851" height="996" frameX="-154" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0007" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0008" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0009" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0010" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0011" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0012" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0013" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushleft.psd0014" x="6692" y="7099" width="849" height="995" frameX="-156" frameY="0" frameWidth="1005" frameHeight="1126"/>
+	<SubTexture name="v1rushup.psd0000" x="1958" y="2176" width="972" height="1017" frameX="0" frameY="0" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0001" x="1958" y="2176" width="972" height="1017" frameX="0" frameY="0" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0002" x="2930" y="2143" width="972" height="1017" frameX="0" frameY="-9" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0003" x="2930" y="2143" width="972" height="1017" frameX="0" frameY="-9" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0004" x="6818" y="1083" width="972" height="1018" frameX="0" frameY="-62" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0005" x="6818" y="1083" width="972" height="1018" frameX="0" frameY="-62" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0006" x="986" y="2142" width="972" height="1018" frameX="0" frameY="-70" frameWidth="972" frameHeight="1089"/>
+	<SubTexture name="v1rushup.psd0007" x="986" y="2142" width="972" height="1018" frameX="0" frameY="-71" frameWidth="972" frameHeight="1089"/>
+</TextureAtlas>

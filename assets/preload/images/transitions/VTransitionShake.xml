@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="VTransitionShake.png" width="5835" height="3530">
+  <SubTexture name="VignetteShake0001" x="5" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0002" x="5" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0003" x="1172" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0004" x="1172" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0005" x="5" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0006" x="1172" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0007" x="5" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0008" x="1172" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0009" x="2339" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0010" x="2339" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0011" x="2339" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0012" x="2339" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0013" x="5" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0014" x="1172" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0015" x="2339" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0016" x="3506" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0017" x="3506" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0018" x="3506" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0019" x="3506" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0020" x="3506" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0021" x="4673" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0022" x="4673" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0023" x="4673" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="VignetteShake0024" x="4673" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0024" x="5" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0023" x="5" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0022" x="1172" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0021" x="1172" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0020" x="5" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0019" x="1172" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0018" x="5" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0017" x="1172" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0016" x="2339" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0015" x="2339" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0014" x="2339" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0013" x="2339" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0012" x="5" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0011" x="1172" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0010" x="2339" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0009" x="3506" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0008" x="3506" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0007" x="3506" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0006" x="3506" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0005" x="3506" y="2829"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0004" x="4673" y="5"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0003" x="4673" y="711"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0002" x="4673" y="1417"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+  <SubTexture name="intro0001" x="4673" y="2123"  width="1157" height="696" frameX="-0" frameY="-0" frameWidth="1157" frameHeight="696"/>
+</TextureAtlas>

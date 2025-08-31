@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ambus size"
+		},
+		{
+			"offsets": [
+				78,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ambus left"
+		},
+		{
+			"offsets": [
+				70,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ambus down"
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ambus up"
+		},
+		{
+			"offsets": [
+				-220,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ambus right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/but_bad/ambus",
+	"position": [
+		-220,
+		100
+	],
+	"healthicon": "ambush",
+	"flip_x": false,
+	"healthbar_colors": [
+		127,
+		184,
+		85
+	],
+	"camera_position": [
+		-60,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

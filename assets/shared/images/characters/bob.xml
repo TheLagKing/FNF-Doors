@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bob.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bob idle 0000" x="20" y="20" width="496" height="957"/>
+	<SubTexture name="bob guitar 0000" x="536" y="20" width="735" height="957"/>
+</TextureAtlas>

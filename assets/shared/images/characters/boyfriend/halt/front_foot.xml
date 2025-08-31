@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="front_foot.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="foot 0000" x="2" y="166" width="135" height="162" pivotX="0" pivotY="0" frameX="-6" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0001" x="2" y="166" width="135" height="162" frameX="-6" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0002" x="2" y="496" width="133" height="164" frameX="-8" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0003" x="2" y="496" width="133" height="164" frameX="-8" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0004" x="2" y="496" width="133" height="164" frameX="-8" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0005" x="136" y="830" width="131" height="166" frameX="-11" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0006" x="136" y="830" width="131" height="166" frameX="-11" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0007" x="136" y="830" width="131" height="166" frameX="-11" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0008" x="269" y="658" width="144" height="147" frameX="0" frameY="-30" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0009" x="269" y="658" width="144" height="147" frameX="0" frameY="-30" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0010" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0011" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0012" x="137" y="494" width="134" height="162" frameX="-82" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0013" x="137" y="494" width="134" height="162" frameX="-82" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0014" x="2" y="829" width="132" height="165" frameX="-83" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0015" x="2" y="829" width="132" height="165" frameX="-83" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0016" x="2" y="829" width="132" height="165" frameX="-83" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0017" x="271" y="2" width="130" height="166" frameX="-84" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0018" x="271" y="2" width="130" height="166" frameX="-84" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0019" x="271" y="2" width="130" height="166" frameX="-84" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0020" x="273" y="319" width="156" height="133" frameX="-85" frameY="-47" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0021" x="273" y="319" width="156" height="133" frameX="-85" frameY="-47" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0022" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="foot 0023" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0000" x="2" y="2" width="135" height="162" pivotX="0" pivotY="0" frameX="-6" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0001" x="2" y="2" width="135" height="162" frameX="-6" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0002" x="2" y="330" width="133" height="164" frameX="-8" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0003" x="2" y="330" width="133" height="164" frameX="-8" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0004" x="2" y="330" width="133" height="164" frameX="-8" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0005" x="136" y="662" width="131" height="166" frameX="-11" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0006" x="136" y="662" width="131" height="166" frameX="-11" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0007" x="136" y="662" width="131" height="166" frameX="-11" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0008" x="139" y="170" width="144" height="147" frameX="0" frameY="-30" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0009" x="139" y="170" width="144" height="147" frameX="0" frameY="-30" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0010" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0011" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0012" x="137" y="330" width="134" height="162" frameX="-82" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0013" x="137" y="330" width="134" height="162" frameX="-82" frameY="-5" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0014" x="2" y="662" width="132" height="165" frameX="-83" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0015" x="2" y="662" width="132" height="165" frameX="-83" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0016" x="2" y="662" width="132" height="165" frameX="-83" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0017" x="139" y="2" width="130" height="166" frameX="-84" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0018" x="139" y="2" width="130" height="166" frameX="-84" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0019" x="139" y="2" width="130" height="166" frameX="-84" frameY="-3" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0020" x="269" y="807" width="156" height="133" frameX="-85" frameY="-47" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0021" x="269" y="807" width="156" height="133" frameX="-85" frameY="-47" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0022" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+	<SubTexture name="miss_foot 0023" x="364" y="213" width="20" height="20" frameX="0" frameY="0" frameWidth="241" frameHeight="180"/>
+</TextureAtlas>

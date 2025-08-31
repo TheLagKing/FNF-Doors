@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="timothyBG.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="timothy instance 10000" x="20" y="20" width="335" height="282" frameX="0" frameY="-2" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10001" x="375" y="20" width="335" height="282" frameX="0" frameY="-2" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10002" x="730" y="20" width="324" height="282" frameX="-6" frameY="-2" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10003" x="1074" y="20" width="324" height="282" frameX="-6" frameY="-2" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10004" x="1418" y="20" width="324" height="283" frameX="-6" frameY="-1" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10005" x="20" y="323" width="324" height="283" frameX="-6" frameY="-1" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10006" x="364" y="323" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10007" x="708" y="323" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10008" x="1052" y="323" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10009" x="1396" y="323" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10010" x="20" y="627" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10011" x="364" y="627" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10012" x="708" y="627" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+	<SubTexture name="timothy instance 10013" x="1052" y="627" width="324" height="284" frameX="-6" frameY="0" frameWidth="335" frameHeight="284"/>
+</TextureAtlas>

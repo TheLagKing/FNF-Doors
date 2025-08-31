@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jimothy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down jim0000" x="50" y="50" width="168" height="87" frameX="0" frameY="-8" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0001" x="50" y="50" width="168" height="87" frameX="0" frameY="-8" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0002" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0003" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0004" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0005" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0006" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0007" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0008" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0009" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0010" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0011" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0012" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0013" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="down jim0014" x="268" y="50" width="153" height="96" frameX="-8" frameY="0" frameWidth="168" frameHeight="96"/>
+	<SubTexture name="jim idle0000" x="471" y="50" width="138" height="69" frameX="0" frameY="-23" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0001" x="471" y="50" width="138" height="69" frameX="0" frameY="-23" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0002" x="659" y="50" width="102" height="78" frameX="-23" frameY="-20" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0003" x="659" y="50" width="102" height="78" frameX="-23" frameY="-20" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0004" x="811" y="50" width="60" height="90" frameX="-36" frameY="-10" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0005" x="811" y="50" width="60" height="90" frameX="-36" frameY="-10" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0006" x="50" y="196" width="102" height="78" frameX="-10" frameY="-23" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0007" x="50" y="196" width="102" height="78" frameX="-10" frameY="-23" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0008" x="202" y="196" width="138" height="69" frameX="0" frameY="-23" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0009" x="202" y="196" width="138" height="69" frameX="0" frameY="-23" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0010" x="390" y="196" width="102" height="93" frameX="-22" frameY="-5" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0011" x="390" y="196" width="102" height="93" frameX="-22" frameY="-5" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0012" x="542" y="196" width="54" height="100" frameX="-37" frameY="0" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0013" x="542" y="196" width="54" height="100" frameX="-37" frameY="0" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0014" x="646" y="196" width="103" height="93" frameX="-19" frameY="-7" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim idle0015" x="646" y="196" width="103" height="93" frameX="-19" frameY="-7" frameWidth="138" frameHeight="101"/>
+	<SubTexture name="jim left0000" x="50" y="346" width="209" height="121" frameX="0" frameY="-3" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0001" x="50" y="346" width="209" height="121" frameX="0" frameY="-3" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0002" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0003" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0004" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0005" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0006" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0007" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0008" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0009" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0010" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0011" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0012" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0013" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim left0014" x="309" y="346" width="199" height="124" frameX="-10" frameY="0" frameWidth="209" frameHeight="124"/>
+	<SubTexture name="jim right0000" x="558" y="346" width="235" height="198" frameX="-4" frameY="-8" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0001" x="558" y="346" width="235" height="198" frameX="-4" frameY="-8" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0002" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0003" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0004" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0005" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0006" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0007" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0008" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0009" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0010" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0011" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0012" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0013" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim right0014" x="50" y="594" width="202" height="206" frameX="0" frameY="0" frameWidth="239" frameHeight="206"/>
+	<SubTexture name="jim up0000" x="302" y="594" width="229" height="261"/>
+	<SubTexture name="jim up0001" x="302" y="594" width="229" height="261"/>
+	<SubTexture name="jim up0002" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0003" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0004" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0005" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0006" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0007" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0008" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0009" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0010" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0011" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0012" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0013" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+	<SubTexture name="jim up0014" x="581" y="594" width="221" height="239" frameX="-6" frameY="-21" frameWidth="229" frameHeight="261"/>
+</TextureAtlas>

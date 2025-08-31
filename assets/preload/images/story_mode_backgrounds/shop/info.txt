@@ -1,0 +1,7 @@
+start : 575 599
+
+lighter : xOff 33 yOff 84 size 174 225
+vitamins : xOff 59 yOff 90 size 122 217
+flashlight : xOff 14 yOff 120 size 209 179
+glitch : xOff 14 yOff 72 size 209 242
+crucifix : xOff 13 yOff 10 size 212 308

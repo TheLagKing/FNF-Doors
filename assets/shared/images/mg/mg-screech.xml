@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mg-screech.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="base instance 10000" x="20" y="20" width="767" height="617" frameX="-14" frameY="-2" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10001" x="807" y="20" width="768" height="619" frameX="-13" frameY="0" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10002" x="1595" y="20" width="770" height="644" frameX="-13" frameY="0" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10003" x="2385" y="20" width="772" height="634" frameX="-11" frameY="-10" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10004" x="3177" y="20" width="772" height="631" frameX="-11" frameY="-10" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10005" x="20" y="684" width="771" height="617" frameX="-12" frameY="-24" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10006" x="811" y="684" width="774" height="630" frameX="-12" frameY="-18" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10007" x="1605" y="684" width="773" height="630" frameX="-13" frameY="-18" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10008" x="2398" y="684" width="776" height="661" frameX="-13" frameY="-2" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10009" x="3194" y="684" width="772" height="661" frameX="-17" frameY="-2" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10010" x="20" y="1365" width="771" height="666" frameX="-17" frameY="0" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10011" x="811" y="1365" width="778" height="666" frameX="-10" frameY="0" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10012" x="1609" y="1365" width="776" height="644" frameX="-10" frameY="-11" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10013" x="2405" y="1365" width="786" height="644" frameX="0" frameY="-11" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10014" x="3211" y="1365" width="781" height="609" frameX="0" frameY="-21" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10015" x="20" y="2051" width="766" height="606" frameX="-15" frameY="-24" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10016" x="806" y="2051" width="769" height="573" frameX="-15" frameY="-24" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10017" x="1595" y="2051" width="770" height="580" frameX="-14" frameY="-17" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10018" x="2385" y="2051" width="780" height="581" frameX="-14" frameY="-17" frameWidth="794" frameHeight="666"/>
+	<SubTexture name="base instance 10019" x="3185" y="2051" width="780" height="596" frameX="-14" frameY="-2" frameWidth="794" frameHeight="666"/>
+</TextureAtlas>

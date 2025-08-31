@@ -1,0 +1,4 @@
+lamp : 754 222
+alarm cock : 979 100
+pole : 386 0
+bookshelf : 118 114

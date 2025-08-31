@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="seek_legs.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="legs anim0000" x="0" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0001" x="707" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0002" x="1414" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0003" x="1414" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0004" x="2121" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0005" x="2121" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0006" x="2828" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0007" x="2828" y="0" width="707" height="465"/>
+	<SubTexture name="legs anim0008" x="0" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0009" x="707" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0010" x="1414" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0011" x="1414" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0012" x="2121" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0013" x="2121" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0014" x="2828" y="465" width="707" height="465"/>
+	<SubTexture name="legs anim0015" x="2828" y="465" width="707" height="465"/>
+</TextureAtlas>

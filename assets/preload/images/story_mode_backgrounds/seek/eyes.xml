@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.0.4 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="eyes.png" width="1024" height="1024">
+	<SubTexture name="Left/Eye Left0001" x="3" y="3" width="228" height="296" frameX="-0" frameY="-0" frameWidth="228" frameHeight="296"/>
+	<SubTexture name="Left/Eye Left0002" x="237" y="3" width="228" height="296" frameX="-0" frameY="-0" frameWidth="228" frameHeight="296"/>
+	<SubTexture name="Left/Eye Left0003" x="3" y="305" width="228" height="296" frameX="-0" frameY="-0" frameWidth="228" frameHeight="296"/>
+	<SubTexture name="Left/Eye Left0004" x="237" y="305" width="228" height="296" frameX="-0" frameY="-0" frameWidth="228" frameHeight="296"/>
+	<SubTexture name="Up/Eye Up0001" x="471" y="3" width="290" height="167" frameX="-0" frameY="-0" frameWidth="290" frameHeight="167"/>
+	<SubTexture name="Up/Eye Up0002" x="471" y="176" width="290" height="167" frameX="-0" frameY="-0" frameWidth="290" frameHeight="167"/>
+	<SubTexture name="Up/Eye Up0003" x="471" y="349" width="290" height="167" frameX="-0" frameY="-0" frameWidth="290" frameHeight="167"/>
+	<SubTexture name="Up/Eye Up0004" x="471" y="522" width="290" height="167" frameX="-0" frameY="-0" frameWidth="290" frameHeight="167"/>
+	<SubTexture name="Right 2/Eye Right 20001" x="767" y="3" width="236" height="205" frameX="-0" frameY="-0" frameWidth="236" frameHeight="205"/>
+	<SubTexture name="Right 2/Eye Right 20002" x="767" y="214" width="236" height="205" frameX="-0" frameY="-0" frameWidth="236" frameHeight="205"/>
+	<SubTexture name="Right 2/Eye Right 20003" x="767" y="425" width="236" height="205" frameX="-0" frameY="-0" frameWidth="236" frameHeight="205"/>
+	<SubTexture name="Right 2/Eye Right 20004" x="767" y="636" width="236" height="205" frameX="-0" frameY="-0" frameWidth="236" frameHeight="205"/>
+	<SubTexture name="Right 1/Eye Right 10001" x="3" y="695" width="121" height="152" frameX="-0" frameY="-0" frameWidth="121" frameHeight="152"/>
+	<SubTexture name="Right 1/Eye Right 10002" x="130" y="695" width="121" height="152" frameX="-0" frameY="-0" frameWidth="121" frameHeight="152"/>
+	<SubTexture name="Right 1/Eye Right 10003" x="257" y="607" width="121" height="152" frameX="-0" frameY="-0" frameWidth="121" frameHeight="152"/>
+	<SubTexture name="Right 1/Eye Right 10004" x="257" y="765" width="121" height="152" frameX="-0" frameY="-0" frameWidth="121" frameHeight="152"/>
+</TextureAtlas>

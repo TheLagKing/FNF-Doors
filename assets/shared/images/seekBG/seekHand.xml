@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="seekHand.png" width="3714" height="3606">
+	<SubTexture name="Linha do tempo 1_0000" x="2310" y="2" width="354" height="1862" rotated="true" frameX="-0" frameY="-276" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0001" x="2" y="2853" width="1855" height="348" frameX="-0" frameY="-282" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0002" x="3355" y="2" width="357" height="1840" rotated="true" frameX="-0" frameY="-268" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0003" x="1904" y="2" width="404" height="1883" rotated="true" frameX="-0" frameY="-219" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0004" x="2" y="557" width="1894" height="459" frameX="-0" frameY="-168" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0005" x="2" y="1510" width="1889" height="439" frameX="-0" frameY="-183" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0006" x="2" y="2426" width="1858" height="425" frameX="-0" frameY="-202" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0007" x="2" y="1018" width="1891" height="490" frameX="-0" frameY="-133" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0008" x="2" y="2" width="1900" height="553" frameX="-0" frameY="-71" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0009" x="2" y="1951" width="1878" height="473" frameX="-0" frameY="-151" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0010" x="1862" y="2426" width="1837" height="486" frameX="-0" frameY="-164" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0011" x="1893" y="1887" width="1788" height="497" frameX="-0" frameY="-126" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0012" x="1859" y="2914" width="1722" height="528" frameX="-0" frameY="-109" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0013" x="2" y="3203" width="1843" height="401" frameX="-0" frameY="-221" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0014" x="3005" y="2" width="348" height="1852" rotated="true" frameX="-0" frameY="-287" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Linha do tempo 1_0015" x="2666" y="2" width="337" height="1857" rotated="true" frameX="-0" frameY="-289" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>

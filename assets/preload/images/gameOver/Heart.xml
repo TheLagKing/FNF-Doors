@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Heart.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heart0000" x="0" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0001" x="578" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0002" x="1156" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0003" x="1734" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0004" x="2312" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0005" x="2890" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0006" x="3468" y="0" width="538" height="284"/>
+	<SubTexture name="Heart0007" x="0" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0008" x="578" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0009" x="1156" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0010" x="1734" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0011" x="2312" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0012" x="2890" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0013" x="3468" y="324" width="538" height="284"/>
+	<SubTexture name="Heart0014" x="0" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0015" x="578" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0016" x="1156" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0017" x="1734" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0018" x="2312" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0019" x="2890" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0020" x="3468" y="648" width="538" height="284"/>
+	<SubTexture name="Heart0021" x="0" y="972" width="538" height="284"/>
+	<SubTexture name="Heart0022" x="578" y="972" width="538" height="284"/>
+	<SubTexture name="Heart0023" x="1156" y="972" width="538" height="284"/>
+</TextureAtlas>

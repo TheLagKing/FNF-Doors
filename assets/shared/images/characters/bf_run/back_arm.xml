@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.0.4 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="back_arm.png" width="479" height="414">
+	<SubTexture name="back arm0000" x="187" y="3" width="136" height="174" rotated="true" frameX="-61" frameY="-11" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0001" x="187" y="3" width="136" height="174" rotated="true" frameX="-61" frameY="-11" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0002" x="3" y="160" width="175" height="135" frameX="-61" frameY="-11" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0003" x="3" y="160" width="175" height="135" frameX="-61" frameY="-11" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0004" x="3" y="160" width="175" height="135" frameX="-61" frameY="-11" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0005" x="3" y="160" width="175" height="135" frameX="-61" frameY="-11" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0006" x="184" y="183" width="139" height="173" rotated="true" frameX="-45" frameY="-18" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0007" x="184" y="183" width="139" height="173" rotated="true" frameX="-45" frameY="-18" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0008" x="329" y="3" width="147" height="166" rotated="true" frameX="-28" frameY="-24" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0009" x="3" y="301" width="148" height="110" rotated="true" frameX="-42" frameY="-18" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0010" x="157" y="301" width="1" height="1" frameX="-0" frameY="-0" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0011" x="157" y="301" width="1" height="1" frameX="-0" frameY="-0" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0012" x="157" y="301" width="1" height="1" frameX="-0" frameY="-0" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0013" x="157" y="301" width="1" height="1" frameX="-0" frameY="-0" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0014" x="157" y="301" width="1" height="1" frameX="-0" frameY="-0" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0015" x="157" y="301" width="1" height="1" frameX="-0" frameY="-0" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0016" x="3" y="301" width="148" height="110" rotated="true" frameX="-42" frameY="-18" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0017" x="3" y="301" width="148" height="110" rotated="true" frameX="-42" frameY="-18" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0018" x="3" y="3" width="178" height="151" frameX="-0" frameY="-9" frameWidth="236" frameHeight="171"/>
+	<SubTexture name="back arm0019" x="3" y="3" width="178" height="151" frameX="-0" frameY="-9" frameWidth="236" frameHeight="171"/>
+</TextureAtlas>

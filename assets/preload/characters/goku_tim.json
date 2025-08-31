@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-174
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-223
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-185
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right tim",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-178
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left tim",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/joke_tim/gokuTim",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "tim_joke",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		23,
+		43
+	],
+	"camera_position": [
+		-90,
+		310
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

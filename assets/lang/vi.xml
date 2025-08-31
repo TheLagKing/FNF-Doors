@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- To make your own translation file, just copy this file, and name it [translationName].xml -->
+<!-- Never edit shit in < > otherwise it won't work. -->
+<!-- Make sure to never edit the keys, only the values. -->
+<!-- For instance, for key "ez" (line 11), you don't edit "ez", you edit "Easy" since it's the thing that'll show up in game -->
+<!-- The key will always contain what the game needs to "see" your translation file -->
+<!-- TLDR : Change the value and not the key -->
+<root>
+    <generalshit>
+        <engineVersionShit value="Doors Engine {0}"/>
+        <gameVersionShit value="FNF : Doors"/>
+        <ez value="Khoan dung"/>
+        <normal value="Tiêu chuẩn"/>
+        <hard value="Chuyên gia"/>
+        <hell value="Địa Ngục"/>
+        <heaven value="Thiên Đàng"/>
+        <wip value="Trong qua trình phát triển"/>
+        <diffDescriptions>
+            <Easy value="Độ khó được giảm bớt đối với những người mới chơi.\nMọi thứ đều dễ dàng hơn, nên đừng ngại chơi ở mức dễ!"/>
+            <Normal value="Đây là độ khó mong muốn.\nCân bằng hoàn hảo, như mọi thứ vốn phải thế."/>
+            <Hard value="Dành cho cả Kì cựu và Kẻ khổ dâm.\nMỗi cuộc chạm trán đều là một cuộc chiến sinh tử."/>
+            <Hell value="Cái chết được coi là nhân đạo."/>
+            <Wip value="Đang trong quá trình làm rồi,chờ tý nha.\ncả team đang làm rất chăm để mang tới cho bạn đó"/>
+        </diffDescriptions>
+        <ratings>
+            <yousuck value="Quá Yếu!"/>
+            <shit value="Chết Tiệt"/>
+            <bad value="Tệ"/>
+            <bruh value="Trời"/>
+            <meh value="Cũng được"/>
+            <nice value="Hay"/>
+            <good value="Tốt"/>
+            <great value="Tuyệt"/>
+            <sick value="Tuyệt Vời!"/>
+            <perfect value="Hoàn Hảo Cmnr!!"/>
+            <ratingsFC>
+                <sfc value="FC Hoàn Hảo"/>
+                <gfc value="FC Tốt"/>
+                <fc value="FC"/>
+                <clear value="Hoàn thành"/>
+            </ratingsFC>
+        </ratings>
+        <score value="Điểm"/>
+        <misses value="Hụt"/>
+        <rating value="Đánh giá"/>
+        <botplayText value="TÔI BỊ VẤN ĐỀ KĨ NĂNG"/>
+    </generalshit>
+    <newUI>
+        <!-- Menu names -->
+        <stats value="Chỉ số"/>
+        <chooseMods value="CHỌN CÁC CÔNG CỤ SỬA ĐỔI CỦA BẠN"/>
+        <pause value="DỪNG"/>
+        <prerun value="QUÁN CHUẨN BỊ"/>
+        <tutorial value="CHỈ DẪN"/>
+        <glasshatOnline value="GLASSHAT ONLINE"/>
+        <death value="BẠN ĐÃ CHẾT!"/>
+        <specialThanks value="ĐẶC BIỆT CẢM ƠN"/>
+        <socials value="MẠNG XÃ HỘI"/>
+        <donateMenu value="QUYÊN GÓP"/>
+
+        <!-- Button names -->
+        <quit value="THOÁT"/>
+        <showMod value="HIỂN THỊ CÁC BIỂU TƯỢNG SỬA ĐỔI"/>
+        <reset value="CÀI LẠI"/>
+        <cancel value="HỦY"/>
+        <restart value="LẠI"/>
+        <options value="CÀI ĐẶT"/>
+        <resume value="TIẾP TỤC"/>
+        <play value="CHƠI"/>
+        <mainmenu value="MENU CHÍNH"/>
+        <newrun value="GAME MỚI"/>
+        <register value="ĐĂNG KÝ"/>
+        <login value="ĐĂNG NHẬP"/>
+        <modifyAcc value="QUÊN MẬT KHẨU?"/>
+        <revive value="HỒI SINH"/>
+        <donateKofi value="ỦNG HỘ TRÊN KOFI"/>
+        
+        <clickOff value="Ấn chỗ bất kỳ để thoát."/>
+        <pressOff value="Ấn {0} để tiếp tục."/>
+        <pressOffMult value="Ấn {0} hoặc {1} để tiếp tục."/>
+        
+        <donateMenuText value="Xin chào, chúng tôi đã làm việc với bản mod này khoảng 3 năm rồi, nên sẽ rất có ý nghĩa nếu bạn đóng góp một ít tiền. Chúng tôi không thể đền đáp nhiều, nhưng số tiền đó sẽ giúp chúng tôi chi trả cho servers để duy trì bảng xếp hạng, và có thể là một số thứ khác trong các bản cập nhật sắp tới! Cảm ơn sự ủng hộ của bạn."/>
+    </newUI>
+    <glasshat>
+        <email value="E-MAIL"/>
+        <username value="TÊN NGƯỜI DÙNG"/>
+        <password value="MẬT KHẨU"/>
+        <passwordInfo value="Mật khẩu phải dài từ 8–32 ký tự, bao gồm ít nhất 1 số, 1 chữ hoa và 1 chữ thường."/>
+        <info value="Glasshat Online là giải pháp chơi online tùy chỉnh của FNF: Doors!\nKhông lưu trữ bất kỳ dữ liệu cá nhân nào\nVới một tài khoản, bạn có thể truy cập bảng xếp hạng, đăng điểm…\nThành tựu cũng sẽ được đồng bộ thông qua tài khoản!"/>
+        
+        <allFields value="Hãy điền đầy đủ thông tin"/>
+        <invalidMail value="Email của bạn không hợp lệ."/>
+        <insecurePass value="Mật khẩu của bạn chưa đủ an toàn. Mật khẩu phải dài từ 8 đến 32 ký tự, có ít nhất một chữ hoa, một chữ thường và một chữ số."/>
+
+        <noScores value="Không có điểm nào."/>
+        <notLoggedIn value="Chưa đăng nhập\nĐăng nhập Glasshat ở cài đặt"/>
+        <error value="Lỗi khi tải điểm\n Làm ơn báo cáo lên discord."/>
+    </glasshat>
+    <death>
+        <revivesLeft value="SỐ LẦN HỒI SINH CÒN LẠI: {0}"/>
+        <freeplayRevives value="SỐ LẦN HỒI SINH: VÔ HẠN"/>
+        <modsUsed value="Tùy chỉnh đã dùng : {0}"/>
+        <reviveWarning value="Bạn có {0} lần hồi sinh."/>
+        <tips>
+            <!-- Don't translate the type="tip"-->
+            <a60 type="mẹo">
+                <tip1 _0="Ồ… cái màu đỏ đó.\nTui cũng không chắc nên gọi nó là gì…" _1="À, nó thường tấn công ở khoảng phòng A-60, nên…" _2="Ní có thể gọi nó là A-60. Tui không rõ nữa"/>
+                <tip2 _0="A-60 lần nữa..." _1="Tui không nghĩ cái này khó hiểu đâu." _2="Được rồi, mau quay lại. Chúng ta chưa xong đâu"/>
+                <tip3 _0="A-60 nữa hả" _1="Bạn có thể làm được.Tôi tin tưởng ở bạn." _2="Tôi sẽ gặp bạn lần sau nhé. Được không?"/>
+            </a60>
+            <ambush type="mẹo">
+                <tip1 _0="Bạn đã chết bởi một sinh vật được gọi là Ambush..." _1="Con này khá là rắc rối." _2="Hãy thực hành lại những gì mà bạn học được từ Rush!"/>
+                <tip2 _0="Bạn lại chết bởi Ambush rồi..." _1="Nó sẽ tấn công vào lúc bạn ít ngờ tới nhất!" _2="Nó có một tiếng hét đặc biệt. Nếu nghe thấy, thì hãy chuẩn bị sẵn tinh thần nhé!"/>
+                <tip3 _0="Bạn đã chết bởi Ambush." _1="Có khi bạn phải chui đi chui lại vào chỗ trốn của mình vài lần đấy." _2="Bạn có thể làm được!"/>
+            </ambush>
+            <elevator type="mẹo">
+                <tip1 _0="Có vẻ bạn không thể thoát được..." _1="Nhịp này khó bắt theo lắm!" _2="Cho nên hãy tập trung vào nhịp tim của bạn."/>
+                <tip2 _0="Xem ra bạn không chạy thoát nổi rồi..." _1="Hãy kiểm soát giai điệu của bạn!" _2="Bay mất một nhịp tim, là bay màu ngay đấy!"/>
+                <tip3 _0="Có vẻ bạn không chạy thoát kịp rồi..." _1="Tôi sẽ giúp bạn với mấy nốt chỉ dẫn nhé." _2="Bạn có thể làm được!"/>
+            </elevator>
+            <eyes type="mẹo">
+                <tip1 _0="Bạn đã chết bởi Eyes..." _1="Chúng không thích bị nhìn chằm chằm." _2="Hãy nhắm mắt vào, và tin vào giai điệu."/>
+                <tip2 _0="Bạn lại chết bởi Eyes lần nữa..." _1="Hãy đảm bảo nhắm mắt lâu nhất có thể." _2="Bạn sẽ nắm được thở dễ dàng hơn khi không nhìn vào nó."/>
+                <tip3 _0="Có vẻ như cậu đang gặp rắc rối với Eyes..." _1="Hãy đảm bảo là cậu luôn nhắm mắt lại." _2="Nhắm rồi mở mắt thật nhanh cũng có tác dụng."/>
+            </eyes>
+            <figure type="mẹo">
+                <tip1 _0="Bạn đã chết bởi kẻ mà bạn gọi là Figure..." _1="Nó không thể nhìn, nhưng sẽ lợi dụng âm thanh và rung động để săn mồi." _2="Hãy chắc chắn rằng bạn tập trung vào nhịp tim của mình."/>
+                <tip2 _0="Bạn lại chết bởi Figure..." _1="Nó có thể mù, nhưng các giác quan khác của nó vượt xa bạn." _2="Chỉ một nhịp tim lệch thôi là bạn xong đời!"/>
+                <tip3 _0="Bạn lại chết bởi Figure nữa." _1="Tôi sẽ giúp bạn với những nốt chỉ dẫn." _2="Kiểm soát nhịp tim của bạn là điều rất quan trọng, có khi quan trọng hơn cả việc theo kịp nhịp điệu."/>
+            </figure>
+            <glitch type="mẹo">
+                <tip1 _0="Thật kỳ lạ. Mình không biết được bạn đã chết bởi cái gì." _1="Tuy nhiên, Tôi nhận thấy là bạn đã bị bỏ lại sau người mà bạn yêu quý." _2="Hãy ở gần với nhau đi!"/>
+                <tip2 _0="Lạ thật đó. Mình không biết được bạn đã chết bởi cái gì." _1="Tuy nhiên, mình nhận thấy là bạn đã bị bỏ lại sau người mà bạn yêu quý." _2="Chắc phải có lối thoát khác ra khỏi sảnh này."/>
+                <tip3 _0="Thật kỳ lạ. Mình không biết được bạn đã chết bởi cái gì." _1="Tuy nhiên, Tôi nhận thấy là bạn đã bị bỏ lại sau người mà bạn yêu quý." _2="Hãy thử cái cửa sau bên ngoài để thoát ra!"/>
+            </glitch>
+            <halt type="mẹo">
+                <tip1 _0="Bạn đã chết bởi kẻ mà bạn gọi là Halt..." _1="Bạn phải chạy khỏi nó!" _2="Tuy nhiên, nó có thể xuất hiện trước mặt bạn bất cứ lúc nào..."/>
+                <tip2 _0="Bạn đã chết bởi Halt lần nữa..." _1="Khi bạn chạy, nó có thể xuất hiện trước mặt bạn bất cứ lúc nào." _2="Khi điều đó xảy ra, hãy quay đầu và tiếp tục chạy!"/>
+                <tip3 _0="Có vẻ như bạn đang gặp vấn đề với Halt..." _1="Khi nó dịch chuyển, nó sẽ làm nhiễu tầm nhìn của bạn." _2="Cố mà lường trước thời điểm nó dịch chuyển!"/>
+            </halt>
+            <rush type="mẹo">
+                <tip1 _0="Bạn đã chết bởi Rush..." _1="Hãy chú ý đến bất kỳ dấu hiệu nào có thể báo hiệu sự xuất hiện của nó." _2="Nó cũng phát ra âm thanh khi đến gần."/>
+                <tip2 _0="Bạn đã chết bởi Rush lần nữa..." _1="Hãy chú ý đến ánh sáng." _2="Chúng có liên quan đến sự xuất hiện của nó."/>
+                <tip3 _0="Có vẻ như bạn đang gặp rắc rối với Rush..." _1="Đèn sẽ luôn nhấp nháy khi ở gần." _2="Bất cứ khi nào điều này xảy ra, hãy tìm chỗ trốn!"/>
+            </rush>
+            <screech type="mẹo">
+                <tip1 _0="Bạn đã chết bởi Screech..." _1="Nó thích trốn trong những căn phòng tối." _2="Nếu bạn nghi ngờ nó đang ở gần, hãy chú ý quan sát."/>
+                <tip2 _0="Bạn đã chết bởi Screech lần nữa..." _1="Nó trốn trong những căn phòng tối." _2="Nó sẽ gần như không bao giờ tấn công bạn nếu bạn đang cầm nguồn sáng."/>
+                <tip3 _0="Có vẻ như bạn đang gặp rắc rối với Screech..." _1="Khi hát đối đầu với nó, tầm nhìn của bạn sẽ bị tối đi." _2="Để ngăn điều đó, hãy cố gắng tìm nguồn sáng!"/>
+            </screech>
+            <seek type="mẹo">
+                <tip1 _0="Có vẻ như bạn bị lạc và đã chết bởi Seek..." _1="Hãy tập trung vào giai điệu." _2="It may be hard to follow the rhythm while running, but you can do it!"/>
+                <tip2 _0="Bạn đã chết bởi Seek lần nữa..." _1="Khi nó hét lên, nó có thể làm bạn mất ổn định." _2="Đừng để nó có lợi thế từ bạn."/>
+                <tip3 _0="Bạn sắp làm được rồi!" _1="Đừng lãng phí thời gian." _2="Bạn sẽ cần tất cả!"/>
+            </seek>
+            <dupe type="mẹo">
+                <tip1 _0="Bạn đã chết bởi Dupe..." _1="Nó tạo ra cánh cửa giả." _2="Hãy chắc chắn chọn những cánh cửa có màu sắc đồng nhất."/>
+                <tip2 _0="Bạn đã chết bởi Dupe lần nữa..." _1="Nó tạo ra cánh cửa giả nhưng không thực sự hiệu quả." _2="Hãy nhớ rằng bạn không bao giờ có thể quay lại."/>
+                <tip3 _0="Có vẻ như bạn đang gặp rắc rối với Dupe..." _1="Khi gặp 2 cánh cửa, hãy đảm bảo chọn cánh cửa thống nhất." _2="Nếu một cánh cửa khiến bạn phải lùi lại thì có thể bên trong đó có Dupe."/>
+            </dupe>
+            <shadow type="mẹo">
+                <tip1 _0="You died to who you call Shadow..." _1="It appears in front of you and drains your life energy." _2="I believe you can make it flee."/>
+                <tip2 _0="You died to Shadow again..." _1="It slowly depletes your life energy if it remains for too long." _2="Maybe ask it to leave? Poke it until it leaves?"/>
+                <tip3 _0="It seems you are having trouble with Shadow..." _1="Try clicking on it until it disappears." _2="Remember, click on it as much as possible until it disappears."/>
+            </shadow>
+            <hide type="mẹo">
+                <tip1 _0="You died to who you call Hide..." _1="It seems to appear when you stay inside closets." _2="I believe exiting the closet will help you."/>
+                <tip2 _0="You died to Hide again..." _1="It seems to appear when you stay inside closets." _2="Avoid staying too long inside closets."/>
+                <tip3 _0="It seems you are having trouble with Hide..." _1="Try exiting the closets when hearing the whispers." _2="You may need to exit and enter back into closets."/>
+            </hide>
+            <void type="mẹo">
+                <tip1 _0="Bạn đã chết bởi sinh vật tên là Void..." _1="Its always creeping up ever-so-slightly behind you." _2="Avoid letting it catch you!"/>
+                <tip2 _0="You died to Void again..." _1="It seems to appear when you spend too long idling." _2="Avoid letting it catch up!."/>
+                <tip3 _0="It seems you are having trouble with Void..." _1="Try leaving the room when you start losing consciousness." _2="He'll leave you alone if you move away."/>
+            </void>
+            <generalTip _0="It seems you couldn't follow the rhythm..." _1="Make sure to hit the notes at the right time!" _2="I'll help you with guiding notes."/>
+            <lastLife _0="Hmm..." _1="It seems another one has fallen..." _2="Say Hi to Bob for me, will you?"/>
+        </tips>
+        <reviveWarning value="You have {0} revives left."/>
+    </death>
+    <placeholder value="Người giữ chỗ"/>
+    <credit>
+        <artist value="Họa Sĩ"/>
+        <artists value="Họa Sĩ"/>
+        <musician value="Nhạc Sĩ"/>
+        <musicians value="Nhạc Sĩ"/>
+        <chart value="Biểu Đồ"/>
+        <ez value="Khoan dung"/>
+        <normal value="Tiêu chuẩn"/>
+        <hard value="Chuyên gia"/>
+        <hell value="Địa Ngục"/>
+    </credit>
+    <newCredit>
+        <art value="Tranh"/>
+        <music value="Nhạc"/>
+        <chart value="Biểu đồ"/>
+    </newCredit>
+    <options>
+        <disabled value="TẮT"/>
+        <enabled value="BẬT"/>
+        <main>
+            <!-- Try to keep these short -->
+            <language value="Ngôn Ngữ"/>
+            <glasshat value="Glasshat"/> <!-- Don't translate this one -->
+            <controls value="Điều khiển"/>
+            <graphics value="Đồ Họa"/>
+            <visuals value="Hình ảnh"/>
+            <gameplay value="Lối Chơi"/>
+        </main>
+        <visuals>
+            <notesplash name="Nốt Splashes" desc="Nếu không được chọn, việc nhấn vào các nốt &quot;&quot;Sick!&quot;&quot; sẽ không hiển thị các hạt."/>
+            <notesplashAlpha name="Độ mờ của Splash" desc="Số càng cao thì Nốt Splash sẽ hiễn thị rõ ràng hơn."/>
+            <hidehud name="Ẩn HUD" desc="Nếu được chọn, ẩn hầu hết các thuộc tính trên HUD."/>
+            <timebar name="Thanh Thời Gian:" desc="Thanh thời gian sẽ hiển thị những gì?"/>
+            <flashinglights name="Ánh sáng nhấp nháy" desc="Bỏ chọn mục này nếu bạn nhạy cảm với ánh sáng nhấp nháy!"/>
+            <camerazooms name="Camera Phóng to" desc="Nếu không được chọn, camera sẽ không phóng to vào một nhịp đập."/>
+            <camerafollow name="Camera Theo Dõi" desc="Nếu không được chọn, camera sẽ không theo dõi khi bạn nhấn một nốt nhạc."/>
+            <cameraangle name="Góc máy ảnh" desc="Nếu không được chọn, máy ảnh sẽ không xoay khi bạn nhấn trái hoặc phải."/>
+            <healthslide name="Thanh trượt thanh máu" desc="Nếu được chọn, thanh máu sẽ biến mất khi máu đầy và xuất hiện trở lại khi bạn chết."/>
+            <healthicons name="Biểu tượng Nhân Vật trên thanh máu" desc="Nếu được bật, các biểu tượng sẽ được đặt trên thanh máu thay vì ở bên cạnh (&quot;Vanilla&quot; hoặc &quot;Ourple Guy Style&quot;)."/>
+            <scoretxtzoom name="Điểm số Phóng to khi nhấn" desc="Nếu bỏ chọn, chức năng phóng to (Điểm số) sẽ bị vô hiệu hóa mỗi khi bạn nhấn một nốt nhạc."/>
+            <fpscounter name="Bộ đếm FPS" desc="Nếu không được chọn, bộ đếm FPS sẽ ẩn."/>
+            <specificOptions>
+                <timebar _0="Thời gian còn lại" _1="Thời gian trôi qua" _2="Tên Bài Hát" _3="Tên + Thời Gian" _4="Tắt"/>
+            </specificOptions>
+        </visuals>
+        <language>
+            <language name="Ngôn Ngữ" desc="Thay đổi ngôn ngữ của trò chơi!"/>
+            <helpOut name="Help us out!" desc="You can participate freely to translation by contacting FNF Doors Translation Team."/>
+            <finished value="Hoàn thiện"/>
+            <proofread value="Proofread"/>
+            <help value="You can help by clicking the button above."/>
+            <infoText value="The translation {0} is :\n {1}% Finished\n{2}% Proofread\nYou can help by clicking the button above."/>
+        </language>
+        <graphics>
+            <lowquality name="Chất lượng thấp" desc="Nếu được chọn, sẽ vô hiệu hóa một số chi tiết nền, giảm thời gian tải và cải thiện hiệu suất."/>
+            <antialiasing name="Chống răng cưa" desc="Nếu không được chọn, sẽ vô hiệu hóa chức năng khử răng cưa, tăng hiệu suất nhưng sẽ làm giảm độ sắc nét của hình ảnh."/>
+            <shaders name="Shaders" desc="Nếu không được chọn, sẽ tắt shaders. Nó được sử dụng cho một số hiệu ứng hình ảnh và cũng cần nhiều CPU cho các PC yếu hơn."/>
+            <framerate name="Tốc Độ Khung Hình" desc="Khá dễ hiểu phải không?"/>
+            <colorblind name="Fliter Mù Màu" desc="Bạn có thể đặt bộ lọc mù màu (làm cho trò chơi dễ chơi hơn đối với người mù màu)"/>
+            <filmgrain name="Hiệu ứng Phim Ảnh" desc="Thêm Hiệu Ứng Phim Ảnh Vào Chế Độ Cốt Truyện"/>
+            <gpucache name="Bộ nhớ đệm GPU" desc="Nếu được chọn, cho phép sử dụng GPU để lưu kết cấu vào bộ nhớ đệm, giảm mức sử dụng RAM."/>
+            <specificOptions>
+                <colorblind _0="Không có gì" _1="Deuteranopia" _2="Protanopia" _3="Tritanopia"/>
+            </specificOptions>
+        </graphics>
+        <gameplay>
+            <controller name="Chế Độ Điều Khiển" desc="Check this if you want to play with a controller instead of using your Keyboard."/>
+            <midscroll name="Cuộn Giữa" desc="Nếu được chọn, nốt của bạn sẽ được căn giữa."/>
+            <downscroll name="Cuộn Dưới" desc="Nếu được chọn, nốt sẽ đi xuống thay vì lên, quá đơn giản."/>
+            <oppnotes name="Nốt Đối Thủ" desc="Nếu không được chọn, nốt của đối thủ sẽ bị ẩn."/>
+            <ghosttap name="Ghost Tapping" desc="Nếu được chọn, bạn sẽ không bị hụt lần nhấn phím trong khi không có nốt nào có thể nhấn được."/>
+            <disablereset name="Tắt nút đặt lại" desc="Nếu được chọn, nhấn Reset sẽ không làm gì cả."/>
+            <strumlineBackgroundOpacity name="Strumline Background" desc="Cài nền đen sau mũi tên của bạn, giúp bạn nhìn rõ hơn."/>
+            <hitsound name="Âm lượng Âm Thanh khi nhấn nốt" desc="Những nốt buồn cười đó có &quot;Tick&quot; khi bạn nhấn chúng."/>
+            <ratingoffset name="Độ trễ Đánh Giá" desc="Thay đổi thời điểm bạn phải đánh trễ/sớm để có giá trị &quot;Sick&quot;Cao hơn nghĩa là bạn phải nhấn trễ hơn."/>
+        </gameplay>
+        <controls>
+            <default value="Đặt lại về phím mặc định"/>
+            <notes>
+                <globalname value="--- NỐT ---"/>
+                <note_left value="Trái"/>
+                <note_down value="Xuống"/>
+                <note_up value="Lên"/>
+                <note_right value="Phải"/>
+            </notes>
+            <heartbeat>
+                <globalname value="--- NHỊP TIM ---"/>
+                <heartbeat_left value="Trái"/>
+                <heartbeat_right value="Phải"/>
+            </heartbeat>
+            <items>
+                <globalname value="--- VẬT PHẨM ---"/>
+                <item1 value="Vật phẩm 1"/>
+                <item2 value="Vật phẩm 2"/>
+                <item3 value="Vật phẩm 3"/>
+                <item4 value="Vật phẩm 4"/>
+                <item5 value="Vật phẩm 5"/>
+                <item6 value="Vật phẩm 6"/>
+            </items>
+            <ui>
+                <globalname value="--- UI ---"/>
+                <reset value="Cài lại"/>
+                <accept value="Đồng ý"/>
+                <back value="Trở về"/>
+                <pause value="Dừng lại"/>
+            </ui>
+            <volume>
+                <globalname value="--- ÂM THANH ---"/>
+                <volume_mute value="Tắt Tiếng"/>
+                <volume_up value="Lên"/>
+                <volume_down value="Xuống"/>
+            </volume>
+            <debug>
+                <globalname value="--- GỠ LỖI ---"/>
+                <debug_1 value="Phím 1"/>
+                <debug_2 value="Phím 2"/>
+            </debug>
+        </controls>
+    </options>
+    <items>
+        <test name="Đối tượng thử nghiệm" desc="Bạn lấy cái này bằng cách nào?" plural="F"/>
+        <lighter name="Bật Lửa" desc="Makes it easier to see in dark places. May even allow you to see other paths." plural="F"/>
+        <flashlight name="Đèn pin" desc="Turns a dark room into a lit-up room!" plural="F"/>
+        <crucifix name="Thánh giá" desc="You may find a use for this at death's door." plural="F"/>
+        <vitamins name="Vitamins" desc="It says on the label: &quot;Lose Less, Gain More!&quot;" plural="T"/>
+        <candle name="Nến" desc="Lighting this candle may help you sing better." plural="F"/>
+        <bandages name="Bandage" desc="Stops any kind of damage, until it peels off." plural="F"/>
+        <error name="vậtphảm.khôngtìm thấy.Lỗi.NaN" desc="Nhắc bạn nhớ đến một người thân..." plural="F"/>
+        <skeleKey name="Chìa khóa đầu lâu" desc="Có thể mở một cánh cửa... Đó có là giá trị của chìa khóa, đúng không?" plural="F"/>
+        <soldout value="Bán hết!"/>
+
+        <messages>
+            <storyVitamins value="This would only be useful when you're in danger..."/>
+        </messages>
+    </items>
+    <mechanics>
+        <halt>
+            <bg value="QUAY LẠI"/>
+            <title value="CƠ CHẾ CỦA HALT"/>
+            <major value="Đừng chạm vào biểu tượng nhân vật của Halt."/>
+            <minor value="Nhấn [{0}] sẽ di chuyển bạn sang phải.\nNhấn nốt sẽ di chuyển bạn sang trái."/>
+        </halt>
+        <eyes>
+            <bg value="ĐỪNG NHÌN"/>
+            <title value="CƠ KHÍ CỦA MẮT"/>
+            <major value="ĐỪNG NHÌN."/>
+            <minor value="Nhấn [{0}] sẽ khiến Boyfriend nhắm mắt lại và ngăn ngừa bị mất máu.\nVà sẽ ngày càng khó để nhìn thấy các nốt nhạc nếu bạn nhắm mắt trong thời gian dài."/>
+        </eyes>
+        <figure>
+            <bg value="KHÔNG ĐƯỢC PHÁT RA ÂM THANH"/>
+            <title value="CƠ CHẾ CỦA FIGURE'S"/>
+            <major value="CHÚ Ý NHỊP TIM CỦA BẠN."/>
+            <minor value="Bằng cách nhấn [{0}] và [{1}], hãy khớp nhịp tim của bạn với NỐT TRÁI TIM xuất hiện trên màn hình.\nNếu thiếu sẽ bị phạt nặng."/>
+        </figure>
+        <popups>
+            <snare>
+                <major value="+ SNARE"/>
+                <minor value="Hãy để ý thanh máu!"/>
+            </snare>
+        </popups>
+    </mechanics>
+    <states>
+        <pause>
+            <warning value="Làm như vậy sẽ khiến bạn mất một lần hồi sinh!\nBạn có chắc chắn muốn tiếp tục không?"/>
+            <warningtwo value="You have no revives left!\nDoing this will automatically make you lose your progress.\nAre you sure this is worth it ?"/>
+            <yes value="Có"/>
+            <no value="Không"/>
+        </pause>
+        <mainmenu>
+            <sm value="CHẾ ĐỘ CỐT TRUYỆN"/>
+            <gal value="TÁC PHẨM TRƯNG BÀY"/>
+            <cred value="CREDITS"/>
+            <free value="CHƠI TỰ DO"/>
+            <ach value="THÀNH TỰU"/>
+            <sett value="CÀI ĐẶT"/>
+            <tip value="TỪ THIỆN"/>
+        </mainmenu>
+        <credits>
+            <owner value="Chủ Sỡ Hữu"/>
+            <director value="Đạo Diễn"/>
+            <lead value="Chỉ Huy"/>
+            <artist value="Họa sĩ"/>
+            <animator value="Người làm hoạt hình"/>
+            <chrom value="Người làm giọng nhân vật"/>
+            <music value="Nhạc sĩ"/>
+            <chart value="Người làm biểu đồ"/>
+            <code value="Lập Trình Viên"/>
+            <guest value="Khách"/>
+            <former value="Cựu họa sĩ"/>
+        </credits>
+        <flashing>
+            <warn value="Này, cẩn thận!\nBản mod này có chứa một số hình ảnh ánh sáng nhấp nháy!\nHiện tại không có cách nào để xóa chúng!!!\nHãy cẩn thận khi chơi bản bổ sung này !!!!\màn hình này chỉ hiển thị một lần.\Bạn đã được cảnh báo!"/>
+        </flashing>
+        <freeplay>
+            <unlock value=""/>
+            <or value="HOẶC"/>
+            <instructions value="Nhấn TRÁI hoặc PHẢI để thay đổi danh mục | Nhấn ENTER để chọn bài hát."/>
+            <subinstructions value="'Nhấn {0} hoặc {1} để tiếp tục.\nNhấn {2} hoặc {3} để thoát.'"/>
+            <categories>
+                <start value="First Steps - Boyfriend &amp; Guiding Light"/>
+                <rush value="Unleashed Stampede - Rush"/>
+                <screech value="Hiss in the Shadows - Screech"/>
+                <ambush value="Restless Echo - Ambush"/>
+                <eyes value="Gaze into Madness - Eyes"/>
+                <halt value="Corridor Phantom - Halt"/>
+                <timothy value="Eight-Legged Surprise - Timothy"/>
+                <jack value="Closet Guardian - Jack"/>
+                <shop value="Shop Düdz - Bob, Jeff &amp; Goblino"/>
+                <seek value="Devil's Chase - Seek"/>
+                <figure value="Blind Hunt - Figure"/>
+                <glitch value="Reality Broken - Glitch"/>
+                <freeplay value="Extras"/>
+
+                <!-- WIP CATEGORIES -->
+                <dupe value="Memory Game - Dupe"/>
+            </categories>
+        </freeplay>
+        <newFreeplay>
+            <length value="Độ dài bài hát"/>
+            <diff value="Độ Khó"/>
+            <mdiff value="Độ Khó"/> <!-- This corresponds to the mechanic difficulty -->
+        </newFreeplay>
+        <gallery>
+            <!-- Heavily unfinished, we'll have to finish up the gallery before you can translate it -->
+        </gallery>
+        <title>
+            <glasshatTxt value="WITH LOVE, BY GLASSHAT STUDIOS &amp; FRIENDS"/>
+            <haxeflixelTxt value="BUILT WITH HAXEFLIXEL"/>
+            <love value="A LOVE LETTER TO\nDOORS\nAND\nFRIDAY NIGHT FUNKIN'"/>
+        </title>
+    </states>
+    <leaderboards>
+        <glasshat value="TÊN MŨ THỦY TINH"/>
+        <score value="ĐIỂM"/>
+        <acc value="ĐỘ CHÍNH XÁC"/>
+        <miss value="HỤT"/>
+        <modf value="MODS"/>
+    </leaderboards>
+    <story>
+        <reset value="Nhấn R để thiết lập lại tiến trình cửa hiện tại của bạn."/>
+        <results>
+            <tbc value="Cuối cùng đã Thoát ra...?"/>
+            <died value="Game Over"/>
+            <runScore value="Điểm : "/>
+            <runRating value="Độ chính xác : "/>
+            <runMiss value="Hụt : "/>
+            <runMods value="File Mod đang sử dụng : "/>
+            <runTime value="Thời gian chơi : "/>
+            <runSongs value="Hostile Entities Encountered : "/>
+            <newBest value="New Best!"/>
+        </results>
+        <itemget>
+            <singular value="Bạn đã nhận được {0} !"/>
+            <multiple value="Bạn đã có {0} !"/>
+            <warn value="Hãy nhớ rằng bạn không thể có nhiều hơn 6 vật phẩm cùng một lúc!"/>
+        </itemget>
+        <runstats>
+            <diff value="Độ Khó"/>
+            <timePlayed value="Thời gian chơi"/>
+            <currentDoor value="Cửa hiện tại"/>
+            <noSongs value="Hiện tại bạn chưa chơi bất kì bài hát nào!"/>
+        </runstats>
+        <paintings>
+            <left>
+                <Icydrip value="Cirno???"/>
+                <Kal value="Một người ngoài hành tinh &quot;thư giãn&quot;."/>
+                <Yosi value="Tôi ước gì mình có thể tuyệt vời như anh ấy."/>
+                <Murder value="Họ đã cố gắng hợp tác sáng tác một bài hát."/>
+                <Tibu value="Một lập trình viên được phát hiện ở nơi hoang dã."/>
+                <Halt value="This painting is titled &quot;Ghost Remnant&quot;."/>
+                <Morph value="This painting doesn't seem to have a title..."/>
+                <Overhead value="This painting is titled &quot;Overhead!&quot;."/>
+
+                <Plant value="This painting is titled &quot;Orchidaceae&quot;."/>
+                <Troll value="This painting is titled &quot;Emotional Man&quot;."/>
+                <YellowCreature value="This painting is titled &quot;Electrical&quot;."/>
+
+            </left>
+            <right>
+                <Catimbas value="This painting is titled &quot;Autoportrait of Catimbas&quot;."/>
+                <Leetram value="Tôi nhớ chiếc mũ này!"/>
+                <Rochi value="This painting is titled &quot;Rochi&quot;."/>
+                <Peak value="Một gia đình nhạc sĩ hạnh phúc."/>
+                <Waleter value="Nhắc tôi nhớ đến Pico."/>
+                <Quarters value="This painting is titled &quot;Quarters&quot;."/>
+                <Ribbons value="This painting is titled &quot;Ribbons&quot;."/>
+                <RushingOld value="This painting is titled &quot;Smile Remnant&quot;."/>
+                <SmallSpider value="This painting is titled &quot;Web Remnant&quot;."/>
+
+                <BrownImpostor value="This painting is titled &quot;Final Encounter&quot;."/>
+                <Door value="This painting is titled &quot;Door&quot;."/>
+                <Hole value="This painting is titled &quot;Imperfection&quot;."/>
+                <TheNether value="This painting is titled &quot;Witness&quot;."/>
+            </right>
+            <ML>
+                <DeepEnd value="This painting is titled &quot;Deep End&quot;."/>
+                <Stargazer value="This painting is titled &quot;Stargazer&quot;."/>
+                <ChemicalAndMerritz value="Looks like whoever made the paintings honored those who are not still with us."/>
+                <WeirdScreechThingy value="This painting is titled &quot;Knockoff&quot;."/> 
+            </ML>
+            <MR>
+                <Marshmallows value="This painting is titled &quot;Marshmallows&quot;."/>
+                <SpookyScary value="This painting is titled &quot;Spooky, Scary&quot;."/>
+                <BlueandPuritzle value="This painting is titled &quot;Portrait of a Portrait of a Portrait&quot;."/> 
+                <FlintAndSteel value="This painting is titled &quot;Flint N Steel in a snowstorm&quot;."/> 
+            </MR>
+            <SL>
+                <Psst value="This painting is titled &quot;Psst...&quot;"/>
+                <Baller value="This painting is titled &quot;Baller&quot;."/>
+                <haircut value="This painting is titled &quot;Haircut&quot;."/> 
+                <PurpleandCallu value="This painting is titled &quot;Reconciliation&quot;."/> 
+            </SL>
+            <SR>
+                <Loser value="This painting is titled &quot;Loser&quot;."/>
+                <Friend value="This painting is titled &quot;47th Friend&quot;."/>
+                <HotLemon value="This painting is titled &quot;Lemon in a Hot Dog bun&quot;."/> 
+                <RipsyAndZestik value="This painting is titled &quot;The haunted one&quot;."/> 
+            </SR>
+        </paintings>
+        <tutorial value="Hello Visitor! Progression is made by going through the many doors you may find. You may want to try using your mouse to explore your surroundings, and interact with the furniture and objects. These can help you survive in this hotel, by giving you money, or usable items. Your goal is to make it to door 100 alive."/>
+        <interactions>
+            <books value="Some old books about {0}"/>
+            <closetClosed value="This closet cannot be opened..."/>
+            <guidancePlayed value="Singing the same thing twice wouldn't be interesting."/>
+            <darkSight value="It's difficult seeing in the dark."/>
+            <doorClosed value="This door cannot be accessed."/>
+            <entityClosed value="Something is preventing you from accessing this door."/>
+            <entityLongClosed value="Something is preventing you from progressing further."/>
+            <entityFurClosed value="Something is preventing you from interacting with this."/>
+        </interactions>
+    </story>
+    <achievements>
+        <menu value="ACHIEVEMENTS"/>
+        <anyoneHome name="Anyone Home?" desc="Ring the bell in the lobby."/>
+        <rushFind name="Nhấp nháy" desc="Tìm Rush."/>
+        <screechFind name="Tắt Đèn" desc="Tìm Screech."/>
+        <eyesFind name="Luôn Theo Dõi" desc="Tìm Eyes."/>
+        <ambushFind name="Nhấp nháy... Lần nữa?" desc="Tìm Ambush."/>
+        <timothyFind name="Kẻ thù nhiều chân!" desc="Tìm Timothy."/>
+        <glitchFind name="Bỏ Lại Phía Sau" desc="Hãy nhớ bạn đã để ai ở lại sảnh."/>
+        <jackFind name="Anh ta đang ở trong cái tủ chết tiệt đó!" desc="Tìm Jack."/>
+        <haltFind name="Quay lại và tiến tới" desc="Tìm Halt."/>
+        <figureFind name="Shhhh..." desc="Tìm Figure."/>
+        <seekFind name="Cuộc truy đuổi của quỷ dữ" desc="Tìm Seek."/>
+        <absoluteFailure name="Thất bại tuyệt đối" desc="Có đầy đủ trang bị nhưng vẫn chết."/>
+        <fuckScreech name="Bị Mặt Trời làm cho mù mắt" desc="Thắp sáng một căn phòng."/>
+        <burnTheHotel name="Đốt cháy khách sạn" desc="Sử dụng 2 chiếc bật lửa trong cùng một phòng."/>
+        <seeingDouble name="Nhìn thấy đôi" desc="Có 2 thực thể xuất hiện cùng lúc ở chế độ câu chuyện trong cùng một phòng."/>
+        <comboNotFound name="Combo Không tìm thấy!" desc="Finish &quot;404&quot; with at least 404 combo."/>
+        <youreSlow name="Step by Step" desc="Always pick the smallest of 2 Doors."/>
+        <youreFast name="Following your Dreams" desc="Always pick the biggest of 2 Doors."/>
+        <youWin name="Cuối cùng đã Thoát ra...?" desc="Kết thúc trò chơi."/>
+        <youWinHard name="Đáy Vực Thẳm" desc="Hoàn thành trò chơi ở mức độ khó."/>
+        <thatsEasy name="Đúng là dễ thật đấy." desc="Hoàn thành trò chơi mà không hụt một lần nào."/>
+        <onTheEdge name="Trên bờ vực" desc="Ở gần Halt trong 20 giây"/>
+        <neverTripped name="Không bao giờ vấp ngã" desc="Hoàn thành tất cả các bài hát Seek với độ chính xác hơn 95%"/>
+        <cardiacArrest name="Máy tạo nhịp tim" desc="Không bao giờ ấn hụt nhịp tim."/>
+        <drippedOut name="Nhỏ giọt ra" desc="FC Drip và Drip Hell."/>
+        <RNJesus name="Được ưa chuộng bởi RNGesus" desc="Tìm Jack. Hai lần. Trong cùng một lần chạy."/>
+        <tissButAScratch name="Chỉ là một vết xước!" desc="Hoàn thành trò chơi mà không trượt bất kì nốt nhạc nào và đạt độ chính xác hơn 99,9%."/>
+        <completionist name="Completionist" desc="FC every song."/>
+        <hotelHell name="Khách sạn địa ngục" desc="Hoàn Thành trò chơi với nút điều chỉnh +150% (hoặc hơn)."/>
+        <donation name="Donation Goal!" desc="Donate 5 times to Jeff in Story Mode in the same run."/>
+        <voidFind name="It Stares Back" desc="Encounter the Void."/>
+        <rip name="RIP" desc="Lose all your revives."/>
+        <smallBusiness name="Supporting Small Businesses" desc="Buy an item from Jeff."/>
+        <crucifix name="Why Won't You Die?" desc="Use a crucifix."/>
+        <welcomeBack name="Welcome Back" desc="Play story mode a second time after winning."/>
+    </achievements>
+    <modifiers>
+        <easy name="Chế Độ Dễ" value="Ít nốt, cơ chế dễ hơn."/>
+        <hard name="Chế Độ Khó" value="Nhiều nốt hơn, cơ chế khó hơn."/>
+        <lessdark name="Bật Đèn" value="Phòng ít tối hơn nhiều."/>
+        <noflicker name="Công việc điện lực" value="Đèn sẽ không bao giờ nhấp nháy hoặc vỡ."/>
+        <moredark name="Công trình điện kém" value="Phòng tối hơn và đèn sẽ nhấp nháy hoặc bị hư nhiều hơn hơn."/>
+        <alldark name="Tắt Đèn" value="Tất cả các phòng không có bài hát đều là Phòng tối"/>
+        <moremoney name="El Goblino Đang Nghỉ Ngơi" value="Bạn sẽ tìm thấy nhiều vàng hơn trong quá trình chạy."/>
+        <lessmoney name="El Goblino đã ở đây" value="Bạn sẽ tìm thấy ít vàng hơn trong quá trình chạy."/>
+        <nomoney name="Ngày trả lương của El Goblino" value="Bạn sẽ không tìm thấy vàng trong quá trình chạy."/>
+        <moreitems name="Thêm nhiều thứ" value="Bạn sẽ tìm thấy nhiều vật phẩm hơn trong quá trình chạy."/>
+        <lessitems name="Ít đồ hơn" value="Bạn sẽ tìm thấy ít vật phẩm hơn trong quá trình chạy."/>
+        <noitems name="Hết hàng" value="Không tìm thấy vật phẩm nào trong lượt chạy của bạn."/>
+        <SPAMTON_G_SPAMTON name="Người làm giao dịch" value="Shop item prices are RANDOMIZED!"/>
+        <doublemaxhealth name="Vật thể bất động" value="Máu tối đa của bạn sẽ được tăng gấp đôi."/>
+        <aegis name="Lá chắn" value="Bạn có thể nhận được hồi máu quá mức, với mức máu tối đa là 200%. Hồi máu quá mức giảm dần theo thời gian."/>
+        <killer name="Bản năng sát thủ" value="Khi hụt, bạn sẽ nhận được thêm một lượng máu tạm thời trong 5 giây."/>
+        <halfmaxhealth name="Pháo Thủy Tinh" value="Máu tối đa của bạn giảm đi một nửa."/>
+        <halfhealth name="Vấp ngã" value="Khi bạn bắt đầu hầu hết các bài hát mức máu sẽ ở 50% hoặc thấp hơn."/>
+        <quarterhealth name="Vấp ngã và ngã" value="Khi bạn bắt đầu hầu hết các bài hát mức máu sẽ ở 25% hoặc thấp hơn."/>
+        <oneshot name="Hơi thở cuối" value="Khi hụt một nốt sẽ giết chết bạn ngay lập tức"/>
+        <perfect name="Sự hoàn hảo" value="Nhấn các nốt nhạc sick sẽ giúp bạn tăng gấp đôi máu, nhưng bạn không thể tăng máu nếu các nốt nhạc không phải là Sick."/>
+        <sweettooth name="Thích đồ ngọt" value="Combo của bạn càng lớn thì lượng máu mất đi khi hụt càng nhiều."/>
+        <lesssongs name="Thời Gian Tốt" value="Hầu hết các thực thể sẽ tấn công ít hơn."/>
+        <moresongs name="Thời gian tồi tệ" value="Hầu hết các thực thể sẽ tấn công nhiều hơn."/>
+        <repeat name="Lặp lại!" value="Cùng một bài hát có thể phát nhiều lần."/>
+        <hide name="Trong tủ quần áo" value="Thêm cơ chế mới. Spam dấu cách để tránh bị Hide đá ra (và chết)."/>
+        <screech_faster name="Nghĩ nhanh hơn" value="Tiếng hét sẽ làm bạn đau nhanh hơn."/>
+        <timothy_less name="Thuốc xịt côn trùng" value="Không thể tìm thấy Timothy trong ngăn kéo :("/>
+        <timothy_more name="Mồi Nhện" value="Timothy xuất hiện nhiều hơn :D"/>
+        <eyes_drainslower name="Mắt Lười" value="Mắt sẽ làm máu của bạn mất chậm hơn hơn."/>
+        <eyes_darkslow name="Tỉnh táo" value="Màn hình chuyển sang màu đen chậm hơn khi bạn nhắm mắt."/>
+        <eyes_drainfaster name="Ngay lập tức" value="Mắt sẽ làm máu của bạn mất nhanh hơn."/>
+        <eyes_darkfast name="Đi vào bóng tối" value="Màn hình sẽ chuyển sang màu đen nhanh hơn khi bạn nhắm mắt."/>
+        <eyes_fadingout name="Mờ dần" value="Màn hình càng tối đen thì lượng máu bạn nhận được càng nhiều."/>
+        <figure_easy name="Trái tim vàng" value="Việc mất đi một nhịp tim cũng làm bạn đau đớn như mất đi một nốt nhạc bình thường."/>
+        <figure_oneshot name="Cơn đau tim dữ dội" value="Mất một nhịp tim có thể giết chết bạn ngay lập tức."/>
+        <seek_slower name="Chạy bộ nhẹ nhàng" value="Seek sẽ làm máu của bạn tụt chậm hơn."/>
+        <seek_faster name="Chạy bộ nặng" value="Seek sẽ làm máu của bạn tụt nhanh hơn."/>
+        <seek_constant name="Tim mạch xấu" value="Bạn sẽ mất dần sức khỏe khi chạy trốn khỏi Seek."/>
+        <halt_early name="Bia mộ" value="Bạn sẽ được cảnh báo sớm hơn khi Halt đổi phe và làm bạn bị thương chậm hơn."/>
+        <halt_more name="Vòng xoay" value="Halt xuất hiện nhiều hơn và gây sát thương cho bạn nhanh hơn."/>
+        <halt_mirror name="Người đàn ông trong gương" value="Các nốt nhạc sẽ đổi mặt khi bạn đổi mặt."/>
+        <halt_slide name="Album Trắng" value="Halt không còn dịch chuyển tức thời khi đổi bên nữa, thay vào đó là trượt. Anh ta gây sát thương cho bạn khi trượt."/>
+        <jack_restart name="Nữa à?" value="Khi Jack ẩn nấp, thanh máu của bạn sẽ được thiết lập ở mức khi bài hát bắt đầu."/>
+        <glitch_segmentation name="Lỗi phân đoạn" value="Thanh máu của bạn sẽ bắt đầu trục trặc, vì vậy bạn không thể dựa vào nó để xem. Tương tự với thanh thời gian."/>
+        <glitch_corruption name="Tham nhũng" value="HUD của bạn đôi khi sẽ bị lỗi trong vài mili giây"/>
+        <shadow_remove name="Sáng suốt" value="Shadow không thể xuất hiện."/>
+        <shadow_harder name="Nhấp nhanh hơn!" value="Shadow sẽ khó loại bỏ hơn."/>
+        <shadow_more name="Tâm thần phân liệt" value="Shadow sẽ xuất hiện nhiều hơn."/>
+        <void_remove name="Chậm chạp" value="Void không thể xuất hiện."/>
+        <void_more name="Speedrunner" value="Void xuất hiện nhiều gấp đôi."/>
+        <fading name="Phai nhạt" value="Những nốt nhạc hiện lên rồi biến mất một cách chậm rãi."/>
+        <overdrive name="Tăng tốc" value="Thay đổi ngẫu nhiên tốc độ nốt và lượng máu tăng thêm trong khi hát."/>
+        <screech_darkness name="Bóng tối đích thực" value="Căn phòng sẽ còn tối hơn nữa và che mất nửa trên các nốt của bạn."/>
+        <superperfect name="Tất cả hoặc không có gì" value="Ấn được sick sẽ giúp bạn hồi phục máu, còn lại sẽ khiến bạn mất máu."/>
+        <modcharting name="NotFNF - Recommended" value="Nốt sẽ trở nên thú vị hơn!"/>
+        <snare_everywhere name="Hãy cẩn thận bước chân của bạn" value="Âm thanh snare xuất hiện trong mọi bài hát, như thể bạn đang ở trong nhà kính."/>
+        <botplay name="Trưng bày" value="Cho phép Botplay."/>
+        <practice name="Không thể giết được" value="Bật chế độ Thực hành."/>
+        <categories>
+            <easier value="Easier Modifiers"/>
+            <harder value="Harder Modifiers"/>
+            <story_mode value="Story Mode Modifiers"/>
+            <health value="Health Modifiers"/>
+            <notes value="Note Modifiers"/>
+            <rush value="Rush Modifiers"/>
+            <screech value="Screech Modifiers"/>
+            <timothy value="Timothy Modifiers"/>
+            <eyes value="Eyes Modifiers"/>
+            <figure value="Figure Modifiers"/>
+            <seek value="Seek Modifiers"/>
+            <halt value="Halt Modifiers"/>
+            <jack value="Jack Modifiers"/>
+            <glitch value="Glitch Modifiers"/>
+            <misc value="Misc Modifiers"/>
+        </categories>
+    </modifiers>
+
+    <lyrics>
+        <angry-spider>
+            <im_a_giant value="I'm a giant"/>
+            <ungoliant value="Ungoliant"/>
+            <a_shelob value="Một Shelob"/>
+            <an_aragog value="Một con Aragog"/>
+            <an_arukenimon value="An Arukenimon"/>
+            <and_i_wreck_anyone_i_can value="And I wreck Anyone I can"/>
+            <im_pog value="Tôi là Pog"/>
+            <a_self_propelling_hairy_hand value="Một bàn tay lông lá tự hành"/>
+            <with_eight_fingers value="Với tám ngón tay"/>
+            <wrapped_around_a_pair_of_scary_fangs value="Quấn quanh một cặp Nanh đáng sợ"/>
+            <ornate_pincers value="Kìm trang trí"/>
+        </angry-spider>
+    </lyrics>
+
+    <bobsBook>
+        <intro value="Hi, I’m Bob, I’m not going to spend my time writing about me and how I ended up here because that is not important right now, although I may add it once I’ve finished writing this book. I’m writing this about something else. About this “Hotel”, if you can even call it that.  I’m at least going to document everything I discover about this place. Maybe it can help someone else, or make me a lot of money once I sell this book!  I hope this helps. Turn back while you still can."/>
+
+        <hotel value="Có điều gì đó không ổn về khách sạn này. Tôi sẽ trình bày chi tiết những điều tôi tìm thấy ở đây và trong các trang sau. Cập nhật - Cửa 3: Có 2 cửa ở mỗi ngã tư, tất cả các phòng trông giống như những hành lang kỳ lạ. Tôi nghe thấy một số âm thanh kỳ lạ nhưng không có ai ở đó, tôi nghĩ mình ở một mình. Tôi hy vọng là vậy. Cập nhật - Cửa 9: Tôi không ở một mình. Cập nhật - Cửa 27: Có mắt trên tường, thậm chí trong các bức tranh. Tôi không muốn tiếp tục nữa. Cập nhật - Cửa 49: Phòng tiếp theo trông giống như một thư viện. Tôi có thể nghe thấy thứ gì đó đang gầm rú đằng sau cánh cửa chết tiệt đó."/>
+
+        <entities value="Those &quot;Entities&quot;... They aren’t like anything I’ve ever seen, not animals nor humans. I don’t even know if they are real or inside my head.  I’ll continue documenting my discoveries in this book. I’ll let you know, reader, what I encounter in future.."/>
+
+        <guidingLight value="Một thực thể có vẻ hữu ích. Nó có thể nói chuyện và đi cùng tôi khi tôi bị lạc đường. Nó có vẻ hiểu rõ hơn về môi trường tôi đang ở."/>
+
+        <hide value="This entity is a weird thing I noticed in the closets. I don't think it's a malignent conscious entity, but it's definitely weird. I decided to hide in one of the closets while I wrote this book, but my eyes started to hurt, and I got a strong headache, until I left the closet.  Update: I found a crucifix in a drawer and decided to open a closet, it instantly slammed shut. Don't know what that was all about."/>
+
+        <rush value="Holy fuck, that one is a conscious and malignent thing. It looks like a big flying head with dark smoke emitting from it. It seems to always smile, as far as I can tell at least. It’s hard to describe this one’s appearance because of how fast it moves, I tried to draw it the best I could. It can charge through doors. So hiding behind one won’t do you any good. I just think it patrols all the rooms though, it doesn’t look everywhere for prey. Definitely hostile, using the closets to hide has worked in ensuring my survival."/>
+
+        <screech value="Một thực thể nhỏ hơn những thực thể khác. Có vẻ như nó có xúc tu hoặc gai nhọn nào đó. Tôi chỉ gặp nó trong phòng tối, và luôn ám chỉ sự xuất hiện của nó bằng tiếng &quot;Psst&quot; trước khi tấn công. Nó sẽ luôn tấn công bạn ở điểm mù, rồi cắn. Tôi nhận ra nó khi nghe thấy tiếng &quot;Psst&quot; của nó và sau đó cảm thấy đau nhói ở chân trái, mừng là tôi đã tìm thấy một số băng gạc trước đó."/>
+
+        <ambush value="Very similar to Rush. It’s also a big flying head, although it emits a bright green glow instead of dark smoke. I would’ve said that Ambush is easier to avoid as its green glow gives you a lot more time to react, but I was quick to notice that instead of dashing forward once, it rebounds back and fourth. It’s constantly screeching when nearby so once it stops, you can tell that it’s safe to get out of your hiding spot."/>
+
+        <timothy value="Tôi không nghĩ nó có thể gây đau đớn nhiều như những thực thể khác, nó chỉ là một con nhện bình thường. Tôi nghĩ tôi sẽ đặt tên nó là Timothy, tôi đã nhìn thấy nó nhiều lần nên tôi cũng có thể dành một trang cho nó. Tôi luôn sợ khi nó nhảy từ ngăn kéo lên mặt tôi. Đôi khi nó cắn, nhưng tôi luôn thích nhện."/>
+
+        <seek value="Tôi đang viết những dòng này sau cú chạy nước rút lớn nhất trong cuộc đời mình. Tôi quay lại và thấy thực thể này đang đuổi theo tôi. Thực thể này chắc chắn có ý thức và thông minh. Nó có thể điều khiển chính khách sạn theo một cách nào đó, ví dụ như làm rơi đèn chùm từ trần nhà. Nếu bạn nhìn thấy nó, hãy chạy trốn cho đến khi bạn không còn nghe thấy tiếng bước chân lớn của nó nữa. Đừng để nó bắt được bạn trong bất kỳ hoàn cảnh nào, tôi không nghĩ là nó sẽ có kết cục tốt đẹp với bạn đâu."/>
+
+        <eyes value="This entity was really hard to draw, as I couldn’t directly stare at it. Eyes is a large purple light with a lot of eyes in the centre of it, 20~ish eyes maybe? Looking at it makes me feel like all my organs are shutting down, along with a massive headache. The best thing you can do would be closing your eyes, or looking in the opposite direction.  But as I always say, &quot;Heart, Liver, Lungs&quot; focus on yourself and you should be able to resist it for a few more seconds."/>
+
+        <figure value="Nó ở trong thư viện."/>
+    </bobsBook>
+
+    <loadingTips>
+        <title>
+            <lby value="Nhìn lại phía sau bạn"/>
+            <warn value="Cảnh báo!"/>
+            <dyu value="Bạn vừa làm uhhhh"/>
+            <dyk value="Bạn có biết?"/>
+            <ff value="Sự thật thú vị:"/>
+            <kyd value="Bạn có biết không?"/>
+            <ho value="Ý kiến ​​trung thực"/>
+            <pt value="Mẹo chuyên nghiệp:"/>
+        </title>
+        <text>
+            <lby value="Nhìn lại phía sau bạn"/>
+            <healthZero value="Nếu thanh máu của bạn xuống mức 0, bạn sẽ chết!"/>
+            <fig value="Hình vẫn là hình."/>
+            <shart value="Tôi đã sẩn.\nSẩn to"/>
+            <balls value="Hài dón của Bf hoạt động như hai trái cà của anh ấy"/>
+            <skibidi value="Screech có skibidi rizz"/>
+            <locker value="Hình có thể nhét vừa một tủ đồ của trường vào mông anh ta"/>
+            <no value="Không, tôi không làm vậy."/>
+            <didu value="Làm uhhhhhh"/>
+            <dark value="Bạn càng nhìn chằm chằm vào bóng tối, \nNó càng nhìn chằm chằm vào bạn."/>
+            <bf value="Trong FNF: Doors Mod có tên là FNF: Doors, có một nhân vật tên là bf, đó là vì bf"/>
+            <ah value="Screech là một thằng khốn nạn"/>
+            <gun value="Seek ban đầu định có một khẩu súng trong cây bạc hà mèo"/>
+            <maid value="Có một lần đã có một người hầu gái đã chứng kiến ​​tất cả.\nÁnh sáng đã dẫn đường cho họ đến nơi an toàn."/>
+            <burned value="Có vẻ như Seek không thích bị thiêu sống.\nWoops"/>
+            <the value="cái"/>
+            <shit value="Hình như Figure đang theo dõi bạn khi bạn ỉa"/>
+            <dik value="Tôi có biết không? Có ai biết không?"/>
+            <hymn value="Drip is the official hymn of Australia."/>
+            <none value=""/>
+            <mitosis value="Seek's eyes can commit mitosis.\nHowever this wasn't officially confirmed so fuck you."/>
+            <insane value="90% of this project's devs are insane and not mentally prepared to live in society"/>
+            <behind value="Behind you..."/>
+            <nini value="NiNi who is credited as Puppet Master has completed all of the Doors Achievements."/>
+            <ido value="I do."/>
+            <yosibu value="FNF : Doors Community Server users were all renamed to &quot;Yosibu&quot; when the demo released."/>
+            <yesterday value="Tôi biết bạn đã làm gì vào ngày hôm qua"/>
+            <vaporeon value="In terms of male human and female Pokémon breeding,\nVaporeon is the most compatible Pokémon"/>
+            <reset value="If you have combo over 50 press R for a free random item!"/>
+            <fatrush value="Fat Rush is not real."/>
+            <procrastinating value="I love procrastinating"/>
+            <plt value="Free Palestine"/>
+            <eyes value="You can't keep your eyes closed forever against Eyes!"/>
+            <halt value="Always keep a distance from Halt."/>
+            <heartbeat value="Always pay attention to your heartbeat against Figure."/>
+            <run value="Keep on running!"/>
+            <idle value="Don't stay idle too long!"/>
+            <lilguy value="I think a little guy wants to show you something.\nIn the pause menu perhaps?"/>
+            <crashout value="crash out"/>
+            <findTim value="Find Timothy by searching through drawers instead of doors."/>
+            <findJack value="Find Jack by searching through closets with a 1/200 chance per closet."/>
+            <stareRemake value="Stare was remade over 8 times."/>
+            <demo2release value="Demo 2 was originally an April fools update for 2024."/>
+            <rushscreechcommon value="Rush and Screech are the most common entities to find in story-mode."/>
+            <f1update value="F1 isn’t the last update!"/>
+            <searchDrawers value="Remember to search drawers for coins to buy items from Jeff’s Shop."/>
+            <threeYears value="FNF Doors, by the time of F1’s release has been in the making for 3 years."/>
+        </text>
+    </loadingTips>
+
+    <popups>
+        <titles>
+            <expertDiff value="Message from a friendly face"/>
+        </titles>
+        <messages>
+            <expertDiff value="Hey! I think you may struggle more than you expect by selecting Expert difficulty.\n\nTry completing Normal before venturing into harder difficulties."/>
+        </messages>
+        <leavePopup value="Press any key or click to continue."/>
+    </popups>
+</root>

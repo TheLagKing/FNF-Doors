@@ -1,0 +1,322 @@
+{
+    "difficulty": "easy",
+    "reviveAmount": 5,
+    "intervals": [1, 4],
+
+    "roomTypes": [
+        {
+            "name": "Normal",
+            "canSpawn": ["dupe", "screech", "shadow", "rush", "ambush"]
+        },
+        {
+            "name": "Hallway",
+            "canSpawn": ["screech", "shadow"]
+        }, 
+        {
+            "name": "Long",
+            "canSpawn": ["screech", "shadow", "rush"]
+        },
+        {
+            "name": "Greenhouse",
+            "canSpawn": ["shadow", "rush"]
+        }
+    ],
+
+    "puzzlePool": [
+        {
+            "name": "puzzle-paintings",
+            "spawnArgs": [
+                {
+                    "interval": [13, 44],
+                    "minimumPerInterval": 2,
+                    "additionalSpawnChance": 0.03
+                },
+                {
+                    "interval": [60, 86],
+                    "minimumPerInterval": 2,
+                    "additionalSpawnChance": 0.03
+                }
+            ]
+        },
+        {
+            "name": "dupe",
+            "spawnArgs": [
+                {
+                    "interval": [6, 47],
+                    "minimumPerInterval": 1,
+                    "additionalSpawnChance": 0.08
+                },
+                {
+                    "interval": [59, 87],
+                    "minimumPerInterval": 2,
+                    "additionalSpawnChance": 0.16
+                }
+            ]
+        },
+        {
+            "name": "shadow",
+            "spawnArgs": [2, "door", 0.02]
+        },
+        {
+            "name": "rush",
+            "spawnArgs": [
+                {
+                    "interval": [1, 99],
+                    "minimumPerInterval": 0,
+                    "additionalSpawnChance": 0.07
+                }
+            ]
+        },
+        {
+            "name": "ambush",
+            "spawnArgs": [
+                {
+                    "interval": [30, 89],
+                    "minimumPerInterval": 0,
+                    "additionalSpawnChance": 0.05
+                }
+            ]
+        }
+    ],
+
+	"itemValues": [
+        {
+            "name": "COMMON",
+            "weight": 14,
+            "items": ["bandages", "vitamins"]
+        },
+        {
+            "name": "UNCOMMON",
+            "weight": 8,
+            "items": ["lighter", "candle"]
+        },
+        {
+            "name": "RARE",
+            "weight": 4,
+            "items": ["flashlight"]
+        },
+        {
+            "name": "EPIC",
+            "weight": 2,
+            "items": ["error"]
+        },
+        {
+            "name": "LEGENDARY",
+            "weight": 1,
+            "items": ["crucifix"]
+        }
+    ],
+
+    "songPools": [
+        {
+            "doorInterval": [0, 20],
+            "entities": [
+                {
+                    "name": "none",
+                    "weight": 60,
+                    "songs": []
+                },
+                {
+                    "name": "rush",
+                    "weight": 10,
+                    "songs": ["demise"]
+                },
+                {
+                    "name": "screech",
+                    "weight": 10,
+                    "songs": ["annoyance"]
+                }
+            ]
+        },
+        {
+            "doorInterval": [20, 50],
+            "entities": [
+                {
+                    "name": "none",
+                    "weight": 60,
+                    "songs": []
+                },
+                {
+                    "name": "rush",
+                    "weight": 10,
+                    "songs": ["demise", "rushing"]
+                },
+                {
+                    "name": "screech",
+                    "weight": 10,
+                    "songs": ["annoyance", "shitstain"]
+                },
+                {
+                    "name": "eyes",
+                    "weight": 6,
+                    "songs": ["always-watching", "watch-out"]
+                },
+                {
+                    "name": "ambush",
+                    "weight": 6,
+                    "songs": ["recursion", "ambuscade", "ethereal"]
+                },
+                {
+                    "name": "halt",
+                    "weight": 0.9,
+                    "songs": ["halt"]
+                }
+            ]
+        },
+        {
+            "doorInterval": [50, 75],
+            "entities": [
+                {
+                    "name": "none",
+                    "weight": 65,
+                    "songs": []
+                },
+                {
+                    "name": "rush",
+                    "weight": 4,
+                    "songs": ["demise", "rushing", "coming-through"]
+                },
+                {
+                    "name": "screech",
+                    "weight": 4,
+                    "songs": ["annoyance", "darkness", "shitstain"]
+                },
+                {
+                    "name": "eyes",
+                    "weight": 9,
+                    "songs": ["stare", "always-watching", "watch-out"]
+                },
+                {
+                    "name": "ambush",
+                    "weight": 9,
+                    "songs": ["recursion", "rebound", "ambuscade", "ethereal"]
+                },
+                {
+                    "name": "halt",
+                    "weight": 5,
+                    "songs": ["halt", "onward"]
+                }
+            ]
+        },
+        {
+            "doorInterval": [75, 89],
+            "entities": [
+                {
+                    "name": "none",
+                    "weight": 60,
+                    "songs": []
+                },
+                {
+                    "name": "rush",
+                    "weight": 8,
+                    "songs": ["demise", "rushing", "coming-through"]
+                },
+                {
+                    "name": "screech",
+                    "weight": 8,
+                    "songs": ["annoyance", "darkness", "shitstain"]
+                },
+                {
+                    "name": "eyes",
+                    "weight": 10,
+                    "songs": ["stare", "always-watching", "watch-out"]
+                },
+                {
+                    "name": "ambush",
+                    "weight": 10,
+                    "songs": ["recursion", "rebound", "ambuscade", "ethereal"]
+                },
+                {
+                    "name": "halt",
+                    "weight": 7,
+                    "songs": ["halt", "onward"]
+                }
+            ]
+        },
+        {
+            "doorInterval": [90, 100],
+            "entities": [
+                {
+                    "name": "none",
+                    "weight": 40,
+                    "songs": []
+                },
+                {
+                    "name": "rush",
+                    "weight": 20,
+                    "songs": ["demise", "rushing", "flicker", "coming-through"]
+                },
+                {
+                    "name": "screech",
+                    "weight": 20,
+                    "songs": ["annoyance", "darkness", "shitstain", "stalker"]
+                },
+                {
+                    "name": "eyes",
+                    "weight": 20,
+                    "songs": ["stare", "always-watching", "watch-out", "eye-spy"]
+                }
+            ]
+        },
+        {
+            "doorInterval": "timothy",
+            "entities": [
+                {
+                    "name": "timothy",
+                    "weight": 1,
+                    "songs": ["drawer", "itzy-bitzy", "jumpscare", "kumo"]
+                }
+            ]
+        },
+        {
+            "doorInterval": "jack",
+            "entities": [
+                {
+                    "name": "jack",
+                    "weight": 1,
+                    "songs": ["invader"]
+                }
+            ]
+        },
+        {
+            "doorInterval": "seek1",
+            "entities": [
+                {
+                    "name": "seek",
+                    "weight": 1,
+                    "songs": ["encounter", "delve"]
+                }
+            ]
+        },
+        {
+            "doorInterval": "figure1",
+            "entities": [
+                {
+                    "name": "figure",
+                    "weight": 1,
+                    "songs": ["not-a-sound", "tranquil"]
+                }
+            ]
+        },
+        {
+            "doorInterval": "seek2",
+            "entities": [
+                {
+                    "name": "seek",
+                    "weight": 1,
+                    "songs": ["ready-or-not", "found-you"]
+                }
+            ]
+        },
+        {
+            "doorInterval": "figure2",
+            "entities": [
+                {
+                    "name": "figure",
+                    "weight": 1,
+                    "songs": ["imperceptible", "hyperacusis"]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "catName": "start",
+        "catFPS": 7,
+        "catSongs": ["starting-point", "guidance"],
+        "unlockCondition": "ALWAYS_UNLOCKED",
+        "tiedAchievement": "",
+        "knobCost": 50
+    },
+    {
+        "catName": "rush",
+        "catFPS": 7,
+        "catSongs": ["demise", "rushing", "coming-through", "flicker"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "rushFind",
+        "knobCost": 100
+    },
+    {
+        "catName": "screech",
+        "catFPS": 6,
+        "catSongs": ["annoyance", "shitstain", "darkness", "stalker"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "screechFind",
+        "knobCost": 100
+    },
+    {
+        "catName": "ambush",
+        "catFPS": 10,
+        "catSongs": ["ethereal", "recursion", "rebound", "ambuscade"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "ambushFind",
+        "knobCost": 100
+    },
+    {
+        "catName": "eyes",
+        "catFPS": 12,
+        "catSongs": ["stare", "always-watching", "watch-out", "eye-spy"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "eyesFind",
+        "knobCost": 100
+    },
+    {
+        "catName": "halt",
+        "catFPS": 8,
+        "catSongs": ["halt", "onward"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "haltFind",
+        "knobCost": 150
+    },
+    {
+        "catName": "timothy",
+        "catFPS": 7,
+        "catSongs": ["drawer", "itzy-bitzy", "jumpscare", "kumo"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "timothyFind",
+        "knobCost": 100
+    },
+    {
+        "catName": "jack",
+        "catFPS": 6,
+        "catSongs": ["invader"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "jackFind",
+        "knobCost": 150
+    },
+    {
+        "catName": "shop",
+        "catFPS": 7,
+        "catSongs": ["bargain", "dead-serious"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "donation",
+        "knobCost": 150
+    },
+    {
+        "catName": "seek",
+        "catFPS": 8,
+        "catSongs": ["encounter", "delve", "ready-or-not", "found-you"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "seekFind",
+        "knobCost": 200
+    },
+    {
+        "catName": "figure",
+        "catFPS": 12,
+        "catSongs": ["not-a-sound", "tranquil", "imperceptible", "hyperacusis", "depths-below"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "youWin",
+        "knobCost": 250
+    },
+    {
+        "catName": "glitch",
+        "catFPS": 8,
+        "catSongs": ["404", "left-behind"],
+        "unlockCondition": "KNOBS_ACHIEVEMENT",
+        "tiedAchievement": "glitchFind",
+        "knobCost": 300
+    },
+    {
+        "catName": "freeplay",
+        "catFPS": 3,
+        "catSongs": ["workloud", "angry-spider", "catnip", "mobile-gaming", "abnormality", "sencounter", "sweet-dreams"],
+        "unlockCondition": "KNOBS",
+        "tiedAchievement": "",
+        "knobCost": 300
+    },
+    {
+        "catName": "dupe",
+        "catFPS": 8,
+        "catSongs": [],
+        "unlockCondition": "WIP",
+        "tiedAchievement": "",
+        "knobCost": 9999999999
+    }
+]

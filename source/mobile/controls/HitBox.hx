@@ -1,4 +1,4 @@
-package funkin.mobile.controls;
+package mobile.controls;
 
 import flixel.FlxG;
 import flixel.group.FlxSpriteGroup;
